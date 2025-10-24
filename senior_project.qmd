@@ -1,0 +1,9 @@
+---
+title: "senior_project"
+format: pdf
+editor: visual
+---
+
+```{r}
+library(tidyverse)
+```
