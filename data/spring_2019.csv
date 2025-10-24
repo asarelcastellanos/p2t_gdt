@@ -1,0 +1,1986 @@
+Department,Subject,Course,Instructor,A,B,C,D,F,IP,IX,NP,P,RD,W,Total
+Art,AHIS,AHIS 1,LEAPER L E,4.0,20.0,15.0,1.0,19.0,0.0,0.0,0.0,0.0,0.0,15.0,74
+Art,AHIS,AHIS 1,MC GUIRE M C,12.0,6.0,4.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,26
+Art,AHIS,AHIS 1,MEDVEDEV N,40.0,7.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,52
+Art,AHIS,AHIS 1,MENDOZA B,42.0,15.0,10.0,1.0,8.0,0.0,0.0,0.0,0.0,0.0,12.0,88
+Art,AHIS,AHIS 1,MEYER W J,21.0,4.0,1.0,1.0,7.0,0.0,0.0,0.0,0.0,0.0,9.0,43
+Art,AHIS,AHIS 1,O'LEARY T F,11.0,7.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,4.0,27
+Art,AHIS,AHIS 1,ROCCHIO M P,10.0,15.0,13.0,7.0,15.0,0.0,0.0,1.0,1.0,0.0,12.0,74
+Art,AHIS,AHIS 1,ROSENBLUM B T,15.0,9.0,2.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,6.0,38
+Art,AHIS,AHIS 1,SIMMONS B B,90.0,12.0,11.0,3.0,16.0,0.0,1.0,0.0,0.0,0.0,7.0,140
+Art,AHIS,AHIS 2,CHANDLER M M,10.0,9.0,2.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,4.0,29
+Art,AHIS,AHIS 2,DONAHUE N J,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0,41
+Art,AHIS,AHIS 2,FOLLAND T F,22.0,7.0,4.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,36
+Art,AHIS,AHIS 2,HESSER M,16.0,4.0,2.0,1.0,3.0,0.0,0.0,0.0,1.0,0.0,2.0,29
+Art,AHIS,AHIS 2,MAJSTOROVIC M,86.0,14.0,4.0,1.0,7.0,0.0,0.0,1.0,2.0,0.0,8.0,123
+Art,AHIS,AHIS 2,MEYER W J,19.0,4.0,2.0,1.0,8.0,0.0,0.0,0.0,1.0,0.0,10.0,45
+Art,AHIS,AHIS 2,ROSENBLUM B T,9.0,4.0,2.0,0.0,5.0,0.0,0.0,0.0,1.0,0.0,7.0,28
+Art,AHIS,AHIS 2,WASHINGTON T L,14.0,7.0,2.0,4.0,1.0,0.0,0.0,0.0,1.0,0.0,7.0,36
+Art,AHIS,AHIS 3,DONAHUE N J,91.0,8.0,8.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,12.0,124
+Art,AHIS,AHIS 3,MIHAYLOVICH K W,21.0,13.0,2.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,2.0,42
+Art,AHIS,AHIS 5,SIMMONS B B,41.0,20.0,6.0,8.0,9.0,0.0,1.0,1.0,0.0,0.0,5.0,91
+Art,AHIS,AHIS 6,SIMMONS B B,27.0,5.0,5.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,2.0,47
+Art,AHIS,AHIS 11,AHMADPOUR A,11.0,3.0,1.0,0.0,5.0,0.0,1.0,0.0,0.0,0.0,8.0,29
+Art,AHIS,AHIS 11,APELIAN C D,7.0,12.0,4.0,2.0,7.0,0.0,0.0,0.0,0.0,0.0,4.0,36
+Art,AHIS,AHIS 11,LEE O,25.0,4.0,2.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0,7.0,45
+Art,AHIS,AHIS 11,MEYER W J,44.0,16.0,3.0,2.0,19.0,0.0,0.0,1.0,1.0,0.0,9.0,95
+Art,AHIS,AHIS 11,THAYER J,26.0,8.0,5.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0,5.0,51
+Art,AHIS,AHIS 17,LEE O,25.0,19.0,8.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,17.0,80
+Art,AHIS,AHIS 17,SENARATH GAMAGE L,16.0,8.0,3.0,1.0,8.0,0.0,0.0,0.0,0.0,0.0,5.0,41
+Art,AHIS,AHIS 18,SIMMONS B B,33.0,3.0,2.0,0.0,3.0,0.0,1.0,1.0,1.0,0.0,1.0,45
+Art,AHIS,AHIS 21,ROCCHIO M P,13.0,4.0,2.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,4.0,27
+Art,AHIS,AHIS 52,DASTIN E R,18.0,7.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,35
+Art,AHIS,AHIS 72,MIHAYLOVICH K W,14.0,10.0,2.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,10.0,41
+Art,AHIS,AHIS 72,RODRIGUEZ K,17.0,1.0,0.0,1.0,3.0,0.0,0.0,1.0,1.0,0.0,7.0,31
+Art,ART,ART 10A,ARUTIAN C L,4.0,5.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,8.0,21
+Art,ART,ART 10A,BADGER C P,29.0,8.0,6.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,15.0,61
+Art,ART,ART 10A,KARLSEN A M,15.0,13.0,5.0,3.0,6.0,0.0,0.0,0.0,0.0,0.0,5.0,47
+Art,ART,ART 10A,MITCHELL R,19.0,9.0,3.0,0.0,1.0,0.0,6.0,0.0,0.0,0.0,4.0,42
+Art,ART,ART 10A,MIYANO E,10.0,9.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,24
+Art,ART,ART 10A,SHIBATA J M,17.0,3.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,24
+Art,ART,ART 10A,WINSRYG M W,6.0,3.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,7.0,18
+Art,ART,ART 10A,ZARCONE J,2.0,4.0,2.0,1.0,7.0,0.0,0.0,1.0,0.0,0.0,5.0,22
+Art,ART,ART 10B,BADGER C P,20.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,26
+Art,ART,ART 10B,MIYANO E,10.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,19
+Art,ART,ART 10B,WINSRYG M W,11.0,4.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,19
+Art,ART,ART 10C,BADGER C P,20.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,23
+Art,ART,ART 10C,OBIAMIWE O D,12.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,20
+Art,ART,ART 13,BROMBERG T L,16.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,21
+Art,ART,ART 13,HARTMAN D G,17.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,27
+Art,ART,ART 13,HATTON C,20.0,4.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,1.0,29
+Art,ART,ART 13,SILVER E M,13.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,19
+Art,ART,ART 17A,JOLLER G,12.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,6.0,22
+Art,ART,ART 20A,BURCHMAN J H,22.0,13.0,3.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,10.0,50
+Art,ART,ART 20A,HATTON C,53.0,16.0,5.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,13.0,91
+Art,ART,ART 20A,KOMPANEYETS M,11.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,7.0,24
+Art,ART,ART 20A,MAMMARELLA C J,9.0,7.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,6.0,27
+Art,ART,ART 20A,OTA N T,8.0,5.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,5.0,22
+Art,ART,ART 20A,VICICH G M,22.0,8.0,0.0,0.0,6.0,0.0,0.0,0.0,1.0,0.0,13.0,50
+Art,ART,ART 20A,ZARCONE J,6.0,2.0,3.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,5.0,21
+Art,ART,ART 20B,HATTON C,21.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,28
+Art,ART,ART 20B,KARLSEN A M,18.0,9.0,7.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,8.0,46
+Art,ART,ART 20B,MAMMARELLA C J,9.0,6.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,7.0,28
+Art,ART,ART 20C,WINSRYG M W,7.0,2.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,2.0,14
+Art,ART,ART 21A,KOMPANEYETS M,22.0,2.0,1.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,1.0,29
+Art,ART,ART 21A,TRUJILLO M E,31.0,9.0,6.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,3.0,51
+Art,ART,ART 30A,SHIBATA J M,10.0,3.0,4.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,7.0,27
+Art,ART,ART 30C,OTA N T,7.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,28
+Art,ART,ART 31,LOPEZ L G,17.0,3.0,2.0,5.0,1.0,0.0,0.0,0.0,1.0,0.0,15.0,44
+Art,ART,ART 31,TRUJILLO M E,16.0,3.0,1.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,3.0,26
+Art,ART,ART 32,LOPEZ L G,4.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,8
+Art,ART,ART 33,TRUJILLO M E,13.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,18
+Art,ART,ART 34A,LOPEZ L G,15.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,3.0,23
+Art,ART,ART 34B,LOPEZ L G,10.0,3.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,3.0,20
+Art,ART,ART 40A,BROMBERG T L,16.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,23
+Art,ART,ART 40A,HARTMAN D G,44.0,10.0,2.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,3.0,61
+Art,ART,ART 40B,HARTMAN D G,6.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8
+Art,ART,ART 40C,HARTMAN D G,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Art,ART,ART 41A,SIMON D L,9.0,8.0,2.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,4.0,25
+Art,ART,ART 52A,PHILLIPS F,53.0,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,7.0,74
+Art,ART,ART 52A,WHEAT N R,8.0,2.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,6.0,20
+Art,ART,ART 52C,PHILLIPS F,21.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,28
+Art,ART,ART 60,THOMASON M M,16.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,26
+Art,ARTS,ARTS 88A,MEYER W J,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7
+Art,DESIGN,DESIGN 87J,BADGER C P,11.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,13
+Art,PHOTO,PHOTO 52,DASTIN E R,20.0,31.0,11.0,1.0,10.0,0.0,0.0,0.0,2.0,0.0,8.0,83
+Athletics and Kinesiology,VAR PE,VAR PE 11B,HANK M E,53.0,10.0,3.0,4.0,4.0,0.0,2.0,0.0,0.0,0.0,5.0,81
+Athletics and Kinesiology,VAR PE,VAR PE 11B,MOSICH N W,29.0,3.0,3.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,43
+Athletics and Kinesiology,VAR PE,VAR PE 20V,KEARIN J L,10.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,13
+Athletics and Kinesiology,VAR PE,VAR PE 20V,LEDWITH K F,33.0,1.0,0.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0,2.0,43
+Athletics and Kinesiology,VAR PE,VAR PE 45W,DRUCKMAN C J,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,17
+Athletics and Kinesiology,VAR PE,VAR PE 48V,ESKRIDGE B M,26.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26
+Athletics and Kinesiology,VAR PE,VAR PE 48W,ESKRIDGE B M,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,12
+Athletics and Kinesiology,VAR PE,VAR PE 54W,GOLDENSON R M,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,7
+Athletics and Kinesiology,VAR PE,VAR PE 56V,SILVA L,27.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,34
+Athletics and Kinesiology,VAR PE,VAR PE 56W,SILVA L,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,9
+Athletics and Kinesiology,VAR PE,VAR PE 57V,METICHECCHIA J H,15.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,17
+Athletics and Kinesiology,VAR PE,VAR PE 59W,FREEMAN D,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,18
+Athletics and Kinesiology,VAR PE,VAR PE 60,BENDITSON A,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,13
+Athletics and Kinesiology,VAR PE,VAR PE 60,HANK M E,7.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,10
+Athletics and Kinesiology,VAR PE,VAR PE 60,LEDWITH K F,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2
+Athletics and Kinesiology,VAR PE,VAR PE 60,MOSICH N W,7.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8
+Athletics and Kinesiology,VAR PE,VAR PE 60,PIERCE T L,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,19
+Athletics and Kinesiology,VAR PE,VAR PE 60,SILVA L,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Athletics and Kinesiology,VAR PE,VAR PE 60,THOMAS J L,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,5
+Business,ACCTG,ACCTG 1,ARAKELIAN A,13.0,6.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,35
+Business,ACCTG,ACCTG 1,BROOKINS G T,25.0,22.0,14.0,4.0,18.0,0.0,0.0,1.0,0.0,0.0,48.0,132
+Business,ACCTG,ACCTG 1,FITZGERALD R L,27.0,24.0,5.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,9.0,67
+Business,ACCTG,ACCTG 1,HAIG J S,34.0,14.0,3.0,5.0,11.0,0.0,1.0,0.0,0.0,0.0,8.0,76
+Business,ACCTG,ACCTG 1,HANOUNEK T H,3.0,10.0,4.0,2.0,9.0,0.0,0.0,2.0,0.0,0.0,10.0,40
+Business,ACCTG,ACCTG 1,HICKS L E,13.0,3.0,1.0,3.0,2.0,0.0,1.0,0.0,0.0,0.0,9.0,32
+Business,ACCTG,ACCTG 1,KNIGHT R B,21.0,8.0,7.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,11.0,51
+Business,ACCTG,ACCTG 1,MAIER L S,24.0,10.0,3.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,3.0,46
+Business,ACCTG,ACCTG 1,MARES S,13.0,4.0,6.0,2.0,7.0,0.0,0.0,1.0,0.0,0.0,4.0,37
+Business,ACCTG,ACCTG 1,NAULT W H,6.0,2.0,1.0,3.0,6.0,0.0,0.0,0.0,0.0,0.0,14.0,32
+Business,ACCTG,ACCTG 1,PLATZ W A,12.0,14.0,8.0,2.0,11.0,0.0,0.0,0.0,0.0,0.0,32.0,79
+Business,ACCTG,ACCTG 1,RUBIO C,12.0,11.0,7.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,13.0,44
+Business,ACCTG,ACCTG 1,TRIPPETTI V J,15.0,4.0,6.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,13.0,42
+Business,ACCTG,ACCTG 2,ANDRE J M,40.0,21.0,8.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,76
+Business,ACCTG,ACCTG 2,ARAKELIAN A,8.0,6.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,21
+Business,ACCTG,ACCTG 2,DANIEL C,18.0,17.0,12.0,2.0,8.0,0.0,0.0,0.0,0.0,0.0,12.0,69
+Business,ACCTG,ACCTG 2,KNIGHT R B,19.0,13.0,7.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,8.0,52
+Business,ACCTG,ACCTG 2,LAMARRA F,42.0,19.0,9.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,73
+Business,ACCTG,ACCTG 2,LIM WIN Y,61.0,6.0,3.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,5.0,77
+Business,ACCTG,ACCTG 2,LU M,4.0,8.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,20
+Business,ACCTG,ACCTG 2,MAIER L S,12.0,9.0,2.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,29
+Business,ACCTG,ACCTG 2,MARES S,16.0,13.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,35
+Business,ACCTG,ACCTG 2,TRIPPETTI V J,10.0,15.0,7.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,8.0,46
+Business,ACCTG,ACCTG 6,HANSON M P,4.0,15.0,2.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,3.0,27
+Business,ACCTG,ACCTG 7,HANSON M P,7.0,7.0,2.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,2.0,21
+Business,ACCTG,ACCTG 9,KIM J S,48.0,17.0,7.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,1.0,76
+Business,ACCTG,ACCTG 9,KIM M S,15.0,6.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,6.0,33
+Business,ACCTG,ACCTG 10A,LU M,14.0,17.0,9.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,4.0,47
+Business,ACCTG,ACCTG 10B,LU M,20.0,12.0,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.0,7.0,46
+Business,ACCTG,ACCTG 10C,HANSON M P,5.0,5.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,4.0,16
+Business,ACCTG,ACCTG 10C,KIM J S,10.0,11.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.0,31
+Business,ACCTG,ACCTG 11,CARBALLO P S,22.0,5.0,4.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,34
+Business,ACCTG,ACCTG 12,STEINBERGER E K,34.0,16.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,10.0,63
+Business,ACCTG,ACCTG 15,RUBIO C,8.0,8.0,2.0,1.0,3.0,0.0,0.0,0.0,1.0,0.0,6.0,29
+Business,ACCTG,ACCTG 16,RUBIO C,10.0,4.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,7.0,25
+Business,ACCTG,ACCTG 19A,RUBIO C,17.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,19
+Business,ACCTG,ACCTG 21,BROOKINS G T,4.0,2.0,4.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,13.0,29
+Business,ACCTG,ACCTG 21,RESNICK W J,59.0,10.0,5.0,3.0,6.0,0.0,0.0,1.0,1.0,0.0,14.0,99
+Business,ACCTG,ACCTG 22,RUBIO C,2.0,10.0,4.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,10.0,32
+Business,ACCTG,ACCTG 23,RUBIO C,2.0,6.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,17
+Business,ACCTG,ACCTG 31A,VALDIVIA O,14.0,8.0,2.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,7.0,37
+Business,ACCTG,ACCTG 31B,VALDIVIA O,7.0,4.0,0.0,0.0,4.0,0.0,0.0,0.0,2.0,0.0,3.0,20
+Business,ACCTG,ACCTG 45,RESNICK W J,36.0,7.0,3.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,11.0,60
+Business,ACCTG,ACCTG 45,SENKO E A,11.0,6.0,1.0,0.0,5.0,0.0,0.0,1.0,0.0,0.0,0.0,24
+Business,AD JUS,AD JUS 1,KHALIL N,8.0,15.0,10.0,1.0,7.0,0.0,0.0,0.0,0.0,0.0,2.0,43
+Business,AD JUS,AD JUS 1,SMITH DEBORAH R,7.0,11.0,3.0,3.0,13.0,0.0,0.0,0.0,0.0,0.0,5.0,42
+Business,AD JUS,AD JUS 2,DARDEN C A,12.0,11.0,6.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,5.0,37
+Business,AD JUS,AD JUS 3,SMITH DEBORAH R,2.0,8.0,11.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,6.0,32
+Business,AD JUS,AD JUS 5,DARDEN C A,9.0,14.0,3.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,10.0,38
+Business,AUTO,AUTO 40,OATES S M,12.0,8.0,1.0,0.0,1.0,0.0,2.0,0.0,1.0,0.0,2.0,27
+Business,AUTO,AUTO 46,OATES S M,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0,13
+Business,BUS,BUS 1,EVERETT K M,40.0,17.0,4.0,4.0,9.0,0.0,0.0,0.0,0.0,0.0,13.0,87
+Business,BUS,BUS 1,KELLY MARCELLA A,18.0,9.0,5.0,1.0,8.0,0.0,1.0,0.0,0.0,0.0,4.0,46
+Business,BUS,BUS 1,MACIAS J F,18.0,17.0,3.0,4.0,13.0,0.0,0.0,0.0,1.0,0.0,14.0,70
+Business,BUS,BUS 1,NALEPA L L,3.0,4.0,2.0,2.0,6.0,0.0,0.0,0.0,0.0,0.0,3.0,20
+Business,BUS,BUS 1,OLIVERI J S,15.0,7.0,3.0,0.0,12.0,0.0,0.0,0.0,1.0,0.0,2.0,40
+Business,BUS,BUS 1,PAIK R,7.0,11.0,8.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,37
+Business,BUS,BUS 1,RODRIGUEZ K P,37.0,7.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,48
+Business,BUS,BUS 1,ROPER‐CONLEY C,12.0,33.0,19.0,9.0,28.0,0.0,10.0,0.0,0.0,0.0,23.0,134
+Business,BUS,BUS 1,SEDKY S M,57.0,8.0,6.0,4.0,7.0,0.0,0.0,0.0,1.0,0.0,1.0,84
+Business,BUS,BUS 1,SHISHIDO K M,51.0,9.0,7.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,10.0,83
+Business,BUS,BUS 1,VEAS S,79.0,8.0,2.0,1.0,6.0,0.0,0.0,0.0,0.0,0.0,3.0,99
+Business,BUS,BUS 5,HALLIDAY‐ROBERT CA E,15.0,19.0,5.0,2.0,8.0,0.0,0.0,0.0,0.0,0.0,8.0,57
+Business,BUS,BUS 5,KLUGMAN E B,18.0,18.0,15.0,11.0,8.0,0.0,2.0,2.0,0.0,0.0,22.0,96
+Business,BUS,BUS 5,NASSER D M,62.0,58.0,29.0,6.0,17.0,0.0,0.0,1.0,3.0,0.0,20.0,196
+Business,BUS,BUS 5,RADOS‐CLOKE A,29.0,33.0,39.0,11.0,3.0,0.0,0.0,0.0,0.0,0.0,11.0,126
+Business,BUS,BUS 5,SINDELL S M,12.0,11.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,4.0,30
+Business,BUS,BUS 6,HALLIDAY‐ROBERT CA E,11.0,11.0,6.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,4.0,36
+Business,BUS,BUS 8,KHALIL N,10.0,6.0,3.0,1.0,3.0,0.0,0.0,0.0,1.0,0.0,6.0,30
+Business,BUS,BUS 9,KHALIL N,12.0,13.0,4.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,35
+Business,BUS,BUS 11,MARGOLIS D L,5.0,1.0,1.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,8.0,19
+Business,BUS,BUS 17,COMBS G E,5.0,3.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,7.0,19
+Business,BUS,BUS 18,COMBS G E,6.0,3.0,1.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,20.0,34
+Business,BUS,BUS 20,GABBAY C C,7.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8
+Business,BUS,BUS 20,JUNG D,16.0,1.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,16.0,37
+Business,BUS,BUS 20,KELLY MARCELLA A,20.0,15.0,2.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,43
+Business,BUS,BUS 20,OLIVERI J S,17.0,4.0,2.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,2.0,29
+Business,BUS,BUS 20,ROCKWELL C,13.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,20
+Business,BUS,BUS 20,SEDKY S M,51.0,27.0,6.0,5.0,11.0,0.0,0.0,0.0,0.0,0.0,14.0,114
+Business,BUS,BUS 21,IVAS L,20.0,7.0,4.0,0.0,4.0,0.0,1.0,0.0,0.0,0.0,6.0,42
+Business,BUS,BUS 22,COPLEN J S,10.0,18.0,6.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,41
+Business,BUS,BUS 23,COPLEN J S,8.0,7.0,11.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,7.0,38
+Business,BUS,BUS 23,PACCIORETTI T S,73.0,15.0,1.0,1.0,21.0,0.0,0.0,0.0,1.0,0.0,23.0,135
+Business,BUS,BUS 26,ALEXANDER J S,12.0,5.0,2.0,1.0,4.0,0.0,0.0,1.0,0.0,0.0,2.0,27
+Business,BUS,BUS 27,ALEXANDER J S,8.0,1.0,2.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,15.0,31
+Business,BUS,BUS 27,COPLEN J S,15.0,10.0,3.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,36
+Business,BUS,BUS 28,ADELMAN A,11.0,15.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,29
+Business,BUS,BUS 31,SANTILLANES A,1.0,5.0,8.0,7.0,6.0,0.0,0.0,0.0,1.0,0.0,2.0,30
+Business,BUS,BUS 32,JUNG D,2.0,2.0,7.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,9.0,24
+Business,BUS,BUS 32,PAIK R,18.0,23.0,3.0,1.0,7.0,0.0,1.0,1.0,0.0,0.0,4.0,58
+Business,BUS,BUS 32,REVELES J J,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29.0,1.0,30
+Business,BUS,BUS 32,ROCKWELL C,12.0,7.0,2.0,1.0,3.0,0.0,0.0,0.0,1.0,0.0,1.0,27
+Business,BUS,BUS 32,SOUCY S H,22.0,11.0,6.0,1.0,6.0,0.0,0.0,0.0,1.0,0.0,8.0,55
+Business,BUS,BUS 32,WELTON M,18.0,5.0,7.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,34
+Business,BUS,BUS 34,HAIG J D,21.0,11.0,1.0,0.0,4.0,0.0,0.0,0.0,1.0,0.0,2.0,40
+Business,BUS,BUS 34,REVELES J J,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33.0,6.0,41
+Business,BUS,BUS 45,BROWN M W,5.0,6.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18
+Business,BUS,BUS 45,GABBAY C C,14.0,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19
+Business,BUS,BUS 45,RESNICK W J,44.0,12.0,9.0,1.0,2.0,0.0,0.0,1.0,0.0,0.0,5.0,74
+Business,BUS,BUS 45,SENKO E A,26.0,5.0,3.0,2.0,8.0,0.0,0.0,0.0,0.0,0.0,3.0,47
+Business,BUS,BUS 46,SENKO E A,11.0,12.0,4.0,1.0,7.0,0.0,0.0,0.0,0.0,0.0,6.0,41
+Business,BUS,BUS 46,SHISHIDO K M,17.0,4.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,13.0,37
+Business,BUS,BUS 47,LU M,5.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,9
+Business,BUS,BUS 47,RESNICK W J,28.0,3.0,4.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,6.0,43
+Business,BUS,BUS 51,WELTON M,18.0,4.0,4.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,2.0,31
+Business,BUS,BUS 52,RODRIGUEZ K P,21.0,4.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,4.0,33
+Business,BUS,BUS 53,RODRIGUEZ K P,12.0,5.0,1.0,0.0,3.0,0.0,0.0,1.0,0.0,0.0,7.0,29
+Business,BUS,BUS 54,EVERETT K M,22.0,4.0,2.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,33
+Business,BUS,BUS 62,BABCOCK L G,13.0,5.0,5.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,9.0,36
+Business,BUS,BUS 63,CLAUSEN A I,2.0,5.0,8.0,2.0,6.0,0.0,0.0,0.0,0.0,0.0,8.0,31
+Business,BUS,BUS 63,PACCIORETTI T S,37.0,8.0,2.0,2.0,21.0,0.0,0.0,0.0,0.0,0.0,15.0,85
+Business,BUS,BUS 65,ROCKWELL C,13.0,7.0,2.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,7.0,32
+Business,BUS,BUS 69,PACCIORETTI T S,13.0,4.0,0.0,1.0,4.0,0.0,0.0,0.0,1.0,0.0,1.0,24
+Business,BUS,BUS 79,HUNTER R T,18.0,3.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,5.0,29
+Business,BUS,BUS 80,RODRIGUEZ K P,22.0,4.0,1.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,6.0,37
+Business,BUS,BUS 81,ROGERS T A,9.0,1.0,1.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,16
+Business,BUS,BUS 82,EVERETT K M,12.0,5.0,2.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,2.0,26
+Business,BUS,BUS 84,RODRIGUEZ K P,19.0,4.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,6.0,32
+Business,BUS,BUS 85,EVERETT K M,23.0,3.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,11.0,42
+Business,COUNS,COUNS 47,LU M,6.0,3.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,13
+Business,COUNS,COUNS 47,RESNICK W J,29.0,2.0,2.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,3.0,42
+Communication and Media Studies,BUS,BUS 29,ADELMAN A,4.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,12
+Communication and Media Studies,BUS,BUS 33,ADELMAN A,2.0,3.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,13
+Communication and Media Studies,COM ST,COM ST 9,MENJIVAR M I,5.0,11.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,29
+Communication and Media Studies,COM ST,COM ST 9,RUH C,1.0,8.0,3.0,1.0,7.0,0.0,0.0,0.0,0.0,0.0,3.0,23
+Communication and Media Studies,COM ST,COM ST 11,ANDRADE L M,21.0,10.0,5.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,18.0,60
+Communication and Media Studies,COM ST,COM ST 11,BEELER M,10.0,2.0,3.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,9.0,28
+Communication and Media Studies,COM ST,COM ST 11,BERGSTROM L M,14.0,7.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,30
+Communication and Media Studies,COM ST,COM ST 11,BERMUDEZ JR N A,51.0,7.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,5.0,66
+Communication and Media Studies,COM ST,COM ST 11,BROCCARD D,7.0,16.0,6.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,6.0,37
+Communication and Media Studies,COM ST,COM ST 11,BROWN N A,21.0,11.0,7.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,10.0,53
+Communication and Media Studies,COM ST,COM ST 11,CHEN A H,10.0,12.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,5.0,32
+Communication and Media Studies,COM ST,COM ST 11,FARSCHMAN K V,29.0,34.0,8.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,10.0,87
+Communication and Media Studies,COM ST,COM ST 11,FOX N M,6.0,19.0,11.0,2.0,12.0,0.0,0.0,0.0,0.0,0.0,11.0,61
+Communication and Media Studies,COM ST,COM ST 11,HOWARD B,26.0,39.0,6.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,18.0,94
+Communication and Media Studies,COM ST,COM ST 11,HOWARD D B,47.0,21.0,3.0,0.0,4.0,0.0,1.0,0.0,0.0,0.0,17.0,93
+Communication and Media Studies,COM ST,COM ST 11,JUNIUS J A,11.0,25.0,12.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,5.0,60
+Communication and Media Studies,COM ST,COM ST 11,KAIMIKAUA‐GREEN C I,10.0,7.0,4.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,6.0,30
+Communication and Media Studies,COM ST,COM ST 11,MARTIN B S,23.0,16.0,4.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,12.0,58
+Communication and Media Studies,COM ST,COM ST 11,MCNAMARA C V,33.0,34.0,8.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,21.0,105
+Communication and Media Studies,COM ST,COM ST 11,MELAMED N,10.0,9.0,5.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,27
+Communication and Media Studies,COM ST,COM ST 11,MENJIVAR M I,7.0,13.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,8.0,31
+Communication and Media Studies,COM ST,COM ST 11,OGATA D K,104.0,25.0,2.0,0.0,9.0,0.0,2.0,0.0,0.0,0.0,6.0,148
+Communication and Media Studies,COM ST,COM ST 11,PICARELLI R R,7.0,8.0,4.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0,4.0,30
+Communication and Media Studies,COM ST,COM ST 11,PRESTON B L,45.0,13.0,5.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,67
+Communication and Media Studies,COM ST,COM ST 11,RUH C,3.0,6.0,4.0,8.0,7.0,0.0,0.0,0.0,0.0,0.0,4.0,32
+Communication and Media Studies,COM ST,COM ST 11,SHAFFER J M,5.0,10.0,3.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,11.0,32
+Communication and Media Studies,COM ST,COM ST 11,SUNG M,9.0,12.0,8.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,35
+Communication and Media Studies,COM ST,COM ST 11,TREMEAU CHEKROU J C,14.0,17.0,14.0,5.0,6.0,0.0,0.0,0.0,0.0,0.0,6.0,62
+Communication and Media Studies,COM ST,COM ST 11,WHIDDEN A R,33.0,18.0,6.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,4.0,64
+Communication and Media Studies,COM ST,COM ST 12,KAIMIKAUA‐GREEN C I,15.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,8.0,28
+Communication and Media Studies,COM ST,COM ST 12,SMITH H A,6.0,6.0,8.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0,27
+Communication and Media Studies,COM ST,COM ST 16,ANDRADE L M,39.0,18.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,69
+Communication and Media Studies,COM ST,COM ST 16,JUNIUS J A,16.0,11.0,6.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,36
+Communication and Media Studies,COM ST,COM ST 16,SUNG M,16.0,26.0,13.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,8.0,69
+Communication and Media Studies,COM ST,COM ST 21,ANDRADE L M,20.0,9.0,4.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,36
+Communication and Media Studies,COM ST,COM ST 21,AVALOS R,19.0,4.0,4.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,31
+Communication and Media Studies,COM ST,COM ST 21,BROWN N A,20.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,26
+Communication and Media Studies,COM ST,COM ST 21,KWACK J B,22.0,9.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,35
+Communication and Media Studies,COM ST,COM ST 21,MELAMED N,20.0,6.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,30
+Communication and Media Studies,COM ST,COM ST 21,MENJIVAR M I,18.0,10.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,35
+Communication and Media Studies,COM ST,COM ST 21,MLECZKO J,32.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,37
+Communication and Media Studies,COM ST,COM ST 22,BROWN N A,17.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,23
+Communication and Media Studies,COM ST,COM ST 30,BROCCARD D,11.0,14.0,5.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,34
+Communication and Media Studies,COM ST,COM ST 31,BROCCARD D,9.0,10.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,23
+Communication and Media Studies,COM ST,COM ST 310,ANDRADE L M,16.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,20
+Communication and Media Studies,COM ST,COM ST 35,AVALOS R,17.0,3.0,2.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,2.0,29
+Communication and Media Studies,COM ST,COM ST 35,BERGSTROM L M,16.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,26
+Communication and Media Studies,COM ST,COM ST 35,BROCCARD D,12.0,3.0,8.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,30
+Communication and Media Studies,COM ST,COM ST 35,BROWN N A,17.0,12.0,10.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0,44
+Communication and Media Studies,COM ST,COM ST 35,HUBBLE B,13.0,8.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,30
+Communication and Media Studies,COM ST,COM ST 35,OGATA D K,98.0,33.0,4.0,0.0,6.0,0.0,2.0,0.0,0.0,0.0,4.0,147
+Communication and Media Studies,COM ST,COM ST 35,PICARELLI R R,7.0,8.0,2.0,4.0,3.0,0.0,0.0,1.0,0.0,0.0,6.0,31
+Communication and Media Studies,COM ST,COM ST 35,SADEGHI‐TABRIZI F,11.0,7.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,30
+Communication and Media Studies,COM ST,COM ST 35,SMITH H A,11.0,20.0,15.0,5.0,4.0,0.0,0.0,0.0,1.0,0.0,12.0,68
+Communication and Media Studies,COM ST,COM ST 35,TREMEAU CHEKROU J C,7.0,7.0,8.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,26
+Communication and Media Studies,COM ST,COM ST 36,BROCCARD D,11.0,8.0,6.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,30
+Communication and Media Studies,COM ST,COM ST 37,BEELER M,11.0,4.0,5.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,5.0,29
+Communication and Media Studies,COM ST,COM ST 37,SADEGHI‐TABRIZI F,11.0,9.0,3.0,1.0,6.0,0.0,0.0,0.0,0.0,0.0,1.0,31
+Communication and Media Studies,COM ST,COM ST 37,SMITH H A,4.0,2.0,4.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,7.0,23
+Communication and Media Studies,FILM,FILM 1,BOLUS M P,21.0,3.0,4.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,4.0,41
+Communication and Media Studies,FILM,FILM 1,CONLEY T,39.0,7.0,1.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,10.0,62
+Communication and Media Studies,FILM,FILM 1,FLOOD S W,26.0,17.0,4.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,11.0,61
+Communication and Media Studies,FILM,FILM 1,HILL E T,15.0,10.0,3.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,1.0,35
+Communication and Media Studies,FILM,FILM 1,LEECH M R,23.0,7.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,37
+Communication and Media Studies,FILM,FILM 1,MANOJLOVIC M,18.0,4.0,1.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,4.0,32
+Communication and Media Studies,FILM,FILM 1,MATTHEWS M N,20.0,17.0,9.0,7.0,0.0,0.0,2.0,0.0,1.0,0.0,7.0,63
+Communication and Media Studies,FILM,FILM 1,POIRIER N P,20.0,2.0,3.0,0.0,1.0,0.0,4.0,0.0,0.0,0.0,3.0,33
+Communication and Media Studies,FILM,FILM 1,SPRAGUE T,14.0,5.0,2.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,26
+Communication and Media Studies,FILM,FILM 2,BOLUS M P,21.0,6.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,4.0,36
+Communication and Media Studies,FILM,FILM 2,KANIN J D,18.0,25.0,7.0,4.0,1.0,0.0,0.0,1.0,0.0,0.0,7.0,63
+Communication and Media Studies,FILM,FILM 5,KANIN J D,27.0,32.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,11.0,76
+Communication and Media Studies,FILM,FILM 5,LAFFEY S A,15.0,8.0,4.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,31
+Communication and Media Studies,FILM,FILM 5,ROSENBERG V L,10.0,4.0,9.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,28
+Communication and Media Studies,FILM,FILM 6,SHAW R D,18.0,5.0,3.0,2.0,3.0,0.0,1.0,0.0,0.0,0.0,5.0,37
+Communication and Media Studies,FILM,FILM 7,CARRASCO S,23.0,10.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,36
+Communication and Media Studies,FILM,FILM 8,HILL E T,12.0,8.0,5.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,32
+Communication and Media Studies,FILM,FILM 9,KANIN J D,31.0,19.0,0.0,1.0,7.0,0.0,1.0,0.0,2.0,0.0,12.0,73
+Communication and Media Studies,FILM,FILM 10,MANOJLOVIC M,15.0,1.0,0.0,0.0,4.0,0.0,0.0,0.0,1.0,0.0,4.0,25
+Communication and Media Studies,FILM,FILM 11,POIRIER N P,12.0,8.0,3.0,2.0,0.0,0.0,3.0,0.0,0.0,0.0,3.0,31
+Communication and Media Studies,FILM,FILM 20,BARTESAGHI S,40.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,44
+Communication and Media Studies,FILM,FILM 20,MATTHEWS M N,21.0,2.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,3.0,29
+Communication and Media Studies,FILM,FILM 20,PETRELLA R J,13.0,23.0,9.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,11.0,60
+Communication and Media Studies,FILM,FILM 20,ROSENTHAL L,22.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,28
+Communication and Media Studies,FILM,FILM 21,BARTESAGHI S,55.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,57
+Communication and Media Studies,FILM,FILM 21,BIRNBAUM M J,7.0,7.0,5.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,5.0,26
+Communication and Media Studies,FILM,FILM 30,DANIELS R,41.0,5.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,64
+Communication and Media Studies,FILM,FILM 32,CARRASCO S,27.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,31
+Communication and Media Studies,FILM,FILM 32L,CARRASCO S,26.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,30
+Communication and Media Studies,FILM,FILM 33,CARRASCO S,34.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,35
+Communication and Media Studies,FILM,FILM 33L,CARRASCO S,34.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,36
+Communication and Media Studies,FILM,FILM 40,SOLANKI V M,38.0,6.0,4.0,1.0,2.0,0.0,0.0,0.0,2.0,0.0,10.0,63
+Communication and Media Studies,FILM,FILM 50,PLATT H H,3.0,11.0,7.0,1.0,0.0,0.0,5.0,0.0,0.0,0.0,3.0,30
+Communication and Media Studies,FILM,FILM 88A,MUNOZ M E,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3
+Communication and Media Studies,FILM,FILM 90A,MUNOZ M E,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,2
+Communication and Media Studies,GLOBAL,GLOBAL 3,MOVIUS L,8.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,12
+Communication and Media Studies,JOURN,JOURN 1,BLAIZE‐HOPKINS A N,3.0,3.0,1.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,11.0,23
+Communication and Media Studies,JOURN,JOURN 1,OBSATZ S B,31.0,4.0,1.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,5.0,50
+Communication and Media Studies,JOURN,JOURN 1,RUBIN S M,10.0,8.0,3.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0,9.0,37
+Communication and Media Studies,JOURN,JOURN 2,OBSATZ S B,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,17
+Communication and Media Studies,JOURN,JOURN 4A,GIGGANS J H,2.0,1.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,7
+Communication and Media Studies,JOURN,JOURN 15,RUBIN S M,11.0,4.0,1.0,2.0,6.0,0.0,0.0,0.0,0.0,0.0,18.0,42
+Communication and Media Studies,JOURN,JOURN 16,BLAIZE‐HOPKINS A N,16.0,4.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,4.0,28
+Communication and Media Studies,JOURN,JOURN 17,BLAIZE‐HOPKINS A N,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5
+Communication and Media Studies,JOURN,JOURN 21,BURKHART G J,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,4
+Communication and Media Studies,JOURN,JOURN 22,BURKHART G J,6.0,2.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,12
+Communication and Media Studies,JOURN,JOURN 43,ADELMAN A,2.0,7.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,10
+Communication and Media Studies,MEDIA,MEDIA 1,BLAIZE‐HOPKINS A N,7.0,8.0,5.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,9.0,33
+Communication and Media Studies,MEDIA,MEDIA 1,BREWER S L,47.0,15.0,12.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,8.0,85
+Communication and Media Studies,MEDIA,MEDIA 1,BREWINGTON R H,35.0,11.0,3.0,2.0,7.0,0.0,0.0,0.0,0.0,0.0,5.0,63
+Communication and Media Studies,MEDIA,MEDIA 1,CAPTOR R,3.0,10.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,24
+Communication and Media Studies,MEDIA,MEDIA 1,CHARLES H E,34.0,20.0,7.0,6.0,3.0,0.0,0.0,0.0,0.0,0.0,10.0,80
+Communication and Media Studies,MEDIA,MEDIA 1,CHICAS H K,26.0,12.0,4.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,5.0,50
+Communication and Media Studies,MEDIA,MEDIA 1,COLEMAN D,33.0,8.0,1.0,1.0,9.0,0.0,0.0,0.0,1.0,0.0,12.0,65
+Communication and Media Studies,MEDIA,MEDIA 1,DICKINSON L M,29.0,16.0,5.0,3.0,4.0,0.0,0.0,1.0,0.0,0.0,3.0,61
+Communication and Media Studies,MEDIA,MEDIA 1,MOVIUS L,95.0,10.0,5.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,2.0,118
+Communication and Media Studies,MEDIA,MEDIA 1,RAZ J G,16.0,10.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,32
+Communication and Media Studies,MEDIA,MEDIA 1,SHAW R D,16.0,4.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,6.0,34
+Communication and Media Studies,MEDIA,MEDIA 1,STAMBLER L S,20.0,7.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30
+Communication and Media Studies,MEDIA,MEDIA 2,SAXON L N,14.0,5.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,26
+Communication and Media Studies,MEDIA,MEDIA 2,SCHOFIELD J E,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,5.0,19
+Communication and Media Studies,MEDIA,MEDIA 3,MOVIUS L,28.0,9.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0,45
+Communication and Media Studies,MEDIA,MEDIA 4,CHICAS H K,26.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,35
+Communication and Media Studies,MEDIA,MEDIA 4,RAZ J G,16.0,12.0,4.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,36
+Communication and Media Studies,MEDIA,MEDIA 10,BREWER S L,21.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27
+Communication and Media Studies,MEDIA,MEDIA 10,DICKINSON L M,23.0,7.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,6.0,42
+Communication and Media Studies,MEDIA,MEDIA 10,GOLDSTEIN MARTIN M,33.0,6.0,1.0,3.0,9.0,0.0,0.0,0.0,0.0,0.0,2.0,54
+Communication and Media Studies,MEDIA,MEDIA 10,GOUGIS M J,42.0,11.0,8.0,3.0,10.0,0.0,0.0,0.0,3.0,0.0,16.0,93
+Communication and Media Studies,MEDIA,MEDIA 10,OBSATZ S B,78.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,85
+Communication and Media Studies,MEDIA,MEDIA 10,PERNISCO N,40.0,8.0,2.0,3.0,10.0,0.0,0.0,0.0,0.0,0.0,8.0,71
+Communication and Media Studies,MEDIA,MEDIA 10,RAZ J G,9.0,11.0,7.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,3.0,37
+Communication and Media Studies,MEDIA,MEDIA 10,SCHOFIELD J E,26.0,9.0,12.0,4.0,3.0,0.0,0.0,0.0,1.0,0.0,13.0,68
+Communication and Media Studies,MEDIA,MEDIA 10,STAMBLER L S,26.0,4.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,33
+Communication and Media Studies,MEDIA,MEDIA 11,SHAW R D,6.0,7.0,5.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,5.0,25
+Communication and Media Studies,MEDIA,MEDIA 12,GIGGANS J H,5.0,4.0,4.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,3.0,27
+Communication and Media Studies,MEDIA,MEDIA 13,BREWINGTON R H,7.0,3.0,3.0,1.0,5.0,0.0,0.0,0.0,1.0,0.0,7.0,27
+Communication and Media Studies,MEDIA,MEDIA 14,GIGGANS J H,3.0,4.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,1.0,11
+Communication and Media Studies,MEDIA,MEDIA 17,CARLUCCI M A,12.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,1.0,0.0,7.0,23
+Communication and Media Studies,MEDIA,MEDIA 18,ADELMAN A,3.0,6.0,2.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,4.0,18
+Communication and Media Studies,MEDIA,MEDIA 19,PRESCOTT P N,7.0,9.0,3.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,23
+Communication and Media Studies,MEDIA,MEDIA 20,SHAW R D,12.0,2.0,1.0,0.0,2.0,0.0,2.0,0.0,3.0,0.0,4.0,26
+Communication and Media Studies,MEDIA,MEDIA 21,CAPTOR R,9.0,3.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,12.0,27
+Communication and Media Studies,MEDIA,MEDIA 21,STOWELL R,19.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,20
+Communication and Media Studies,MEDIA,MEDIA 46,CAREY R T,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20
+Communication and Media Studies,MEDIA,MEDIA 46,FETZER G C,12.0,6.0,3.0,2.0,3.0,0.0,0.0,0.0,1.0,0.0,4.0,31
+Communication and Media Studies,MEDIA,MEDIA 48,SHAW R D,4.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,6.0,13
+Communication and Media Studies,MEDIA,MEDIA 88A,MUNOZ M E,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,8
+Communication and Media Studies,MEDIA,MEDIA 88B,MUNOZ M E,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2
+Communication and Media Studies,PHOTO,PHOTO 13,BURKHART G J,6.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,15
+Communication and Media Studies,PHOTO,PHOTO 14,BURKHART G J,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,6
+Communication and Media Studies,CIS,CIS 1,CANADA S A,45.0,8.0,9.0,4.0,8.0,0.0,0.0,0.0,1.0,0.0,5.0,80
+Communication and Media Studies,CIS,CIS 1,ROTHAUPT B L,28.0,7.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,8.0,51
+Communication and Media Studies,CIS,CIS 1,SCOTT JACQUELINE D,16.0,9.0,8.0,6.0,8.0,0.0,0.0,0.0,0.0,0.0,16.0,63
+Communication and Media Studies,CIS,CIS 4,EL‐KHOURY N R,16.0,5.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,7.0,30
+Communication and Media Studies,CIS,CIS 4,JERRY G S,82.0,17.0,8.0,2.0,5.0,0.0,0.0,0.0,1.0,0.0,14.0,129
+Communication and Media Studies,CIS,CIS 4,ROTHAUPT B L,69.0,10.0,6.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,4.0,92
+Communication and Media Studies,CIS,CIS 4,ZIMMERMAN W L,22.0,15.0,11.0,5.0,3.0,0.0,0.0,0.0,0.0,0.0,10.0,66
+Communication and Media Studies,CIS,CIS 9A,DARWICHE J,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,4
+Communication and Media Studies,CIS,CIS 9B,DARWICHE J,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,11
+Communication and Media Studies,CIS,CIS 30,BOLANDHEMAT F,12.0,11.0,8.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,10.0,49
+Communication and Media Studies,CIS,CIS 35,VALDIVIA O,18.0,6.0,3.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,13.0,44
+Communication and Media Studies,CIS,CIS 37,JERRY G S,18.0,6.0,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,32
+Communication and Media Studies,CIS,CIS 39,JERRY G S,17.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,24
+Communication and Media Studies,CIS,CIS 50,BOLANDHEMAT F,11.0,0.0,2.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,4.0,21
+Communication and Media Studies,CIS,CIS 51,BOLANDHEMAT F,7.0,2.0,0.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,6.0,20
+Communication and Media Studies,CIS,CIS 54,EL‐KHOURY N R,12.0,6.0,4.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,5.0,32
+Communication and Media Studies,CIS,CIS 54,VAUGHAN DANIEL H,4.0,4.0,2.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,9.0,23
+Communication and Media Studies,CIS,CIS 57,CLARK G B,13.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,22
+Communication and Media Studies,CIS,CIS 59A,EL‐KHOURY N R,7.0,3.0,1.0,2.0,6.0,0.0,0.0,0.0,0.0,0.0,5.0,24
+Communication and Media Studies,CIS,CIS 60A,CLARK G B,8.0,3.0,4.0,0.0,3.0,0.0,0.0,1.0,1.0,0.0,6.0,26
+Communication and Media Studies,CIS,CIS 60A,VALDIVIA O,8.0,2.0,3.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,6.0,21
+Communication and Media Studies,CIS,CIS 60B,VALDIVIA O,8.0,2.0,1.0,0.0,3.0,0.0,0.0,1.0,0.0,0.0,3.0,18
+Communication and Media Studies,CIS,CIS 67,CHABAN M,8.0,4.0,3.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,5.0,24
+Communication and Media Studies,CIS,CIS 70,ROTHAUPT B L,30.0,5.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,42
+Communication and Media Studies,CIS,CIS 88A,STAHL H A,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Communication and Media Studies,CS,CS 3,BOLANDHEMAT F,31.0,14.0,4.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,18.0,72
+Communication and Media Studies,CS,CS 3,ESHAGHIAN M M,31.0,5.0,4.0,4.0,14.0,0.0,0.0,0.0,0.0,0.0,29.0,87
+Communication and Media Studies,CS,CS 3,GEDDES JR J K,12.0,3.0,1.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0,6.0,29
+Communication and Media Studies,CS,CS 3,HURLEY D P,11.0,6.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,27
+Communication and Media Studies,CS,CS 3,KURTZ K A,14.0,6.0,3.0,1.0,6.0,0.0,0.0,0.0,0.0,0.0,5.0,35
+Communication and Media Studies,CS,CS 3,MORGAN D B,6.0,8.0,2.0,0.0,6.0,0.0,0.0,0.0,1.0,0.0,4.0,27
+Communication and Media Studies,CS,CS 3,SUPAT W,26.0,16.0,6.0,3.0,17.0,0.0,0.0,0.0,0.0,0.0,2.0,70
+Communication and Media Studies,CS,CS 7,SENO V T,12.0,3.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,4.0,23
+Communication and Media Studies,CS,CS 9A,DARWICHE J,6.0,6.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,21
+Communication and Media Studies,CS,CS 9B,DARWICHE J,6.0,2.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,4.0,15
+Communication and Media Studies,CS,CS 15,BOLANDHEMAT F,10.0,7.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,12.0,31
+Communication and Media Studies,CS,CS 15,DARWICHE J,6.0,4.0,3.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,8.0,28
+Communication and Media Studies,CS,CS 15,KURTZ K A,7.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,12
+Communication and Media Studies,CS,CS 15,MARCHAND K A,24.0,4.0,4.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,34
+Communication and Media Studies,CS,CS 17,HAGHOO M,30.0,3.0,5.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,10.0,51
+Communication and Media Studies,CS,CS 19,PATEL M,13.0,1.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,15.0,33
+Communication and Media Studies,CS,CS 20A,AMBROSIO E A,14.0,6.0,5.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,10.0,39
+Communication and Media Studies,CS,CS 20A,NGUYEN L V,22.0,13.0,14.0,3.0,7.0,0.0,0.0,0.0,1.0,0.0,13.0,73
+Communication and Media Studies,CS,CS 20B,KALISCH N A,13.0,7.0,3.0,0.0,3.0,0.0,0.0,1.0,0.0,0.0,2.0,29
+Communication and Media Studies,CS,CS 20B,RAVKIC I,5.0,3.0,1.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,5.0,18
+Communication and Media Studies,CS,CS 30,DARWICHE J,9.0,6.0,6.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,7.0,33
+Communication and Media Studies,CS,CS 41,MORGAN D B,9.0,5.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,6.0,24
+Communication and Media Studies,CS,CS 42,ESHAGHIAN M M,12.0,4.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,7.0,27
+Communication and Media Studies,CS,CS 50,DARWICHE J,10.0,7.0,9.0,2.0,13.0,0.0,0.0,0.0,0.0,0.0,18.0,59
+Communication and Media Studies,CS,CS 50,DEHKHODA A,28.0,28.0,8.0,6.0,8.0,0.0,0.0,0.0,0.0,0.0,24.0,102
+Communication and Media Studies,CS,CS 50,EDMONDS M,19.0,1.0,3.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,9.0,39
+Communication and Media Studies,CS,CS 50,ESHAGHIAN M M,6.0,4.0,1.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,16.0,34
+Communication and Media Studies,CS,CS 50,HOTSINPILLER S S,15.0,7.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,4.0,32
+Communication and Media Studies,CS,CS 52,BISHOP M S,7.0,10.0,8.0,9.0,5.0,0.0,0.0,0.0,0.0,0.0,23.0,62
+Communication and Media Studies,CS,CS 52,EDMONDS M,29.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,44
+Communication and Media Studies,CS,CS 52,RATTANASOOK H,23.0,17.0,6.0,1.0,8.0,0.0,0.0,0.0,0.0,0.0,5.0,60
+Communication and Media Studies,CS,CS 52,SINGHAL S P,5.0,4.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,10.0,22
+Communication and Media Studies,CS,CS 53B,DEHKHODA A,14.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,23
+Communication and Media Studies,CS,CS 55,DEHKHODA A,33.0,22.0,1.0,6.0,4.0,0.0,0.0,0.0,1.0,0.0,15.0,82
+Communication and Media Studies,CS,CS 56,DEHKHODA A,30.0,8.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,41
+Communication and Media Studies,CS,CS 60,SHARMA V D,31.0,10.0,2.0,1.0,8.0,0.0,0.0,0.0,0.0,0.0,9.0,61
+Communication and Media Studies,CS,CS 70,MORGAN D B,5.0,3.0,4.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,5.0,21
+Communication and Media Studies,CS,CS 79A,KOL K T,21.0,10.0,4.0,2.0,9.0,0.0,0.0,2.0,2.0,0.0,3.0,53
+Communication and Media Studies,CS,CS 79A,SAMPLEWALA M S,12.0,13.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,7.0,35
+Communication and Media Studies,CS,CS 79B,STAHL H A,30.0,3.0,4.0,3.0,10.0,0.0,0.0,0.0,1.0,0.0,19.0,70
+Communication and Media Studies,CS,CS 79C,SENO V T,44.0,10.0,4.0,1.0,5.0,0.0,2.0,2.0,1.0,0.0,9.0,78
+Communication and Media Studies,CS,CS 79D,SENO V T,35.0,5.0,4.0,1.0,8.0,0.0,0.0,1.0,3.0,0.0,2.0,59
+Communication and Media Studies,CS,CS 80,BISHOP M S,5.0,2.0,5.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,4.0,24
+Communication and Media Studies,CS,CS 80,GEDDES JR J K,19.0,2.0,1.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,8.0,34
+Communication and Media Studies,CS,CS 80,MARCHAND K A,15.0,2.0,2.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,13.0,35
+Communication and Media Studies,CS,CS 81,HOTSINPILLER S S,5.0,2.0,1.0,1.0,4.0,0.0,0.0,0.0,1.0,0.0,20.0,34
+Communication and Media Studies,CS,CS 81,WANG AN C,7.0,2.0,1.0,1.0,7.0,0.0,0.0,0.0,1.0,0.0,17.0,36
+Communication and Media Studies,CS,CS 83R,STAHL H A,11.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,3.0,0.0,12.0,29
+Communication and Media Studies,CS,CS 85,SENO V T,19.0,6.0,0.0,0.0,4.0,0.0,2.0,0.0,1.0,0.0,1.0,33
+Communication and Media Studies,CS,CS 87A,BISHOP M S,9.0,9.0,5.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,24.0,52
+Communication and Media Studies,CS,CS 87A,DARWICHE J,11.0,9.0,10.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,41
+Communication and Media Studies,CS,CS 88A,STAHL H A,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Communication and Media Studies,CS,CS 90B,STAHL H A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1
+Communication and Media Studies,CS,CS 90C,STAHL H A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1
+Communication and Media Studies,OFTECH,OFTECH 1,REED A M,20.0,3.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,5.0,31
+Communication and Media Studies,OFTECH,OFTECH 1A,REED A M,31.0,2.0,1.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,5.0,44
+Communication and Media Studies,OFTECH,OFTECH 1B,REED A M,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,12
+Communication and Media Studies,OFTECH,OFTECH 1C,REED A M,6.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,10
+Communication and Media Studies,OFTECH,OFTECH 9,REED A M,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Communication and Media Studies,OFTECH,OFTECH 21,MANTABE P,5.0,4.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,15
+Communication and Media Studies,OFTECH,OFTECH 23,REED A M,14.0,2.0,3.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,5.0,30
+Communication and Media Studies,OFTECH,OFTECH 26,WILLIAMSON TE D,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,18
+Communication and Media Studies,OFTECH,OFTECH 27,REED A M,15.0,4.0,1.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,3.0,31
+Communication and Media Studies,OFTECH,OFTECH 28,WILLIAMSON TE D,8.0,6.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,4.0,21
+Communication and Media Studies,OFTECH,OFTECH 31,MANTABE P,5.0,2.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,7.0,17
+Cosmetology,COSM,COSM 10A,CEBALLOS B A,18.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,30
+Cosmetology,COSM,COSM 10A,HORN S L,14.0,18.0,14.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,51
+Cosmetology,COSM,COSM 10A,MYERS A M,10.0,8.0,9.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,5.0,35
+Cosmetology,COSM,COSM 10B,CEBALLOS B A,22.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,33
+Cosmetology,COSM,COSM 10B,HORN S L,11.0,18.0,6.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,8.0,48
+Cosmetology,COSM,COSM 10B,MYERS A M,14.0,7.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,30
+Cosmetology,COSM,COSM 11A,LEDONNE H,1.0,15.0,18.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,11.0,48
+Cosmetology,COSM,COSM 11B,PERRET D M,16.0,11.0,7.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,6.0,42
+Cosmetology,COSM,COSM 11C,ASSADI J,18.0,14.0,6.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,44
+Cosmetology,COSM,COSM 11D,MONGE J V,24.0,5.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,13.0,44
+Cosmetology,COSM,COSM 11E,MYERS A M,15.0,7.0,3.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,12.0,41
+Cosmetology,COSM,COSM 16,NUNLEY R M,6.0,20.0,13.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,13.0,55
+Cosmetology,COSM,COSM 18,LIM J Y,25.0,9.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,47
+Cosmetology,COSM,COSM 18,MANUEL S M,22.0,10.0,3.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,41
+Cosmetology,COSM,COSM 20,MANUEL S M,25.0,16.0,10.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,57
+Cosmetology,COSM,COSM 21A,MOISAN A V,28.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,33
+Cosmetology,COSM,COSM 21B,MANUEL S M,9.0,11.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,35
+Cosmetology,COSM,COSM 21C,PERRET D M,11.0,8.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,23
+Cosmetology,COSM,COSM 21D,HARRISON H L,24.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,32
+Cosmetology,COSM,COSM 21E,MYERS A M,16.0,7.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,31
+Cosmetology,COSM,COSM 26,NUNLEY R M,12.0,10.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,39
+Cosmetology,COSM,COSM 28A,LEDONNE H,24.0,28.0,9.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,4.0,71
+Cosmetology,COSM,COSM 28B,LIM J Y,27.0,12.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,52
+Cosmetology,COSM,COSM 30,HORN S L,26.0,15.0,12.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,62
+Cosmetology,COSM,COSM 31A,ROGERS JR J,12.0,8.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,26
+Cosmetology,COSM,COSM 31B,ASSADI J,4.0,16.0,7.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,29
+Cosmetology,COSM,COSM 31C,CEBALLOS B A,11.0,7.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,21
+Cosmetology,COSM,COSM 31E,FELIX F,21.0,9.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,32
+Cosmetology,COSM,COSM 36,NUNLEY R M,12.0,18.0,7.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,45
+Cosmetology,COSM,COSM 38,LIM J Y,25.0,14.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,53
+Cosmetology,COSM,COSM 38B,IJAMES S V,38.0,14.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,57
+Cosmetology,COSM,COSM 38C,IJAMES S V,53.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,58
+Cosmetology,COSM,COSM 40,DICAMILLO N,6.0,9.0,2.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,5.0,25
+Cosmetology,COSM,COSM 41B,FELIX F,11.0,7.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,22
+Cosmetology,COSM,COSM 42,HARRISON H L,22.0,5.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,35
+Cosmetology,COSM,COSM 46,MONGE J V,23.0,4.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,31
+Cosmetology,COSM,COSM 48,KEPLER J M,32.0,4.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,2.0,44
+Cosmetology,COSM,COSM 48B,LEDONNE H,8.0,21.0,5.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,36
+Cosmetology,COSM,COSM 50A,MOISAN A V,16.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,8.0,29
+Cosmetology,COSM,COSM 50B,CEBALLOS B A,16.0,6.0,8.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,32
+Cosmetology,COSM,COSM 50C,DICAMILLO N,18.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23
+Cosmetology,COSM,COSM 50E,DICAMILLO N,28.0,8.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,6.0,48
+Cosmetology,COSM,COSM 50N,DICAMILLO N,2.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,7
+Cosmetology,COSM,COSM 64,LEDONNE H,8.0,37.0,12.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,6.0,70
+Cosmetology,COSM,COSM 88A,PERRET D M,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1
+Cosmetology,COSM,COSM 95A,ROGERS JR J,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0,72.0,0.0,4.0,104
+Cosmetology,COSM,COSM 95B,LEDONNE H,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,17.0,10.0,41
+Cosmetology,COSM,COSM 95C,MOISAN A V,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,7.0,0.0,4.0,25
+Cosmetology,COSM,COSM 95D,PERRET D M,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,7.0,0.0,2.0,20
+Counseling,COUNS,COUNS 1,FINLEY S F,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,41.0,0.0,5.0,59
+Counseling,COUNS,COUNS 11,FINLEY S F,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,54.0,0.0,4.0,69
+Counseling,COUNS,COUNS 11,HAMILTON K N,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,18.0,0.0,1.0,23
+Counseling,COUNS,COUNS 11,KIM SOO,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,27.0,0.0,1.0,34
+Counseling,COUNS,COUNS 11,SANKER C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,12.0,0.0,1.0,17
+Counseling,COUNS,COUNS 11,SOK C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,18.0,0.0,1.0,21
+Counseling,COUNS,COUNS 12,DE CAUSSIN J R,27.0,7.0,6.0,2.0,6.0,0.0,0.0,0.0,0.0,0.0,5.0,53
+Counseling,COUNS,COUNS 12,FOX M P,25.0,11.0,4.0,3.0,7.0,0.0,0.0,0.0,1.0,0.0,6.0,57
+Counseling,COUNS,COUNS 12,GARCIA C J,38.0,7.0,1.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,53
+Counseling,COUNS,COUNS 12,GAUSMAN J M,45.0,3.0,3.0,3.0,9.0,0.0,0.0,0.0,0.0,0.0,9.0,72
+Counseling,COUNS,COUNS 12,GURROLA D M,19.0,4.0,4.0,4.0,8.0,0.0,0.0,0.0,1.0,0.0,4.0,44
+Counseling,COUNS,COUNS 12,JOHNSON DE A,17.0,10.0,5.0,4.0,8.0,0.0,0.0,0.0,1.0,0.0,15.0,60
+Counseling,COUNS,COUNS 12,KENNISON R L,21.0,5.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,30
+Counseling,COUNS,COUNS 12,MARTINEZ E,14.0,5.0,2.0,1.0,4.0,0.0,2.0,0.0,0.0,0.0,15.0,43
+Counseling,COUNS,COUNS 12,RUIZ J,25.0,5.0,7.0,1.0,11.0,0.0,0.0,0.0,0.0,0.0,7.0,56
+Counseling,COUNS,COUNS 15,KENNISON R L,26.0,7.0,1.0,0.0,4.0,0.0,0.0,0.0,1.0,0.0,2.0,41
+Counseling,COUNS,COUNS 20,BONILLA V,43.0,12.0,6.0,2.0,6.0,0.0,0.0,0.0,0.0,0.0,23.0,92
+Counseling,COUNS,COUNS 20,COOPER D J,45.0,13.0,9.0,1.0,10.0,0.0,0.0,0.0,0.0,0.0,20.0,98
+Counseling,COUNS,COUNS 20,FELIX J,71.0,26.0,12.0,6.0,24.0,0.0,0.0,0.0,1.0,0.0,19.0,159
+Counseling,COUNS,COUNS 20,FINLEY S F,10.0,5.0,5.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,6.0,29
+Counseling,COUNS,COUNS 20,GALINDO O A,18.0,10.0,5.0,4.0,27.0,0.0,0.0,0.0,0.0,0.0,20.0,84
+Counseling,COUNS,COUNS 20,HACKETT C D,13.0,10.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,32
+Counseling,COUNS,COUNS 20,LEWIS M L,3.0,6.0,5.0,3.0,16.0,0.0,0.0,0.0,0.0,0.0,12.0,45
+Counseling,COUNS,COUNS 20,TREJO A D,22.0,13.0,10.0,2.0,8.0,0.0,0.0,0.0,0.0,0.0,28.0,83
+Counseling,COUNS,COUNS 20,VALENTINE D,4.0,12.0,4.0,4.0,14.0,0.0,0.0,0.0,0.0,0.0,40.0,78
+Counseling,COUNS,COUNS 20,VALLEJO O,9.0,2.0,6.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,5.0,25
+Counseling,COUNS,COUNS 88A,FELIX J,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Counseling,COUNS,COUNS 88B,FELIX J,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Counseling,COUNS,COUNS 90A,GARCIA T,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,15
+Counseling,COUNS,COUNS 90A,JOHNSON DE A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0,1.0,22
+Counseling,COUNS,COUNS 90B,JOHNSON DE A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,1.0,11
+Counseling,COUNS,COUNS 90C,JOHNSON DE A,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,10.0,0.0,0.0,11
+Counseling,COUNS,COUNS 90D,JOHNSON DE A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,7
+Dance,DANCE,DANCE 2,DOUGLAS JUDITH G,31.0,11.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,46
+Dance,DANCE,DANCE 2,LEE J Y,6.0,19.0,6.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,1.0,42
+Dance,DANCE,DANCE 2,VAN WORMER V M,7.0,3.0,5.0,1.0,6.0,0.0,0.0,1.0,0.0,0.0,2.0,25
+Dance,DANCE,DANCE 5,DOUGLAS JUDITH G,41.0,38.0,8.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,17.0,110
+Dance,DANCE,DANCE 5,LEE J Y,10.0,7.0,7.0,5.0,4.0,0.0,0.0,0.0,0.0,0.0,4.0,37
+Dance,DANCE,DANCE 5,TOMASIC M T,14.0,4.0,3.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,10.0,33
+Dance,DANCE,DANCE 10,TOMASIC M T,4.0,6.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,8.0,21
+Dance,DANCE,DANCE 10,WOLIN‐TUPAS R L,20.0,5.0,6.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,10.0,42
+Dance,DANCE,DANCE 11,AYBAY OWENS S,3.0,1.0,7.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,3.0,17
+Dance,DANCE,DANCE 12,AYBAY OWENS S,3.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,9
+Dance,DANCE,DANCE 12,JORDAN A N,17.0,7.0,6.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,38
+Dance,DANCE,DANCE 17,ZEE S L,12.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,17
+Dance,DANCE,DANCE 18,ZEE S L,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,5
+Dance,DANCE,DANCE 20,CANELLIAS L M,3.0,6.0,0.0,0.0,5.0,0.0,0.0,2.0,1.0,0.0,6.0,23
+Dance,DANCE,DANCE 21,SUSILOWATI S,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,13
+Dance,DANCE,DANCE 22,RAMIREZ R V,3.0,4.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,10
+Dance,DANCE,DANCE 23,RAMIREZ R V,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Dance,DANCE,DANCE 25,JORDAN A N,4.0,5.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,20
+Dance,DANCE,DANCE 31,GAYDOS S C,14.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,33
+Dance,DANCE,DANCE 31,MOLNAR CY A,20.0,2.0,4.0,1.0,8.0,0.0,0.0,0.0,1.0,0.0,9.0,45
+Dance,DANCE,DANCE 32,MOLNAR CY A,17.0,4.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,5.0,30
+Dance,DANCE,DANCE 33,LEE J Y,7.0,9.0,2.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,5.0,27
+Dance,DANCE,DANCE 34,LEE J Y,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,5
+Dance,DANCE,DANCE 35,VAN WORMER V M,1.0,1.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,7
+Dance,DANCE,DANCE 36,VAN WORMER V M,6.0,3.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,15
+Dance,DANCE,DANCE 41,MCDONALD K E,6.0,7.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,5.0,20
+Dance,DANCE,DANCE 42,AYBAY OWENS S,8.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,14
+Dance,DANCE,DANCE 42,MCDONALD K E,11.0,7.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,26
+Dance,DANCE,DANCE 43,TOMASIC M T,10.0,5.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,5.0,21
+Dance,DANCE,DANCE 44,TOMASIC M T,7.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,12
+Dance,DANCE,DANCE 45,AYBAY OWENS S,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,6
+Dance,DANCE,DANCE 46,AYBAY OWENS S,13.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,17
+Dance,DANCE,DANCE 55A,TOMASIC M T,15.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,19
+Dance,DANCE,DANCE 57A,SUSILOWATI S,21.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,30
+Dance,DANCE,DANCE 62,VAN WORMER V M,3.0,3.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,10
+Dance,DANCE,DANCE 63,VAN WORMER V M,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3
+Dance,DANCE,DANCE 70,SUSILOWATI S,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,17
+Dance,DANCE,DANCE 70,TOMASIC M T,8.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,9
+Dance,DANCE,DANCE 79,TOMASIC M T,9.0,3.0,2.0,0.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,18
+Dance,DANCE,DANCE 88A,DOUGLAS JUDITH G,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3
+Dance,DANCE,DANCE 88A,LEE J Y,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2
+Dance,DANCE,DANCE 88B,DOUGLAS JUDITH G,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3
+Dance,DANCE,DANCE 88B,LEE J Y,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3
+Dance,DANCE,DANCE 90A,LEE J Y,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,4
+Dance,DANCE,DANCE 90B,WOLIN‐TUPAS R L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,9
+Design Technology,ET,ET 2,KEESHEN J F,36.0,18.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,75
+Design Technology,ET,ET 11,ABODE JR P J,10.0,2.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,23
+Design Technology,ET,ET 13,JAVELOSA D A,12.0,2.0,2.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,23
+Design Technology,ET,ET 18,DE JONG O F,5.0,7.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,22
+Design Technology,ET,ET 18,KLAUTKY E K,13.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,23
+Design Technology,ET,ET 19A,KEESHEN J F,15.0,16.0,8.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,49
+Design Technology,ET,ET 19B,DAVIS J A,2.0,9.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,16
+Design Technology,ET,ET 20,BROWN S S,13.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,18
+Design Technology,ET,ET 21A,DAVIS J A,10.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,22
+Design Technology,ET,ET 24,FRIA C T,24.0,10.0,7.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,7.0,53
+Design Technology,ET,ET 24B,KIM JO S,5.0,4.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,16
+Design Technology,ET,ET 25,FRIA C T,8.0,3.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,2.0,19
+Design Technology,ET,ET 26,WILLIAMS V J,15.0,4.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,23
+Design Technology,ET,ET 30,FRIA C T,15.0,6.0,3.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,28
+Design Technology,ET,ET 31A,LOUIE W B,48.0,12.0,4.0,0.0,4.0,0.0,1.0,0.0,0.0,0.0,10.0,79
+Design Technology,ET,ET 31B,LOUIE W B,28.0,12.0,4.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,4.0,52
+Design Technology,ET,ET 32,UZAN D,8.0,5.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,4.0,21
+Design Technology,ET,ET 39,JAVELOSA D A,9.0,4.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,19
+Design Technology,ET,ET 40,JAVELOSA D A,13.0,8.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,27
+Design Technology,ET,ET 41,PLATT H H,0.0,13.0,3.0,2.0,0.0,0.0,2.0,0.0,1.0,0.0,2.0,23
+Design Technology,ET,ET 41M,BEASLEY F,8.0,6.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,22
+Design Technology,ET,ET 42,JAVELOSA D A,29.0,8.0,2.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,45
+Design Technology,ET,ET 44,JAVELOSA D A,13.0,3.0,1.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,23
+Design Technology,ET,ET 61,POIRIER N P,22.0,5.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,3.0,33
+Design Technology,ET,ET 72,NAGEL J G,4.0,9.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,24
+Design Technology,ET,ET 88A,HAO J Y,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2
+Design Technology,ET,ET 88B,FRIA C T,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1
+Design Technology,ET,ET 91,KLAUTKY E K,12.0,8.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,28
+Design Technology,ET,ET 92,KAROL‐CROWTHER C I,15.0,8.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,26
+Design Technology,ET,ET 94,DE JONG O F,10.0,6.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,25
+Design Technology,GR DES,GR DES 18,HILL R L,7.0,3.0,3.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,3.0,22
+Design Technology,GR DES,GR DES 18,VRUWINK N R,37.0,4.0,6.0,2.0,5.0,0.0,0.0,1.0,3.0,0.0,4.0,62
+Design Technology,GR DES,GR DES 31,BADUEL Z M,16.0,16.0,12.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,15.0,65
+Design Technology,GR DES,GR DES 31,WOOD S J,12.0,5.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,24
+Design Technology,GR DES,GR DES 33,TURNER L J,13.0,5.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,24
+Design Technology,GR DES,GR DES 33,WOOD S J,13.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,21
+Design Technology,GR DES,GR DES 34,MAZZARA E,14.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,18
+Design Technology,GR DES,GR DES 35,ROBINSON K C,17.0,10.0,5.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,12.0,48
+Design Technology,GR DES,GR DES 38,BADUEL Z M,8.0,12.0,7.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,14.0,43
+Design Technology,GR DES,GR DES 41,DONON S G,28.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,40
+Design Technology,GR DES,GR DES 43,TANAKA BONITA R,18.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,27
+Design Technology,GR DES,GR DES 44,TURNER L J,21.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,24
+Design Technology,GR DES,GR DES 50,TANAKA BONITA R,22.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,27
+Design Technology,GR DES,GR DES 51,CHAN N R,11.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,17
+Design Technology,GR DES,GR DES 60,JOHNSON L D,29.0,13.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,7.0,52
+Design Technology,GR DES,GR DES 61,JOHNSON L D,25.0,16.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,46
+Design Technology,GR DES,GR DES 61,VACARRA J W,11.0,6.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,21
+Design Technology,GR DES,GR DES 62,SWEIDAN S,16.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,23
+Design Technology,GR DES,GR DES 64,CHAN N R,31.0,7.0,7.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,4.0,53
+Design Technology,GR DES,GR DES 64,MACGILLIVRAY I J,7.0,8.0,4.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,25
+Design Technology,GR DES,GR DES 64,MASIHI K M,18.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20
+Design Technology,GR DES,GR DES 65,SAFIOULLINE M,6.0,21.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,8.0,41
+Design Technology,GR DES,GR DES 65,TRIVIZA A,6.0,3.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,9.0,20
+Design Technology,GR DES,GR DES 66,BESLER I H,2.0,4.0,5.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,6.0,21
+Design Technology,GR DES,GR DES 66,SAFIOULLINE M,3.0,15.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,4.0,26
+Design Technology,GR DES,GR DES 67,SAFIOULLINE M,4.0,10.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,19
+Design Technology,GR DES,GR DES 71,GERDS E L,9.0,10.0,3.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,26
+Design Technology,GR DES,GR DES 71,KELLEY M,15.0,5.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,25
+Design Technology,GR DES,GR DES 71B,HEATON W B,6.0,7.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,16
+Design Technology,GR DES,GR DES 75,ANVARI S S,9.0,3.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,17
+Design Technology,GR DES,GR DES 75,SAFIOULLINE M,4.0,12.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,21
+Design Technology,GR DES,GR DES 76,ANVARI S S,18.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,24
+Design Technology,GR DES,GR DES 90A,CHAN N R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1
+Design Technology,GR DES,GR DES 90B,CHAN N R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1
+Design Technology,INTARC,INTARC 28A,JACOBS R E,8.0,9.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,7.0,28
+Design Technology,INTARC,INTARC 28A,MAGNO H R,12.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,20
+Design Technology,INTARC,INTARC 28B,SOTO A J,12.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,21
+Design Technology,INTARC,INTARC 29,RABKIN B L,12.0,2.0,3.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,22
+Design Technology,INTARC,INTARC 30,RABKIN B L,12.0,6.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,24
+Design Technology,INTARC,INTARC 31,ZMUDA L M,13.0,8.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,25
+Design Technology,INTARC,INTARC 33,GREGORY D K,5.0,9.0,2.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,20
+Design Technology,INTARC,INTARC 34,ADAIR J S,7.0,5.0,5.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,23
+Design Technology,INTARC,INTARC 34B,CORDOVA S A,9.0,7.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,21
+Design Technology,INTARC,INTARC 35,CORDOVA S A,11.0,5.0,1.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,7.0,30
+Design Technology,INTARC,INTARC 36,NOONAN I,20.0,8.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,33
+Design Technology,INTARC,INTARC 38,GARCIA JO,13.0,3.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,22
+Design Technology,INTARC,INTARC 39,MAGAR C,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,22
+Design Technology,INTARC,INTARC 40,HAO J Y,2.0,6.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,11
+Design Technology,INTARC,INTARC 42,NOONAN I,19.0,8.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,6.0,37
+Design Technology,INTARC,INTARC 45,CORDOVA S A,8.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,13
+Design Technology,INTARC,INTARC 50,HAO J Y,16.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,4.0,25
+Design Technology,INTARC,INTARC 52,STAIG T S,4.0,3.0,2.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,17
+Design Technology,INTARC,INTARC 90A,CORDOVA S A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2
+Design Technology,IXD,IXD 330,SAFIOULLINE M,5.0,13.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,20
+Design Technology,IXD,IXD 360,KIM T J,4.0,6.0,9.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,21
+Design Technology,IXD,IXD 410,JOHNSON L D,8.0,8.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21
+Design Technology,IXD,IXD 450,CHAN N R,11.0,8.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,20
+Design Technology,IXD,IXD 470,JOHNSON L D,10.0,7.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,20
+Design Technology,IXD,IXD 492,CHAN N R,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Design Technology,IXD,IXD 493,CHAN N R,13.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,16
+Design Technology,COUNS,COUNS 12H,ISHIHARA A M,9.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,3.0,13
+Design Technology,COUNS,COUNS 13H,PEARCE MI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,7
+Design Technology,COUNS,COUNS 15H,ISHIHARA A M,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,16
+Design Technology,COUNS,COUNS 21H,PETERS T M,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,3.0,0.0,0.0,6
+Design Technology,COUNS,COUNS 22H,PETERS T M,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,3
+Design Technology,COUNS,COUNS 25H,PETERS T M,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,4
+Design Technology,COUNS,COUNS 26,PETERS T M,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.0,0.0,1.0,5
+Design Technology,COUNS,COUNS 51,FUJII A M,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,7.0,0.0,0.0,8
+Design Technology,COUNS,COUNS 52,FUJII A M,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,1.0,5
+Design Technology,COUNS,COUNS 53,TERUYA S,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,1.0,7
+Design Technology,COUNS,COUNS 54,AXELROD L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,3.0,7
+Design Technology,COUNS,COUNS 56,AXELROD L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,6.0,0.0,0.0,7
+Design Technology,COUNS,COUNS 57,TERUYA S,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,8.0,0.0,1.0,13
+Design Technology,COUNS,COUNS 59,COURTO L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,3
+Earth Science,ANTHRO,ANTHRO 1,DENMAN J F,30.0,33.0,36.0,0.0,12.0,0.0,5.0,1.0,0.0,0.0,15.0,132
+Earth Science,ANTHRO,ANTHRO 1,HARADON C M,54.0,12.0,11.0,2.0,6.0,0.0,0.0,1.0,2.0,0.0,6.0,94
+Earth Science,ANTHRO,ANTHRO 1,LEWIS B S,7.0,10.0,13.0,7.0,20.0,0.0,0.0,0.0,0.0,0.0,22.0,79
+Earth Science,ANTHRO,ANTHRO 1,RASHIDI J S,5.0,6.0,6.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,2.0,22
+Earth Science,ANTHRO,ANTHRO 2,GREBLER G,33.0,26.0,9.0,0.0,4.0,0.0,1.0,0.0,2.0,0.0,4.0,79
+Earth Science,ANTHRO,ANTHRO 2,MINZENBERG E G,18.0,17.0,15.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,12.0,67
+Earth Science,ANTHRO,ANTHRO 2,ZANE W W,11.0,20.0,13.0,11.0,10.0,0.0,0.0,0.0,0.0,0.0,20.0,85
+Earth Science,ANTHRO,ANTHRO 3,LEWIS B S,10.0,20.0,15.0,8.0,2.0,0.0,1.0,0.0,0.0,0.0,10.0,66
+Earth Science,ANTHRO,ANTHRO 4,LEWIS B S,9.0,6.0,2.0,3.0,2.0,0.0,0.0,0.0,1.0,0.0,8.0,31
+Earth Science,ANTHRO,ANTHRO 5,BREWSTER C P,22.0,16.0,11.0,2.0,2.0,0.0,0.0,1.0,1.0,0.0,4.0,59
+Earth Science,ANTHRO,ANTHRO 5,RASHIDI J S,12.0,9.0,2.0,0.0,4.0,0.0,0.0,0.0,1.0,0.0,0.0,28
+Earth Science,ANTHRO,ANTHRO 5,UY J K,7.0,10.0,7.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,27
+Earth Science,ANTHRO,ANTHRO 7,COHEN M M,23.0,3.0,4.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,5.0,38
+Earth Science,ANTHRO,ANTHRO 10,BREWSTER C P,10.0,14.0,5.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,31
+Earth Science,ANTHRO,ANTHRO 14,STRAUSS E M,27.0,7.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,40
+Earth Science,ANTHRO,ANTHRO 19,MINZENBERG E G,13.0,10.0,4.0,3.0,4.0,0.0,1.0,0.0,1.0,0.0,6.0,42
+Earth Science,ANTHRO,ANTHRO 21,MINZENBERG E G,5.0,5.0,6.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,5.0,28
+Earth Science,ANTHRO,ANTHRO 22,ZANE W W,7.0,7.0,11.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,13.0,43
+Earth Science,ANTHRO,ANTHRO 88A,MINZENBERG E G,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Earth Science,ASTRON,ASTRON 1,BALM S P,20.0,44.0,34.0,7.0,16.0,0.0,0.0,0.0,1.0,0.0,19.0,141
+Earth Science,ASTRON,ASTRON 1,SALAMA A H,11.0,12.0,6.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,34
+Earth Science,ASTRON,ASTRON 1,SCHWARTZ M J,25.0,9.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,39
+Earth Science,ASTRON,ASTRON 2,BALM S P,25.0,49.0,19.0,10.0,11.0,0.0,0.0,0.0,1.0,0.0,20.0,135
+Earth Science,ASTRON,ASTRON 2,SCHWARTZ M J,20.0,12.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,5.0,41
+Earth Science,ASTRON,ASTRON 3,ARIAS YOUNG T,14.0,12.0,4.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,34
+Earth Science,ASTRON,ASTRON 3,SALAMA A H,2.0,4.0,18.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,5.0,33
+Earth Science,ASTRON,ASTRON 4,GOLDBAUM J M,6.0,8.0,6.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,5.0,28
+Earth Science,ASTRON,ASTRON 4,SCHWARTZ M J,24.0,19.0,6.0,0.0,3.0,0.0,0.0,0.0,3.0,0.0,3.0,58
+Earth Science,ASTRON,ASTRON 4,SOBEL H,5.0,8.0,7.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,2.0,25
+Earth Science,ASTRON,ASTRON 5,BALM S P,7.0,11.0,11.0,1.0,6.0,0.0,0.0,0.0,0.0,0.0,3.0,39
+Earth Science,ASTRON,ASTRON 6,FOUTS G A,6.0,11.0,9.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,7.0,38
+Earth Science,ENERGY,ENERGY 1,COOLEY S,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,8
+Earth Science,ENERGY,ENERGY 2,COOLEY S,4.0,3.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,17
+Earth Science,ENVRN,ENVRN 7,LEDDY G,16.0,5.0,3.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,29
+Earth Science,ERTHSC,ERTHSC 88A,MINZENBERG E G,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Earth Science,ERTHSC,ERTHSC 88B,MINZENBERG E G,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7
+Earth Science,ERTHSC,ERTHSC 88C,MINZENBERG E G,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Earth Science,GEOG,GEOG 1,COPE J A,14.0,13.0,8.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,2.0,41
+Earth Science,GEOG,GEOG 1,LIU J,13.0,16.0,8.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,5.0,47
+Earth Science,GEOG,GEOG 1,ROBINSON C M,11.0,7.0,8.0,0.0,3.0,0.0,0.0,1.0,0.0,0.0,4.0,34
+Earth Science,GEOG,GEOG 2,ABATE A,5.0,2.0,6.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,19
+Earth Science,GEOG,GEOG 2,MORRIS P S,17.0,9.0,14.0,7.0,2.0,0.0,0.0,0.0,0.0,0.0,7.0,56
+Earth Science,GEOG,GEOG 3,KRANZ J,11.0,18.0,7.0,6.0,15.0,0.0,0.0,0.0,0.0,0.0,10.0,67
+Earth Science,GEOG,GEOG 5,DRAKE V G,4.0,7.0,8.0,0.0,3.0,0.0,0.0,0.0,2.0,0.0,6.0,30
+Earth Science,GEOG,GEOG 5,HACKELING J,9.0,9.0,6.0,1.0,0.0,0.0,0.0,0.0,4.0,0.0,1.0,30
+Earth Science,GEOG,GEOG 5,LIU J,11.0,10.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,2.0,28
+Earth Science,GEOG,GEOG 5,PRINDLE M R,16.0,7.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,28
+Earth Science,GEOG,GEOG 5,WHITE T M,15.0,7.0,5.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,4.0,35
+Earth Science,GEOG,GEOG 7,LEDDY G,9.0,7.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18
+Earth Science,GEOG,GEOG 8,MORRIS P S,4.0,5.0,7.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,12.0,32
+Earth Science,GEOG,GEOG 11,ABATE A,0.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,8
+Earth Science,GEOG,GEOG 14,HACKELING J,14.0,7.0,5.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,9.0,38
+Earth Science,GEOG,GEOG 14,MORRIS P S,4.0,6.0,11.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,6.0,29
+Earth Science,GEOG,GEOG 20,LIU J,2.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,5
+Earth Science,GEOG,GEOG 23,LIU J,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,6
+Earth Science,GEOG,GEOG 35S,PATRICH J G,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,13
+Earth Science,GEOL,GEOL 1,GRIPPO A,6.0,11.0,13.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,5.0,37
+Earth Science,GEOL,GEOL 3,MELENDEZ C,9.0,7.0,7.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,1.0,29
+Earth Science,GEOL,GEOL 4,COLLINS L E,14.0,25.0,10.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,56
+Earth Science,GEOL,GEOL 4,HALL J M,13.0,11.0,5.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,33
+Earth Science,GEOL,GEOL 4,MELENDEZ C,31.0,18.0,7.0,0.0,2.0,0.0,0.0,0.0,4.0,0.0,1.0,63
+Earth Science,GEOL,GEOL 5,GRIPPO A,5.0,5.0,6.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,9.0,26
+Earth Science,GEOL,GEOL 31,COLLINS L E,9.0,9.0,4.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,25
+Earth Science,GIS,GIS 20,LIU J,8.0,4.0,1.0,0.0,3.0,0.0,0.0,0.0,2.0,0.0,2.0,20
+Earth Science,GIS,GIS 23,LIU J,9.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11
+Earth Science,GIS,GIS 27,MASON J,9.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,15
+Earth Science,GLOBAL,GLOBAL 11,ABATE A,1.0,3.0,4.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,13
+Earth Science,PV,PV 11,COOLEY S,5.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,16
+Earth Science,PV,PV 12,COOLEY S,6.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,7.0,17
+Earth Science,RRM,RRM 1,CHARLES V H,17.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0,26
+Earth Science,RRM,RRM 2,CHARLES V H,12.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,18
+Earth Science,RRM,RRM 3,HULS J M,26.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,35
+Earth Science,RRM,RRM 4,SASU S,20.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,2.0,28
+Earth Science,URBAN,URBAN 8,MORRIS P S,3.0,7.0,7.0,7.0,1.0,0.0,1.0,1.0,1.0,0.0,8.0,36
+Education and Early Childhood,ECE,ECE 2,ELAM E J,11.0,7.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,24
+Education and Early Childhood,ECE,ECE 2,GRACE Y H,13.0,8.0,4.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,5.0,32
+Education and Early Childhood,ECE,ECE 2,MOSLEY K R,15.0,3.0,1.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,28
+Education and Early Childhood,ECE,ECE 2,POURROY D M,31.0,9.0,5.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,7.0,53
+Education and Early Childhood,ECE,ECE 4,LERNER N F,30.0,5.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,41
+Education and Early Childhood,ECE,ECE 4,LOPEZ JE,7.0,3.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,5.0,21
+Education and Early Childhood,ECE,ECE 5,ANDREWS T D,14.0,1.0,2.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,1.0,22
+Education and Early Childhood,ECE,ECE 9,GUNN A C,15.0,4.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,21
+Education and Early Childhood,ECE,ECE 11,BACKLAR N P,15.0,9.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,29
+Education and Early Childhood,ECE,ECE 11,MILLER CA L,33.0,13.0,5.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,60
+Education and Early Childhood,ECE,ECE 11,TALLEDA M L,25.0,25.0,5.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,5.0,61
+Education and Early Childhood,ECE,ECE 17,ANDREWS T D,20.0,1.0,1.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,5.0,31
+Education and Early Childhood,ECE,ECE 17,BACKLAR N P,9.0,8.0,7.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,28
+Education and Early Childhood,ECE,ECE 17,ELAM E J,13.0,7.0,9.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,33
+Education and Early Childhood,ECE,ECE 17,RICHARD C,15.0,7.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,27
+Education and Early Childhood,ECE,ECE 19,DRUKER S L,3.0,5.0,6.0,1.0,6.0,0.0,0.0,0.0,0.0,0.0,7.0,28
+Education and Early Childhood,ECE,ECE 19,MILLER CA L,19.0,7.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,34
+Education and Early Childhood,ECE,ECE 21,BACKLAR N P,9.0,4.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,5.0,20
+Education and Early Childhood,ECE,ECE 21,MILLER CA L,16.0,4.0,4.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,5.0,31
+Education and Early Childhood,ECE,ECE 22,GRACE Y H,19.0,3.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,24
+Education and Early Childhood,ECE,ECE 22,LOPEZ JE,5.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12
+Education and Early Childhood,ECE,ECE 23,JOACHIM S L,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7
+Education and Early Childhood,ECE,ECE 24,HUFF G F,17.0,5.0,3.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,35
+Education and Early Childhood,ECE,ECE 25,GRACE Y H,21.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,27
+Education and Early Childhood,ECE,ECE 26,MOSLEY K R,11.0,2.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,21
+Education and Early Childhood,ECE,ECE 27,MALDONADO S M,12.0,1.0,1.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,4.0,23
+Education and Early Childhood,ECE,ECE 28,MALDONADO S M,6.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,11
+Education and Early Childhood,ECE,ECE 29,GRACE Y H,11.0,2.0,3.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,22
+Education and Early Childhood,ECE,ECE 30,HUFF G F,24.0,5.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,33
+Education and Early Childhood,ECE,ECE 32,PARISE W A,17.0,7.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,28
+Education and Early Childhood,ECE,ECE 41,GUNN A C,15.0,4.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,22
+Education and Early Childhood,ECE,ECE 43,GUNN A C,12.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,19
+Education and Early Childhood,ECE,ECE 45,JOACHIM S L,20.0,6.0,1.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,5.0,36
+Education and Early Childhood,ECE,ECE 45,PARISE W A,9.0,6.0,3.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,22
+Education and Early Childhood,ECE,ECE 46,ELAM E J,18.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,26
+Education and Early Childhood,ECE,ECE 46,HUFF G F,21.0,4.0,1.0,1.0,3.0,0.0,1.0,0.0,0.0,0.0,1.0,32
+Education and Early Childhood,ECE,ECE 48,KHOKHA E W,10.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,15
+Education and Early Childhood,ECE,ECE 49,JOACHIM S L,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,13
+Education and Early Childhood,ECE,ECE 51,HEIMANN R Y,12.0,3.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,20
+Education and Early Childhood,ECE,ECE 64,ANDREWS T D,16.0,7.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,29
+Education and Early Childhood,ECE,ECE 64,POURROY D M,23.0,9.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,36
+Education and Early Childhood,ECE,ECE 71,MCGRATH M T,13.0,8.0,3.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,1.0,28
+Education and Early Childhood,EDUC,EDUC 12,PEREZ‐FERNANDEZ L,7.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,12
+English,ENGL,ENGL 1,ADAMS J J,2.0,3.0,11.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,4.0,24
+English,ENGL,ENGL 1,AGHABEGIAN DIANA E,3.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,19
+English,ENGL,ENGL 1,ALLEN J R,2.0,3.0,5.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,8.0,24
+English,ENGL,ENGL 1,ARIEFF D E,12.0,5.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,21
+English,ENGL,ENGL 1,BARHAM A C,1.0,3.0,3.0,3.0,13.0,0.0,0.0,0.0,0.0,0.0,1.0,24
+English,ENGL,ENGL 1,BLACKWELL N,3.0,10.0,3.0,6.0,6.0,0.0,0.0,0.0,0.0,0.0,17.0,45
+English,ENGL,ENGL 1,BOSTICK J D,4.0,7.0,6.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,44
+English,ENGL,ENGL 1,BRIGSTOCKE J W,5.0,12.0,3.0,0.0,19.0,0.0,4.0,0.0,0.0,0.0,21.0,64
+English,ENGL,ENGL 1,CAGGIANO S E,3.0,8.0,10.0,7.0,5.0,0.0,0.0,0.0,0.0,0.0,17.0,50
+English,ENGL,ENGL 1,CARDENAS T P,13.0,4.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,24
+English,ENGL,ENGL 1,CONSTANTIN G N,17.0,5.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,26
+English,ENGL,ENGL 1,CRAMER T R,23.0,10.0,6.0,2.0,6.0,0.0,0.0,0.0,0.0,0.0,8.0,55
+English,ENGL,ENGL 1,DEL GEORGE D K,25.0,11.0,2.0,2.0,8.0,0.0,0.0,0.0,0.0,0.0,15.0,63
+English,ENGL,ENGL 1,DEMPSEY A L,24.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27
+English,ENGL,ENGL 1,DOSSETT G H,6.0,16.0,15.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,16.0,63
+English,ENGL,ENGL 1,DOUCET W J,25.0,21.0,7.0,4.0,1.0,0.0,10.0,0.0,0.0,0.0,19.0,87
+English,ENGL,ENGL 1,DRISCOLL L V,10.0,9.0,4.0,8.0,16.0,0.0,0.0,1.0,0.0,0.0,16.0,64
+English,ENGL,ENGL 1,DURAN A,6.0,4.0,6.0,0.0,22.0,0.0,0.0,0.0,0.0,0.0,14.0,52
+English,ENGL,ENGL 1,ENGELMANN D S,21.0,13.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,8.0,44
+English,ENGL,ENGL 1,ESPINOSA A A,5.0,12.0,10.0,6.0,3.0,0.0,0.0,0.0,0.0,0.0,11.0,47
+English,ENGL,ENGL 1,GARCIA M S,8.0,3.0,2.0,3.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,27
+English,ENGL,ENGL 1,GARNICA A M,3.0,11.0,8.0,4.0,8.0,0.0,0.0,0.0,0.0,0.0,17.0,51
+English,ENGL,ENGL 1,GONZALEZ S G,5.0,1.0,0.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0,3.0,16
+English,ENGL,ENGL 1,GRIFFY W J,23.0,11.0,9.0,7.0,11.0,0.0,3.0,0.0,2.0,0.0,22.0,88
+English,ENGL,ENGL 1,HALL J E,10.0,8.0,2.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,10.0,35
+English,ENGL,ENGL 1,HAVENNER J K,5.0,7.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,2.0,23
+English,ENGL,ENGL 1,IRELAND S P,22.0,7.0,7.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,8.0,48
+English,ENGL,ENGL 1,KARRON R,5.0,4.0,4.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,4.0,23
+English,ENGL,ENGL 1,KAUFFMAN S R,45.0,4.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,5.0,57
+English,ENGL,ENGL 1,KEMPER D E,7.0,3.0,2.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,8.0,23
+English,ENGL,ENGL 1,KRUG J M,7.0,14.0,9.0,4.0,6.0,0.0,0.0,0.0,0.0,0.0,9.0,49
+English,ENGL,ENGL 1,LANDAU D M E,6.0,7.0,3.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,25
+English,ENGL,ENGL 1,LIVANIS L,2.0,3.0,0.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,8.0,20
+English,ENGL,ENGL 1,MARKARIAN E A,22.0,20.0,11.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,81
+English,ENGL,ENGL 1,MARTINEZ‐GIL C,19.0,8.0,3.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,9.0,44
+English,ENGL,ENGL 1,MATTESSICH S N,17.0,5.0,4.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,31
+English,ENGL,ENGL 1,MEYER E E,3.0,3.0,0.0,2.0,4.0,0.0,1.0,0.0,0.0,0.0,14.0,27
+English,ENGL,ENGL 1,MISAGHI A M,16.0,12.0,9.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,13.0,55
+English,ENGL,ENGL 1,MURPHY E M,14.0,7.0,5.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,46
+English,ENGL,ENGL 1,NELSON LAUNA A,3.0,6.0,3.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,6.0,24
+English,ENGL,ENGL 1,NELSON P M,8.0,7.0,0.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,4.0,24
+English,ENGL,ENGL 1,OBA R K,5.0,4.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,20
+English,ENGL,ENGL 1,PACCHIOLI J J,5.0,7.0,5.0,4.0,15.0,0.0,0.0,0.0,0.0,0.0,14.0,50
+English,ENGL,ENGL 1,PADILLA M R,12.0,8.0,8.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,21.0,55
+English,ENGL,ENGL 1,PAIK‐SCHOENBERG J,6.0,6.0,9.0,2.0,9.0,0.0,0.0,0.0,0.0,0.0,29.0,61
+English,ENGL,ENGL 1,PEEPLES R A,3.0,2.0,9.0,0.0,6.0,0.0,1.0,0.0,0.0,0.0,4.0,25
+English,ENGL,ENGL 1,PRITCHARD L A,12.0,9.0,5.0,7.0,6.0,0.0,1.0,0.0,0.0,0.0,9.0,49
+English,ENGL,ENGL 1,RAJSKI B,35.0,20.0,7.0,0.0,9.0,0.0,3.0,1.0,0.0,0.0,14.0,89
+English,ENGL,ENGL 1,ROBINSON B,22.0,16.0,6.0,5.0,4.0,0.0,2.0,0.0,0.0,0.0,2.0,57
+English,ENGL,ENGL 1,ROSS M S,5.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,18
+English,ENGL,ENGL 1,SANDOVAL A,2.0,4.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,12.0,24
+English,ENGL,ENGL 1,SCHNITZLER A P,8.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,24
+English,ENGL,ENGL 1,STIRLING M S,0.0,1.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,7.0,14
+English,ENGL,ENGL 1,SURENDRANATH L C,7.0,2.0,3.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,20
+English,ENGL,ENGL 1,TATERI J S,0.0,2.0,2.0,5.0,7.0,0.0,0.0,0.0,0.0,0.0,3.0,19
+English,ENGL,ENGL 1,TODD G T,6.0,8.0,8.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,31.0,73
+English,ENGL,ENGL 1,VISHWANADHA H,1.0,3.0,8.0,4.0,14.0,0.0,0.0,0.0,0.0,0.0,22.0,52
+English,ENGL,ENGL 1,WANG L Z,2.0,9.0,3.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,2.0,24
+English,ENGL,ENGL 1,WEATHERFORD K C,2.0,13.0,13.0,1.0,9.0,0.0,0.0,0.0,0.0,0.0,13.0,51
+English,ENGL,ENGL 1,WRIGHT N E,9.0,9.0,12.0,8.0,1.0,0.0,0.0,0.0,0.0,0.0,11.0,50
+English,ENGL,ENGL 1,YOUNG R U,3.0,7.0,10.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,25
+English,ENGL,ENGL 2,ADAMS J J,13.0,14.0,12.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,8.0,52
+English,ENGL,ENGL 2,AGHABEGIAN DIANA E,3.0,8.0,6.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,21
+English,ENGL,ENGL 2,ANDERSON E,11.0,11.0,8.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,6.0,44
+English,ENGL,ENGL 2,ARIEFF D E,17.0,11.0,8.0,1.0,6.0,0.0,0.0,0.0,0.0,0.0,5.0,48
+English,ENGL,ENGL 2,ARMS E D,20.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,26
+English,ENGL,ENGL 2,BELL S L,19.0,16.0,3.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,10.0,50
+English,ENGL,ENGL 2,BLACKWELL N,14.0,4.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,26
+English,ENGL,ENGL 2,BONAR H S,27.0,19.0,10.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,16.0,75
+English,ENGL,ENGL 2,BRIGSTOCKE J W,9.0,22.0,2.0,0.0,5.0,0.0,3.0,0.0,0.0,0.0,9.0,50
+English,ENGL,ENGL 2,BUMBERA N J,6.0,10.0,4.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,25
+English,ENGL,ENGL 2,BURAK C D,22.0,14.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,46
+English,ENGL,ENGL 2,CAGGIANO S E,2.0,14.0,6.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,25
+English,ENGL,ENGL 2,CARDENAS T P,26.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,29
+English,ENGL,ENGL 2,COLMER I H,10.0,5.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.0,24
+English,ENGL,ENGL 2,CONSTANTIN G N,42.0,4.0,3.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0,2.0,55
+English,ENGL,ENGL 2,CRAMER T R,19.0,21.0,1.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,3.0,48
+English,ENGL,ENGL 2,DAVIS C V,3.0,10.0,0.0,2.0,4.0,0.0,2.0,0.0,0.0,0.0,3.0,24
+English,ENGL,ENGL 2,DEL GEORGE D K,11.0,7.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,23
+English,ENGL,ENGL 2,DESAI D H,15.0,17.0,8.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,6.0,50
+English,ENGL,ENGL 2,DIXON M J,19.0,9.0,0.0,2.0,8.0,0.0,0.0,0.0,0.0,0.0,12.0,50
+English,ENGL,ENGL 2,DOSSETT G H,11.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25
+English,ENGL,ENGL 2,DOUCET W J,10.0,10.0,3.0,3.0,0.0,0.0,8.0,0.0,0.0,0.0,3.0,37
+English,ENGL,ENGL 2,DRISCOLL L V,9.0,5.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,10.0,28
+English,ENGL,ENGL 2,EDELMANN C,9.0,12.0,8.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0,9.0,45
+English,ENGL,ENGL 2,ENGELMANN D S,30.0,14.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,54
+English,ENGL,ENGL 2,ESPINOSA A A,12.0,16.0,12.0,5.0,4.0,0.0,0.0,0.0,0.0,0.0,5.0,54
+English,ENGL,ENGL 2,FUCHS C A,13.0,20.0,11.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,20.0,70
+English,ENGL,ENGL 2,GARCIA M S,7.0,11.0,2.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,8.0,33
+English,ENGL,ENGL 2,GILDNER B J,14.0,29.0,19.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,75
+English,ENGL,ENGL 2,GONZALEZ S G,13.0,5.0,4.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,28
+English,ENGL,ENGL 2,GOODE S S,10.0,26.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,45
+English,ENGL,ENGL 2,GRIFFY W J,7.0,8.0,4.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,4.0,25
+English,ENGL,ENGL 2,GUSTIN M J,14.0,21.0,7.0,6.0,3.0,0.0,0.0,0.0,0.0,0.0,9.0,60
+English,ENGL,ENGL 2,HAMADA M J,24.0,15.0,7.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,14.0,63
+English,ENGL,ENGL 2,HANSEN N C,19.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25
+English,ENGL,ENGL 2,HASSMAN T,12.0,11.0,4.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,9.0,41
+English,ENGL,ENGL 2,HERTZ U L,4.0,15.0,7.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,13.0,45
+English,ENGL,ENGL 2,HOTSINPILLER MATTHEW,0.0,8.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,17
+English,ENGL,ENGL 2,IRELAND S P,22.0,2.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,32
+English,ENGL,ENGL 2,JANAKOS L D,8.0,16.0,4.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0,6.0,41
+English,ENGL,ENGL 2,JOHNSON D J,9.0,20.0,10.0,3.0,9.0,0.0,0.0,0.0,0.0,0.0,2.0,53
+English,ENGL,ENGL 2,KARRON R,17.0,13.0,6.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,8.0,50
+English,ENGL,ENGL 2,KAUFFMAN S R,28.0,6.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,36
+English,ENGL,ENGL 2,KEMPER D E,17.0,16.0,5.0,4.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,48
+English,ENGL,ENGL 2,KRUSOE J A,5.0,10.0,9.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,46
+English,ENGL,ENGL 2,LANDAU D M E,4.0,7.0,16.0,10.0,3.0,0.0,0.0,0.0,0.0,0.0,31.0,71
+English,ENGL,ENGL 2,LYNCH J J,23.0,8.0,6.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,2.0,42
+English,ENGL,ENGL 2,MANDIA C P,6.0,3.0,1.0,1.0,3.0,0.0,1.0,0.0,0.0,0.0,5.0,20
+English,ENGL,ENGL 2,MATTESSICH S N,43.0,27.0,12.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,6.0,94
+English,ENGL,ENGL 2,MEEKS C,12.0,13.0,6.0,6.0,3.0,0.0,0.0,0.0,0.0,0.0,10.0,50
+English,ENGL,ENGL 2,MEIR N K,32.0,12.0,11.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,6.0,64
+English,ENGL,ENGL 2,MEYER E E,11.0,6.0,2.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,25
+English,ENGL,ENGL 2,MISAGHI A M,30.0,13.0,7.0,1.0,5.0,0.0,0.0,0.0,1.0,0.0,11.0,68
+English,ENGL,ENGL 2,MOTOIKE K J,21.0,23.0,12.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,21.0,81
+English,ENGL,ENGL 2,OBA R K,7.0,10.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,25
+English,ENGL,ENGL 2,OVERALL S J,8.0,34.0,13.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,74
+English,ENGL,ENGL 2,PACCHIOLI J J,2.0,10.0,9.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,26
+English,ENGL,ENGL 2,PADILLA M R,34.0,17.0,3.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,59
+English,ENGL,ENGL 2,PAIK‐SCHOENBERG J,5.0,4.0,4.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0,5.0,25
+English,ENGL,ENGL 2,PHILLIPS L K,19.0,22.0,16.0,6.0,0.0,0.0,1.0,0.0,0.0,0.0,5.0,69
+English,ENGL,ENGL 2,PRITCHARD L A,26.0,13.0,12.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,57
+English,ENGL,ENGL 2,RAJSKI B,11.0,3.0,1.0,1.0,4.0,0.0,1.0,0.0,0.0,0.0,4.0,25
+English,ENGL,ENGL 2,REICHLE R E,4.0,7.0,3.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,23
+English,ENGL,ENGL 2,REMMES J,4.0,5.0,6.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,20
+English,ENGL,ENGL 2,ROBINSON B,26.0,13.0,5.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,3.0,51
+English,ENGL,ENGL 2,SANDOVAL A,8.0,7.0,4.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,27
+English,ENGL,ENGL 2,SCHNITZLER A P,8.0,7.0,4.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,6.0,27
+English,ENGL,ENGL 2,SOSNER J A,10.0,10.0,8.0,7.0,7.0,0.0,0.0,0.0,0.0,0.0,7.0,49
+English,ENGL,ENGL 2,SURENDRANATH L C,13.0,3.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,5.0,24
+English,ENGL,ENGL 2,VISHWANADHA H,0.0,0.0,6.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,4.0,14
+English,ENGL,ENGL 2,WILL L J,13.0,11.0,9.0,2.0,4.0,0.0,4.0,0.0,0.0,0.0,2.0,45
+English,ENGL,ENGL 2,YOUNG W H,1.0,4.0,4.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,4.0,20
+English,ENGL,ENGL 3,HUMPHREY T F,23.0,4.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,5.0,33
+English,ENGL,ENGL 4,ROSS M S,12.0,8.0,4.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,2.0,30
+English,ENGL,ENGL 5,DRISCOLL L V,19.0,10.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,35
+English,ENGL,ENGL 5,REMMES J,2.0,8.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,23
+English,ENGL,ENGL 6,DOSSETT G H,11.0,13.0,5.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,2.0,34
+English,ENGL,ENGL 7,PACCHIOLI J J,11.0,9.0,7.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.0,34
+English,ENGL,ENGL 8,ARMS E D,20.0,5.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,31
+English,ENGL,ENGL 9,VISHWANADHA H,2.0,2.0,2.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,8.0,20
+English,ENGL,ENGL 20,DAVISON  IV G S,17.0,11.0,14.0,14.0,3.0,0.0,0.0,0.0,0.0,0.0,17.0,76
+English,ENGL,ENGL 20,JAMES K R,10.0,16.0,6.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,25.0,63
+English,ENGL,ENGL 20,MILLER N A,0.0,2.0,4.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,8.0,22
+English,ENGL,ENGL 20,O'HARA D M,3.0,4.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,5.0,18
+English,ENGL,ENGL 24,EDELMANN C,3.0,4.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,14
+English,ENGL,ENGL 24,ROBERTS P S,4.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,11
+English,ENGL,ENGL 28,ADAMS J J,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,16.0,0.0,4.0,24
+English,ENGL,ENGL 28,ALLEN J R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,10.0,0.0,8.0,24
+English,ENGL,ENGL 28,BARHAM A C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,7.0,0.0,1.0,24
+English,ENGL,ENGL 28,BLACKWELL N,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,16.0,0.0,17.0,45
+English,ENGL,ENGL 28,BOSTICK J D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,17.0,0.0,13.0,44
+English,ENGL,ENGL 28,CAGGIANO S E,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,21.0,0.0,17.0,50
+English,ENGL,ENGL 28,CARDENAS T P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,17.0,0.0,5.0,24
+English,ENGL,ENGL 28,DURAN A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0,16.0,0.0,14.0,52
+English,ENGL,ENGL 28,ESPINOSA A A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,27.0,0.0,11.0,47
+English,ENGL,ENGL 28,GARCIA M S,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,13.0,0.0,0.0,27
+English,ENGL,ENGL 28,GARNICA A M,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,22.0,0.0,17.0,51
+English,ENGL,ENGL 28,HAVENNER J K,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,15.0,0.0,2.0,23
+English,ENGL,ENGL 28,KRUG J M,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,30.0,0.0,9.0,49
+English,ENGL,ENGL 28,LIVANIS L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,5.0,0.0,8.0,20
+English,ENGL,ENGL 28,MARKARIAN E A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,53.0,0.0,7.0,81
+English,ENGL,ENGL 28,NELSON LAUNA A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,12.0,0.0,6.0,24
+English,ENGL,ENGL 28,NELSON P M,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,15.0,0.0,4.0,24
+English,ENGL,ENGL 28,PEEPLES R A,0.0,0.0,0.0,0.0,0.0,0.0,1.0,6.0,14.0,0.0,4.0,25
+English,ENGL,ENGL 28,PRITCHARD L A,0.0,0.0,0.0,0.0,0.0,0.0,1.0,8.0,11.0,0.0,5.0,25
+English,ENGL,ENGL 28,SANDOVAL A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,8.0,0.0,12.0,24
+English,ENGL,ENGL 28,SCHNITZLER A P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,0.0,13.0,24
+English,ENGL,ENGL 28,TATERI J S,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,4.0,0.0,3.0,19
+English,ENGL,ENGL 28,TODD G T,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,22.0,0.0,31.0,73
+English,ENGL,ENGL 28,WANG L Z,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,13.0,0.0,2.0,23
+English,ENGL,ENGL 28,WEATHERFORD K C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,28.0,0.0,13.0,51
+English,ENGL,ENGL 28,WRIGHT N E,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,30.0,0.0,11.0,50
+English,ENGL,ENGL 28,YOUNG R U,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,20.0,0.0,2.0,25
+English,ENGL,ENGL 30A,DAVIS C V,14.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,22
+English,ENGL,ENGL 30A,KRUSOE J A,0.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,7.0,27
+English,ENGL,ENGL 30A,PADILLA M R,32.0,9.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,8.0,53
+English,ENGL,ENGL 30B,DAVIS C V,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4
+English,ENGL,ENGL 30B,KRUSOE J A,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0,17
+English,ENGL,ENGL 30B,PADILLA M R,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,15
+English,ENGL,ENGL 31,CAGGIANO S E,5.0,5.0,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,17
+English,ENGL,ENGL 34,ROBINSON B,10.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,18
+English,ENGL,ENGL 39,BORETZ M S,19.0,3.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,4.0,29
+English,ENGL,ENGL 50,HIOUREAS E C,19.0,10.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,34
+English,ENGL,ENGL 51,REMMES J,2.0,4.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,10
+English,ENGL,ENGL 52,DEL GEORGE D K,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,5
+English,ENGL,ENGL 57,MARTINEZ‐GIL C,14.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,20
+English,REL ST,REL ST 51,REMMES J,0.0,5.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,14
+English,REL ST,REL ST 52,DEL GEORGE D K,13.0,3.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,22
+ESL,ESL,ESL 10G,ELLIS T L,3.0,13.0,2.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,27
+ESL,ESL,ESL 10G,KOENIG GOLOMBEK L K,5.0,6.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,21
+ESL,ESL,ESL 10G,YENSER S J,2.0,3.0,7.0,4.0,2.0,0.0,1.0,0.0,0.0,0.0,2.0,21
+ESL,ESL,ESL 10W,ALLIE S M,1.0,12.0,5.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,25
+ESL,ESL,ESL 10W,KUGEL N,4.0,8.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,17
+ESL,ESL,ESL 10W,KUNIMOTO T A,3.0,9.0,4.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,22
+ESL,ESL,ESL 10W,STIVENER M,2.0,6.0,6.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,21
+ESL,ESL,ESL 11A,GRAZIADEI K N,1.0,2.0,10.0,4.0,2.0,0.0,0.0,0.0,1.0,0.0,4.0,24
+ESL,ESL,ESL 11A,JAFFE S R,2.0,8.0,4.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,20
+ESL,ESL,ESL 11A,KAHN A B,1.0,11.0,9.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,25
+ESL,ESL,ESL 11A,KIM E,2.0,3.0,7.0,5.0,1.0,0.0,0.0,0.0,3.0,0.0,4.0,25
+ESL,ESL,ESL 11A,LEVITT D J,0.0,2.0,9.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,9.0,25
+ESL,ESL,ESL 11A,LODMER E L,1.0,4.0,5.0,6.0,7.0,0.0,0.0,1.0,0.0,0.0,3.0,27
+ESL,ESL,ESL 11A,MUKAI M,2.0,6.0,7.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,22
+ESL,ESL,ESL 11B,BORGARDT M L,1.0,3.0,6.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,15
+ESL,ESL,ESL 11B,IBARAKI A T,2.0,6.0,7.0,0.0,2.0,0.0,0.0,1.0,3.0,0.0,0.0,21
+ESL,ESL,ESL 11B,KAHN A B,1.0,5.0,7.0,0.0,1.0,0.0,0.0,1.0,10.0,0.0,0.0,25
+ESL,ESL,ESL 11B,KIM E,1.0,2.0,3.0,0.0,1.0,0.0,0.0,0.0,5.0,0.0,0.0,12
+ESL,ESL,ESL 11B,MARASCO J A,1.0,3.0,8.0,2.0,1.0,0.0,0.0,0.0,2.0,0.0,2.0,19
+ESL,ESL,ESL 11B,TORREZ P J,2.0,6.0,10.0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,24
+ESL,ESL,ESL 11B,WOLFE R A,2.0,3.0,5.0,2.0,5.0,0.0,0.0,2.0,1.0,0.0,0.0,20
+ESL,ESL,ESL 14A,MARASCO J A,5.0,6.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,18
+ESL,ESL,ESL 14B,MARASCO J A,9.0,4.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,19
+ESL,ESL,ESL 14B,SPECTOR A L,13.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,18
+ESL,ESL,ESL 15,BOSTWICK L H,13.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,21
+ESL,ESL,ESL 16A,DOUGLASS J T,6.0,6.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,21
+ESL,ESL,ESL 16B,DOUGLASS J T,5.0,4.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,5.0,20
+ESL,ESL,ESL 16C,DOUGLASS J T,5.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,11
+ESL,ESL,ESL 16C,MARUTYAN N,4.0,5.0,4.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,4.0,23
+ESL,ESL,ESL 17,STIVENER M,8.0,2.0,2.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,16
+ESL,ESL,ESL 20A,IBARAKI A T,15.0,14.0,7.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,12.0,50
+ESL,ESL,ESL 20B,HARCLERODE J E,12.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,15
+ESL,ESL,ESL 20B,NAM V S,6.0,5.0,5.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,20
+ESL,ESL,ESL 21A,ALLIE S M,4.0,4.0,4.0,0.0,1.0,0.0,0.0,0.0,6.0,0.0,4.0,23
+ESL,ESL,ESL 21A,ASHLEIGH S B,5.0,18.0,7.0,1.0,4.0,0.0,0.0,1.0,10.0,0.0,3.0,49
+ESL,ESL,ESL 21A,BORGARDT M L,1.0,17.0,7.0,5.0,3.0,0.0,0.0,3.0,10.0,0.0,3.0,49
+ESL,ESL,ESL 21A,COMBS J B,7.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,14
+ESL,ESL,ESL 21A,DELLAPASQUA L C,3.0,9.0,2.0,4.0,0.0,0.0,0.0,1.0,2.0,0.0,1.0,22
+ESL,ESL,ESL 21A,GRAZIADEI K N,1.0,5.0,8.0,1.0,1.0,0.0,0.0,1.0,4.0,0.0,3.0,24
+ESL,ESL,ESL 21A,IBARAKI A T,0.0,3.0,6.0,2.0,2.0,0.0,0.0,4.0,4.0,0.0,0.0,21
+ESL,ESL,ESL 21A,JAFFE S R,1.0,8.0,5.0,1.0,1.0,0.0,0.0,2.0,15.0,0.0,0.0,33
+ESL,ESL,ESL 21A,LODMER E L,3.0,5.0,9.0,0.0,1.0,0.0,0.0,3.0,10.0,0.0,3.0,34
+ESL,ESL,ESL 21A,TRACEY M P,2.0,3.0,3.0,2.0,0.0,0.0,0.0,1.0,13.0,0.0,1.0,25
+ESL,ESL,ESL 21A,YENSER S J,2.0,7.0,3.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,15
+ESL,ESL,ESL 21B,HARDACREDECERQU B L,0.0,4.0,14.0,0.0,4.0,0.0,0.0,3.0,7.0,0.0,0.0,32
+ESL,ESL,ESL 21B,JAFFE S R,4.0,4.0,4.0,1.0,1.0,0.0,0.0,1.0,18.0,0.0,2.0,35
+ESL,ESL,ESL 21B,KUNIMOTO T A,1.0,1.0,5.0,0.0,2.0,0.0,0.0,3.0,13.0,0.0,0.0,25
+ESL,ESL,ESL 21B,LEVEQUE V F,7.0,9.0,12.0,0.0,1.0,0.0,0.0,2.0,39.0,0.0,5.0,75
+ESL,ESL,ESL 21B,LODMER E L,2.0,6.0,4.0,1.0,1.0,0.0,0.0,1.0,10.0,0.0,2.0,27
+ESL,ESL,ESL 21B,TRACEY M P,7.0,6.0,9.0,5.0,1.0,0.0,0.0,2.0,15.0,0.0,3.0,48
+ESL,ESL,ESL 21B,WOLFE R A,7.0,7.0,11.0,4.0,3.0,0.0,0.0,3.0,14.0,0.0,1.0,50
+ESL,ESL,ESL 23,GRAZIADEI K N,9.0,3.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,18
+ESL,ESL,ESL 28,IBARAKI A T,4.0,2.0,4.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,17
+Health Science,HEALTH,HEALTH 61,REES D M,15.0,6.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,39
+Health Science,NURSNG,NURSNG 1,ANGEL V M,1.0,20.0,17.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,40
+Health Science,NURSNG,NURSNG 1L,COREA I O,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,10
+Health Science,NURSNG,NURSNG 1L,MAYORGA A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,9.0,0.0,0.0,10
+Health Science,NURSNG,NURSNG 1L,MONTGOMERY L R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,10
+Health Science,NURSNG,NURSNG 1L,ORTEGA M M,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,1.0,10
+Health Science,NURSNG,NURSNG 2,KHOJA A M,12.0,24.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38
+Health Science,NURSNG,NURSNG 2L,CARBAJAL E,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,10
+Health Science,NURSNG,NURSNG 2L,HIRST V M,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,10
+Health Science,NURSNG,NURSNG 2L,ISLAS V I,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,9
+Health Science,NURSNG,NURSNG 2L,KHOJA A M,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,9
+Health Science,NURSNG,NURSNG 16,KHOJA A M,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,7.0,0.0,0.0,8
+Health Science,NURSNG,NURSNG 17,FRIEDMAN M H,12.0,19.0,15.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,19.0,68
+Health Science,NURSNG,NURSNG 20,WILLIAMS E J,0.0,14.0,21.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,38
+Health Science,NURSNG,NURSNG 20L,ABELEW S D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,7.0,0.0,0.0,8
+Health Science,NURSNG,NURSNG 20L,HIRST V M,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,6.0,0.0,0.0,8
+Health Science,NURSNG,NURSNG 20L,KHOJA A M,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,8
+Health Science,NURSNG,NURSNG 20L,MARKEY D J,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,8
+Health Science,NURSNG,NURSNG 20L,SMITH J M,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,6
+Health Science,NURSNG,NURSNG 25,LASTRAPE K,1.0,15.0,18.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35
+Health Science,NURSNG,NURSNG 25L,BANKS C A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,6
+Health Science,NURSNG,NURSNG 25L,LASTRAPE K,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,0.0,0.0,14
+Health Science,NURSNG,NURSNG 25L,PEREZ W A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,9
+Health Science,NURSNG,NURSNG 25L,RISINGER L A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,0.0,0.0,6
+Health Science,NURSNG,NURSNG 28,SHORT A D,27.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35
+Health Science,NURSNG,NURSNG 30,SHORT A D,4.0,13.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27
+Health Science,NURSNG,NURSNG 30L,LASTRAPE K,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,6
+Health Science,NURSNG,NURSNG 30L,OKONKWO N N,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,7
+Health Science,NURSNG,NURSNG 30L,SHORT A D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,6
+Health Science,NURSNG,NURSNG 30L,WILLIAMS E J,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,8
+Health Science,NURSNG,NURSNG 35,ANGEL V M,0.0,18.0,12.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,31
+Health Science,NURSNG,NURSNG 35L,DIAZ C Y,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,10
+Health Science,NURSNG,NURSNG 35L,FLORES B B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,0.0,0.0,6
+Health Science,NURSNG,NURSNG 35L,JAMALPANAH S,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,7
+Health Science,NURSNG,NURSNG 35L,MAYORGA A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,8
+Health Science,NURSNG,NURSNG 36,SHORT A D,16.0,4.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,6.0,32
+Health Science,NURSNG,NURSNG 36,WILLIAMS E J,14.0,8.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,25
+Health Science,NURSNG,NURSNG 40,LUU K H,12.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32
+Health Science,NURSNG,NURSNG 40L,ESTRELLA D J,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,0.0,0.0,16
+Health Science,NURSNG,NURSNG 40L,SCARLET A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,0.0,0.0,16
+Health Science,NURSNG,NURSNG 45,VALCIN‐LEWIS F,1.0,10.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33
+Health Science,NURSNG,NURSNG 45L,SMITH D L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,16.0,0.0,0.0,17
+Health Science,NURSNG,NURSNG 45L,VALCIN‐LEWIS F,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,0.0,0.0,16
+Health Science,NURSNG,NURSNG 50,WILLIAMS E J,10.0,6.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32
+Health Science,NURSNG,NURSNG 50L,MONTGOMERY L R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,9
+Health Science,NURSNG,NURSNG 50L,VALCIN‐LEWIS F,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,8
+Health Science,NURSNG,NURSNG 50L,WILLIAMS E J,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,15
+Health Science,RES TH,RES TH 1,SANTANA S A,9.0,4.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,18
+Health Science,RES TH,RES TH 29,SANTANA S A,8.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15
+Health Science,RES TH,RES TH 30,SANTANA S A,7.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14
+Health Science,RES TH,RES TH 70,SANTANA S A,2.0,4.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14
+History,ENVRN,ENVRN 14,BORGHEI S C,7.0,8.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,20
+History,ENVRN,ENVRN 14,KAWAGUCHI L A,4.0,0.0,2.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,9.0,21
+History,ENVRN,ENVRN 32,FOUSER D C,6.0,8.0,5.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,1.0,27
+History,HIST,HIST 1,BENNETT H M,21.0,15.0,8.0,4.0,8.0,0.0,0.0,1.0,0.0,0.0,9.0,66
+History,HIST,HIST 1,KENT M L,10.0,18.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,39
+History,HIST,HIST 1,MAYNC T M,11.0,9.0,5.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,8.0,41
+History,HIST,HIST 1,STILES C L,43.0,31.0,13.0,7.0,13.0,0.0,2.0,1.0,4.0,0.0,18.0,132
+History,HIST,HIST 1,VERLET M C,5.0,3.0,5.0,3.0,6.0,0.0,0.0,0.0,0.0,0.0,10.0,32
+History,HIST,HIST 2,BENNETT H M,9.0,2.0,7.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,11.0,35
+History,HIST,HIST 2,BYRNE D,14.0,28.0,12.0,6.0,11.0,0.0,0.0,0.0,1.0,0.0,8.0,80
+History,HIST,HIST 2,KENT M L,10.0,7.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,23
+History,HIST,HIST 2,MANOFF R J,15.0,6.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,5.0,29
+History,HIST,HIST 2,MAYNC T M,9.0,6.0,2.0,1.0,8.0,0.0,2.0,0.0,0.0,0.0,4.0,32
+History,HIST,HIST 2,STILES C L,21.0,10.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,5.0,39
+History,HIST,HIST 2,VERLET M C,3.0,3.0,2.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0,10.0,25
+History,HIST,HIST 4,STILES C L,32.0,6.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,5.0,46
+History,HIST,HIST 5,GARCIA R M,12.0,12.0,5.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,1.0,34
+History,HIST,HIST 10,AMERIAN‐DONNELL S M,14.0,22.0,24.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,79
+History,HIST,HIST 10,CRUZ J S,21.0,12.0,15.0,3.0,8.0,0.0,1.0,0.0,0.0,0.0,19.0,79
+History,HIST,HIST 10,KAWAGUCHI L A,5.0,18.0,33.0,10.0,22.0,0.0,2.0,0.0,1.0,0.0,63.0,154
+History,HIST,HIST 10,MARINO J M,20.0,55.0,19.0,3.0,12.0,0.0,0.0,1.0,4.0,0.0,22.0,136
+History,HIST,HIST 10,MYERS B E,23.0,14.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,45
+History,HIST,HIST 10,SLAUGHTER M A,14.0,15.0,8.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,2.0,43
+History,HIST,HIST 11,AMERIAN‐DONNELL S M,30.0,14.0,10.0,4.0,2.0,0.0,1.0,0.0,0.0,0.0,9.0,70
+History,HIST,HIST 11,BOLELLI D,18.0,17.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,43
+History,HIST,HIST 11,KEVILLE T J,26.0,27.0,14.0,3.0,15.0,0.0,0.0,1.0,2.0,0.0,18.0,106
+History,HIST,HIST 11,LYNCH S H,25.0,40.0,16.0,5.0,13.0,0.0,0.0,0.0,2.0,0.0,23.0,124
+History,HIST,HIST 11,VANBENSCHOTEN W D,8.0,10.0,13.0,7.0,5.0,0.0,1.0,1.0,1.0,0.0,21.0,67
+History,HIST,HIST 12,BOLELLI D,9.0,18.0,5.0,0.0,5.0,0.0,0.0,0.0,1.0,0.0,7.0,45
+History,HIST,HIST 12,CHI J S,11.0,33.0,18.0,7.0,9.0,0.0,1.0,0.0,1.0,0.0,13.0,93
+History,HIST,HIST 12,MANOFF R J,22.0,16.0,7.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,4.0,53
+History,HIST,HIST 12,MCMILLEN R,14.0,7.0,6.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,3.0,35
+History,HIST,HIST 12,MORENO M,31.0,25.0,10.0,5.0,7.0,0.0,0.0,2.0,0.0,0.0,18.0,98
+History,HIST,HIST 12,VANBENSCHOTEN W D,11.0,7.0,2.0,0.0,6.0,0.0,0.0,0.0,2.0,0.0,12.0,40
+History,HIST,HIST 13,WILKINSON JR E C,18.0,8.0,1.0,0.0,1.0,0.0,3.0,0.0,1.0,0.0,10.0,42
+History,HIST,HIST 14,BORGHEI S C,6.0,5.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,15
+History,HIST,HIST 14,KAWAGUCHI L A,0.0,1.0,2.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,11.0,18
+History,HIST,HIST 16,CLAYBORNE D,6.0,6.0,1.0,3.0,18.0,0.0,0.0,0.0,0.0,0.0,11.0,45
+History,HIST,HIST 16,MCMILLEN R,27.0,5.0,1.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,2.0,39
+History,HIST,HIST 20,WILKINSON JR E C,14.0,9.0,1.0,0.0,2.0,0.0,2.0,1.0,0.0,0.0,3.0,32
+History,HIST,HIST 22,YEGANEHSHAKIB R,19.0,7.0,5.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,4.0,37
+History,HIST,HIST 25,REILLY B J,19.0,5.0,5.0,0.0,3.0,0.0,0.0,1.0,0.0,0.0,8.0,41
+History,HIST,HIST 28,BENNETT H M,9.0,7.0,4.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,1.0,27
+History,HIST,HIST 32,FOUSER D C,9.0,4.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,16
+History,HIST,HIST 33,REILLY B J,14.0,11.0,12.0,4.0,12.0,0.0,0.0,0.0,1.0,0.0,12.0,66
+History,HIST,HIST 34,REILLY B J,8.0,7.0,11.0,6.0,24.0,0.0,0.0,0.0,0.0,0.0,19.0,75
+History,HIST,HIST 34,YEGANEHSHAKIB R,12.0,2.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.0,24
+History,HIST,HIST 42,MORENO M,6.0,7.0,4.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,9.0,30
+History,HIST,HIST 47,BENNETT H M,5.0,8.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,9.0,25
+History,HIST,HIST 47,MORENO M,7.0,8.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,20
+History,HIST,HIST 52,AMERIAN‐DONNELL S M,7.0,3.0,3.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,3.0,19
+History,HIST,HIST 53,BOLELLI D,14.0,5.0,4.0,0.0,3.0,0.0,0.0,0.0,2.0,0.0,9.0,37
+History,HIST,HIST 88B,CHI J S,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Athletics and Kinesiology,HEALTH,HEALTH 10,CHAVEZ E C,28.0,7.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,42
+Athletics and Kinesiology,HEALTH,HEALTH 10,HANK M E,57.0,6.0,5.0,0.0,4.0,0.0,0.0,0.0,1.0,0.0,6.0,79
+Athletics and Kinesiology,HEALTH,HEALTH 10,KAUFMAN D,33.0,7.0,4.0,2.0,14.0,0.0,0.0,0.0,1.0,0.0,11.0,72
+Athletics and Kinesiology,HEALTH,HEALTH 10,METZLER K A,41.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,44
+Athletics and Kinesiology,HEALTH,HEALTH 10,SEWELL L,5.0,9.0,6.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0,10.0,37
+Athletics and Kinesiology,HEALTH,HEALTH 10,STRONG L M,14.0,30.0,8.0,9.0,3.0,0.0,0.0,0.0,0.0,0.0,17.0,81
+Athletics and Kinesiology,HEALTH,HEALTH 11,SHIMA T H,33.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,40
+Athletics and Kinesiology,KIN PE,KIN PE 2,METZLER K A,24.0,2.0,4.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,6.0,40
+Athletics and Kinesiology,KIN PE,KIN PE 3,METZLER K A,8.0,4.0,6.0,3.0,7.0,0.0,0.0,0.0,0.0,0.0,2.0,30
+Athletics and Kinesiology,KIN PE,KIN PE 4,METZLER K A,16.0,6.0,9.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,2.0,38
+Athletics and Kinesiology,KIN PE,KIN PE 5B,KALAFER F,25.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,30
+Athletics and Kinesiology,KIN PE,KIN PE 5C,DUMITRIU E,26.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0,31
+Athletics and Kinesiology,KIN PE,KIN PE 9A,BARNETT R T,15.0,4.0,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,24
+Athletics and Kinesiology,KIN PE,KIN PE 9A,STRONG L M,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,29
+Athletics and Kinesiology,KIN PE,KIN PE 9B,MAIDENBERG J D,17.0,12.0,2.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,2.0,36
+Athletics and Kinesiology,KIN PE,KIN PE 9B,THOMAS J L,26.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0,31
+Athletics and Kinesiology,KIN PE,KIN PE 9C,ROTH L M,3.0,6.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,14
+Athletics and Kinesiology,KIN PE,KIN PE 9C,THOMAS J L,8.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,10
+Athletics and Kinesiology,KIN PE,KIN PE 10A,BARNETT R T,20.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,27
+Athletics and Kinesiology,KIN PE,KIN PE 10A,LEDWITH K F,49.0,10.0,4.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,14.0,80
+Athletics and Kinesiology,KIN PE,KIN PE 10A,THOMAS J L,29.0,2.0,0.0,0.0,4.0,0.0,0.0,0.0,1.0,0.0,15.0,51
+Athletics and Kinesiology,KIN PE,KIN PE 10C,LEDWITH K F,15.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,22
+Athletics and Kinesiology,KIN PE,KIN PE 10C,SHICKMAN T D,13.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,8.0,24
+Athletics and Kinesiology,KIN PE,KIN PE 11A,BARNETT R T,16.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,22
+Athletics and Kinesiology,KIN PE,KIN PE 11A,LEDWITH K F,13.0,7.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,26
+Athletics and Kinesiology,KIN PE,KIN PE 11A,SEYMOUR P S,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,5.0,18
+Athletics and Kinesiology,KIN PE,KIN PE 11B,BARNETT R T,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,19
+Athletics and Kinesiology,KIN PE,KIN PE 11B,MOSICH N W,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,7
+Athletics and Kinesiology,KIN PE,KIN PE 11C,BARNETT R T,36.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,9.0,48
+Athletics and Kinesiology,KIN PE,KIN PE 11N,HANK M E,13.0,1.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,21
+Athletics and Kinesiology,KIN PE,KIN PE 11N,MOSICH N W,6.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,10
+Athletics and Kinesiology,KIN PE,KIN PE 12,HANK M E,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,15
+Athletics and Kinesiology,KIN PE,KIN PE 14,BARRON E A,14.0,5.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,26
+Athletics and Kinesiology,KIN PE,KIN PE 14B,BARRON E A,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5
+Athletics and Kinesiology,KIN PE,KIN PE 14C,BARRON E A,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Athletics and Kinesiology,KIN PE,KIN PE 16A,EASTCOTT M B,38.0,5.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,6.0,52
+Athletics and Kinesiology,KIN PE,KIN PE 16B,EASTCOTT M B,17.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,26
+Athletics and Kinesiology,KIN PE,KIN PE 17,STRONG L M,30.0,6.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,47
+Athletics and Kinesiology,KIN PE,KIN PE 19C,BARNETT R T,17.0,0.0,0.0,1.0,3.0,0.0,1.0,0.0,0.0,0.0,2.0,24
+Athletics and Kinesiology,KIN PE,KIN PE 19C,OCAMPO J M,19.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,25
+Athletics and Kinesiology,KIN PE,KIN PE 19C,SEYMOUR P S,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,18
+Athletics and Kinesiology,KIN PE,KIN PE 19C,SHICKMAN T D,16.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,22
+Athletics and Kinesiology,KIN PE,KIN PE 19D,ANKENY K L,10.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,6.0,20
+Athletics and Kinesiology,KIN PE,KIN PE 19D,SHIMA T H,14.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,5.0,23
+Athletics and Kinesiology,KIN PE,KIN PE 19E,HUNER K A,15.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,26
+Athletics and Kinesiology,KIN PE,KIN PE 19E,PORTER L A,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,26
+Athletics and Kinesiology,KIN PE,KIN PE 21C,KEARIN J L,9.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,12
+Athletics and Kinesiology,KIN PE,KIN PE 25A,RALSTON L C,11.0,2.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,15
+Athletics and Kinesiology,KIN PE,KIN PE 25B,RALSTON L C,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,10
+Athletics and Kinesiology,KIN PE,KIN PE 25C,RALSTON L C,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,9
+Athletics and Kinesiology,KIN PE,KIN PE 25D,RALSTON L C,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+Athletics and Kinesiology,KIN PE,KIN PE 34A,LEONG J R,11.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,2.0,17
+Athletics and Kinesiology,KIN PE,KIN PE 34B,LEONG J R,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5
+Athletics and Kinesiology,KIN PE,KIN PE 34D,LEONG J R,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4
+Athletics and Kinesiology,KIN PE,KIN PE 41M,LEVY B,16.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,22
+Athletics and Kinesiology,KIN PE,KIN PE 41W,EASTCOTT M B,13.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,4.0,20
+Athletics and Kinesiology,KIN PE,KIN PE 41W,TANAKA J Y,38.0,4.0,3.0,0.0,4.0,0.0,0.0,0.0,2.0,0.0,8.0,59
+Athletics and Kinesiology,KIN PE,KIN PE 43A,BENDITSON A,27.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,34
+Athletics and Kinesiology,KIN PE,KIN PE 43B,PIERCE T L,17.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,25
+Athletics and Kinesiology,KIN PE,KIN PE 43B,SEYMOUR P S,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,12
+Athletics and Kinesiology,KIN PE,KIN PE 43C,BENDITSON A,6.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,10
+Athletics and Kinesiology,KIN PE,KIN PE 43C,LIPMAN L,8.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14
+Athletics and Kinesiology,KIN PE,KIN PE 43C,PIERCE T L,7.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10
+Athletics and Kinesiology,KIN PE,KIN PE 43C,SEYMOUR P S,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,14
+Athletics and Kinesiology,KIN PE,KIN PE 43D,BENDITSON A,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7
+Athletics and Kinesiology,KIN PE,KIN PE 43D,LIPMAN L,9.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,11
+Athletics and Kinesiology,KIN PE,KIN PE 43D,PIERCE T L,35.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,41
+Athletics and Kinesiology,KIN PE,KIN PE 48A,CASCINO N V,14.0,11.0,5.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0,9.0,46
+Athletics and Kinesiology,KIN PE,KIN PE 48B,CASCINO N V,6.0,3.0,5.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,4.0,23
+Athletics and Kinesiology,KIN PE,KIN PE 48B,CHAVEZ E C,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,16
+Athletics and Kinesiology,KIN PE,KIN PE 48B,ROBERTS JR P E,13.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,17
+Athletics and Kinesiology,KIN PE,KIN PE 48C,BULLOCK J A,15.0,3.0,0.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,8.0,30
+Athletics and Kinesiology,KIN PE,KIN PE 48C,CONTARSY S A,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,8
+Athletics and Kinesiology,KIN PE,KIN PE 48D,BULLOCK J A,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,8
+Athletics and Kinesiology,KIN PE,KIN PE 48D,CONTARSY S A,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,6
+Athletics and Kinesiology,KIN PE,KIN PE 51A,RODMAN S L,28.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,30
+Athletics and Kinesiology,KIN PE,KIN PE 51B,RODMAN S L,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3
+Athletics and Kinesiology,KIN PE,KIN PE 53A,LIVSHIN B S,23.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,26
+Athletics and Kinesiology,KIN PE,KIN PE 53B,LIVSHIN B S,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,10
+Athletics and Kinesiology,KIN PE,KIN PE 54A,LEMON D R,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0,12
+Athletics and Kinesiology,KIN PE,KIN PE 54B,LEMON D R,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,12
+Athletics and Kinesiology,KIN PE,KIN PE 54C,MOLSING J P,10.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,17
+Athletics and Kinesiology,KIN PE,KIN PE 54D,MOLSING J P,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,6
+Athletics and Kinesiology,KIN PE,KIN PE 56A,ANKENY K L,14.0,5.0,4.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,26
+Athletics and Kinesiology,KIN PE,KIN PE 57A,ROQUE E M,16.0,3.0,2.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,5.0,30
+Athletics and Kinesiology,KIN PE,KIN PE 57B,DOUGLAS T B JR,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,7
+Athletics and Kinesiology,KIN PE,KIN PE 57B,ROQUE E M,5.0,3.0,1.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,4.0,16
+Athletics and Kinesiology,KIN PE,KIN PE 57C,DOUGLAS T B JR,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,8
+Athletics and Kinesiology,KIN PE,KIN PE 57C,ROQUE E M,3.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5
+Athletics and Kinesiology,KIN PE,KIN PE 58A,BENNETT J L,11.0,6.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.0,27
+Athletics and Kinesiology,KIN PE,KIN PE 58A,CHAVEZ E C,25.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,30
+Athletics and Kinesiology,KIN PE,KIN PE 58A,HUNER K A,24.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,4.0,32
+Athletics and Kinesiology,KIN PE,KIN PE 58A,QUALEY K N,29.0,11.0,3.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,6.0,55
+Athletics and Kinesiology,KIN PE,KIN PE 58A,ROQUE E M,12.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0,18
+Athletics and Kinesiology,KIN PE,KIN PE 58A,SANDOVAL H J,22.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,29
+Athletics and Kinesiology,KIN PE,KIN PE 58B,BENNETT J L,20.0,7.0,5.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,8.0,47
+Athletics and Kinesiology,KIN PE,KIN PE 58B,HUNER K A,16.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,24
+Athletics and Kinesiology,KIN PE,KIN PE 58B,PORTER L A,23.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,25
+Athletics and Kinesiology,KIN PE,KIN PE 58B,QUALEY K N,23.0,6.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,36
+Athletics and Kinesiology,KIN PE,KIN PE 58B,ROQUE E M,4.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6
+Athletics and Kinesiology,KIN PE,KIN PE 58B,SANDOVAL H J,13.0,5.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,6.0,26
+Athletics and Kinesiology,KIN PE,KIN PE 58C,BENNETT J L,9.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,13
+Athletics and Kinesiology,KIN PE,KIN PE 58C,HUNER K A,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3
+Athletics and Kinesiology,KIN PE,KIN PE 58C,SANDOVAL H J,8.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,13
+Athletics and Kinesiology,KIN PE,KIN PE 88A,ROQUE E M,30.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,32
+Athletics and Kinesiology,PRO CR,PRO CR 7,BENDITSON A,22.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,4.0,30
+Athletics and Kinesiology,PRO CR,PRO CR 10,THOMAS J L,27.0,31.0,13.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,7.0,82
+Athletics and Kinesiology,PRO CR,PRO CR 11,BERTELL M,4.0,8.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,2.0,20
+Athletics and Kinesiology,PRO CR,PRO CR 12,SHIMA T H,11.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,16
+Athletics and Kinesiology,PRO CR,PRO CR 19,THOMAS J L,17.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,4.0,25
+Athletics and Kinesiology,PRO CR,PRO CR 25,METZLER K A,14.0,8.0,2.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,2.0,31
+Library,LIBR,LIBR 1,ANTRIM B S,25.0,2.0,1.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,3.0,35
+Library,LIBR,LIBR 1,BAUTISTA C,16.0,8.0,3.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,10.0,41
+Library,LIBR,LIBR 1,PARISE M P,30.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,36
+Life Science,ANATMY,ANATMY 1,BUTTERWORTH P R,3.0,0.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,14.0,23
+Life Science,ANATMY,ANATMY 1,COVITT G S,3.0,1.0,8.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,15.0,34
+Life Science,ANATMY,ANATMY 1,ELLIS C L,8.0,8.0,10.0,4.0,7.0,0.0,0.0,0.0,2.0,0.0,39.0,78
+Life Science,ANATMY,ANATMY 1,FICKBOHM D J,16.0,19.0,2.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,14.0,54
+Life Science,ANATMY,ANATMY 1,GRANT C,1.0,7.0,7.0,2.0,8.0,0.0,0.0,0.0,0.0,0.0,3.0,28
+Life Science,ANATMY,ANATMY 1,HUTCHINSON S C,6.0,5.0,3.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,42.0,61
+Life Science,ANATMY,ANATMY 1,KANJANAPANGKA J,5.0,2.0,5.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,14.0,29
+Life Science,ANATMY,ANATMY 1,LE M K,7.0,1.0,6.0,3.0,1.0,0.0,0.0,0.0,1.0,0.0,4.0,23
+Life Science,ANATMY,ANATMY 1,OLSEN B D,1.0,1.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,20.0,26
+Life Science,ANATMY,ANATMY 1,SKYDELL J L,2.0,1.0,2.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,24.0,33
+Life Science,ANATMY,ANATMY 1,WILLIAMS R R,13.0,13.0,2.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,7.0,37
+Life Science,ANATMY,ANATMY 1,WISSMANN P B,6.0,3.0,4.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,25.0,43
+Life Science,ANATMY,ANATMY 1,ZIV N B,5.0,4.0,3.0,2.0,5.0,0.0,1.0,0.0,0.0,0.0,13.0,33
+Life Science,ANATMY,ANATMY 1,ZUK P A,16.0,5.0,4.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,7.0,35
+Life Science,BIOL,BIOL 2,BUCHANAN A G,5.0,8.0,3.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,11.0,32
+Life Science,BIOL,BIOL 2,DELL M M,3.0,2.0,6.0,0.0,7.0,0.0,0.0,0.0,2.0,0.0,15.0,35
+Life Science,BIOL,BIOL 2,HAWK R,12.0,9.0,10.0,6.0,3.0,0.0,1.0,0.0,0.0,0.0,10.0,51
+Life Science,BIOL,BIOL 2,HUTCHINSON S C,27.0,22.0,12.0,1.0,3.0,0.0,0.0,0.0,15.0,0.0,4.0,84
+Life Science,BIOL,BIOL 2,JOHNSON JA J,35.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,1.0,44
+Life Science,BIOL,BIOL 2,KIM‐RAJAB O S,6.0,3.0,5.0,2.0,4.0,0.0,0.0,1.0,0.0,0.0,16.0,37
+Life Science,BIOL,BIOL 2,NELSON R E,16.0,14.0,6.0,1.0,2.0,0.0,0.0,0.0,3.0,0.0,6.0,48
+Life Science,BIOL,BIOL 2,PRICE W M,3.0,5.0,10.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,14.0,34
+Life Science,BIOL,BIOL 2,SKYDELL J L,2.0,5.0,8.0,0.0,9.0,0.0,0.0,0.0,2.0,0.0,18.0,44
+Life Science,BIOL,BIOL 3,AUSTIN D C,10.0,7.0,0.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,9.0,31
+Life Science,BIOL,BIOL 3,BAKER E H,9.0,9.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,24
+Life Science,BIOL,BIOL 3,BERBEO A E,36.0,9.0,9.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,5.0,64
+Life Science,BIOL,BIOL 3,CASSANO V P,15.0,6.0,5.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,4.0,34
+Life Science,BIOL,BIOL 3,COURTNEY A,53.0,5.0,0.0,1.0,2.0,0.0,0.0,0.0,3.0,0.0,1.0,65
+Life Science,BIOL,BIOL 3,FENNOY S L,8.0,10.0,18.0,4.0,3.0,0.0,0.0,0.0,1.0,0.0,16.0,60
+Life Science,BIOL,BIOL 3,JAYACHANDRAN S,14.0,10.0,5.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,1.0,33
+Life Science,BIOL,BIOL 3,JORDAN E A,7.0,7.0,3.0,4.0,0.0,0.0,0.0,1.0,2.0,0.0,7.0,31
+Life Science,BIOL,BIOL 3,KAY B W,5.0,2.0,5.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,4.0,18
+Life Science,BIOL,BIOL 3,KIM‐RAJAB O S,21.0,16.0,11.0,0.0,4.0,0.0,0.0,1.0,3.0,0.0,24.0,80
+Life Science,BIOL,BIOL 3,NICHOLS L B,10.0,5.0,4.0,4.0,1.0,0.0,0.0,0.0,1.0,0.0,5.0,30
+Life Science,BIOL,BIOL 3,RAYMER P C,33.0,14.0,19.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,71
+Life Science,BIOL,BIOL 3,ROMERO R,5.0,8.0,9.0,5.0,0.0,0.0,0.0,1.0,1.0,0.0,3.0,32
+Life Science,BIOL,BIOL 3,STRUGATSKY D,14.0,15.0,16.0,1.0,3.0,0.0,0.0,0.0,2.0,0.0,6.0,57
+Life Science,BIOL,BIOL 3,VON DER OHE C G,15.0,3.0,4.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,25
+Life Science,BIOL,BIOL 3,WENGELER W R,7.0,6.0,6.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,5.0,27
+Life Science,BIOL,BIOL 9,DAVIS H A,2.0,16.0,6.0,0.0,8.0,0.0,1.0,0.0,0.0,0.0,7.0,40
+Life Science,BIOL,BIOL 9,JORDAN E A,6.0,6.0,9.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,29
+Life Science,BIOL,BIOL 9,MCLAUGHLIN D,15.0,6.0,13.0,1.0,4.0,0.0,0.0,0.0,1.0,0.0,17.0,57
+Life Science,BIOL,BIOL 9,RAYMER P C,18.0,19.0,9.0,6.0,5.0,0.0,0.0,0.0,1.0,0.0,10.0,68
+Life Science,BIOL,BIOL 9,SAKURAI D S,10.0,13.0,28.0,5.0,8.0,0.0,0.0,0.0,0.0,0.0,12.0,76
+Life Science,BIOL,BIOL 15,FOX C H,4.0,8.0,7.0,5.0,4.0,0.0,0.0,0.0,0.0,0.0,4.0,32
+Life Science,BIOL,BIOL 15,YATES D C,5.0,8.0,5.0,3.0,3.0,0.0,0.0,0.0,1.0,0.0,5.0,30
+Life Science,BIOL,BIOL 15N,FOX C H,4.0,3.0,4.0,1.0,7.0,0.0,0.0,0.0,0.0,0.0,5.0,24
+Life Science,BIOL,BIOL 15N,WALL C B,5.0,5.0,5.0,0.0,7.0,0.0,0.0,0.0,1.0,0.0,4.0,27
+Life Science,BIOL,BIOL 21,SCURIC Z,13.0,8.0,10.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,10.0,46
+Life Science,BIOL,BIOL 21,VAGIN O,37.0,15.0,8.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,67
+Life Science,BIOL,BIOL 22,BOBER M A,16.0,29.0,18.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,25.0,92
+Life Science,BIOL,BIOL 23,NICHOLS L B,24.0,19.0,12.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,62
+Life Science,BIOL,BIOL 88B,TOWER J A,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Life Science,BOTANY,BOTANY 1,DAVIS H A,12.0,9.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,6.0,30
+Life Science,BOTANY,BOTANY 1,HAGHIGHAT M,11.0,24.0,6.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,9.0,56
+Life Science,MCRBIO,MCRBIO 1,BUCHANAN A G,15.0,13.0,4.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,4.0,41
+Life Science,MCRBIO,MCRBIO 1,GUPTA R K,11.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,20
+Life Science,MCRBIO,MCRBIO 1,NAREY V,21.0,10.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,48
+Life Science,MCRBIO,MCRBIO 1,PEPPER E D,12.0,8.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28
+Life Science,NUTR,NUTR 1,ABICH M L,9.0,8.0,4.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0,1.0,29
+Life Science,NUTR,NUTR 1,ACKERSON A K,9.0,9.0,3.0,1.0,8.0,0.0,0.0,0.0,0.0,0.0,8.0,38
+Life Science,NUTR,NUTR 1,MERCER J E,10.0,14.0,5.0,6.0,3.0,0.0,0.0,1.0,0.0,0.0,8.0,47
+Life Science,NUTR,NUTR 1,NOVAK D S,14.0,18.0,19.0,11.0,3.0,0.0,0.0,0.0,0.0,0.0,12.0,77
+Life Science,NUTR,NUTR 1,ORTEGA Y,37.0,18.0,15.0,2.0,2.0,0.0,0.0,1.0,0.0,0.0,5.0,80
+Life Science,NUTR,NUTR 1,RICHWINE D R,43.0,30.0,21.0,5.0,10.0,0.0,0.0,0.0,0.0,0.0,21.0,130
+Life Science,NUTR,NUTR 1,SALERNO L A,24.0,32.0,23.0,9.0,10.0,0.0,0.0,0.0,0.0,0.0,5.0,103
+Life Science,NUTR,NUTR 4,MERCER J E,7.0,13.0,6.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,6.0,36
+Life Science,NUTR,NUTR 4,ORTEGA Y,11.0,11.0,8.0,0.0,5.0,0.0,0.0,1.0,1.0,0.0,2.0,39
+Life Science,NUTR,NUTR 7,NOVAK D S,9.0,6.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,35
+Life Science,NUTR,NUTR 7,ORTEGA Y,16.0,9.0,4.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,9.0,39
+Life Science,NUTR,NUTR 8,BECKWITH S E,8.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,12
+Life Science,PHYS,PHYS 3,ADAMS E E,8.0,3.0,6.0,1.0,6.0,0.0,0.0,0.0,0.0,0.0,4.0,28
+Life Science,PHYS,PHYS 3,CRUZ‐ARAUJO H F,7.0,5.0,7.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,23
+Life Science,PHYS,PHYS 3,GRANT C,14.0,9.0,3.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,11.0,43
+Life Science,PHYS,PHYS 3,JOHNSON JA J,20.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,28
+Life Science,PHYS,PHYS 3,PERKINS K K,12.0,15.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,12.0,45
+Life Science,PHYS,PHYS 3,PRICE W M,4.0,8.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,19
+Life Science,PHYS,PHYS 3,VON DER OHE C G,25.0,10.0,7.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,51
+Life Science,ZOOL,ZOOL 5,GARTNER G E,29.0,25.0,21.0,1.0,4.0,0.0,0.0,0.0,3.0,0.0,7.0,90
+Life Science,ZOOL,ZOOL 5,MOSS J L,2.0,7.0,5.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,6.0,26
+Life Science,ZOOL,ZOOL 5,PATEL A,13.0,8.0,5.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,32
+Mathematics,MATH,MATH 1,BENE A J,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,13.0,0.0,4.0,27
+Mathematics,MATH,MATH 1,LONDON J S,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,17.0,0.0,5.0,27
+Mathematics,MATH,MATH 1,LUI‐MARTINEZ KR D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,10.0,0.0,7.0,25
+Mathematics,MATH,MATH 1,MIANO I A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,12.0,0.0,9.0,28
+Mathematics,MATH,MATH 1,MUSSELMAN M J,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,18.0,0.0,4.0,23
+Mathematics,MATH,MATH 1,OUELLETTE K R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,24.0,0.0,7.0,33
+Mathematics,MATH,MATH 1,QUEVEDO J M,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,21.0,0.0,4.0,29
+Mathematics,MATH,MATH 1,ROSS K R,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,13.0,0.0,12.0,28
+Mathematics,MATH,MATH 2,BASKAUSKAS V A,2.0,6.0,13.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,11.0,36
+Mathematics,MATH,MATH 2,DAVID P A,12.0,7.0,9.0,6.0,9.0,0.0,0.0,0.0,0.0,0.0,2.0,45
+Mathematics,MATH,MATH 2,FRY G P,6.0,3.0,1.0,2.0,6.0,0.0,0.0,1.0,0.0,0.0,21.0,40
+Mathematics,MATH,MATH 2,GROLLMUS D P,15.0,20.0,16.0,10.0,12.0,0.0,0.0,0.0,0.0,0.0,14.0,87
+Mathematics,MATH,MATH 2,JIMENEZ B S,5.0,5.0,6.0,1.0,8.0,0.0,0.0,0.0,0.0,0.0,18.0,43
+Mathematics,MATH,MATH 2,KAMIN G,4.0,6.0,1.0,1.0,3.0,0.0,0.0,0.0,1.0,0.0,13.0,29
+Mathematics,MATH,MATH 2,KARKAFI R H,6.0,0.0,2.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,11.0,39
+Mathematics,MATH,MATH 2,MAN S,6.0,4.0,7.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,9.0,33
+Mathematics,MATH,MATH 2,MAZOROW M M,7.0,4.0,4.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,23.0,44
+Mathematics,MATH,MATH 2,NESTLER A E,0.0,0.0,2.0,8.0,3.0,0.0,0.0,0.0,0.0,0.0,21.0,34
+Mathematics,MATH,MATH 2,QUEVEDO J M,1.0,1.0,5.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,21
+Mathematics,MATH,MATH 2,RAMSEY E D,8.0,4.0,5.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,7.0,27
+Mathematics,MATH,MATH 2,SARKSSIAN H,16.0,2.0,6.0,6.0,5.0,0.0,0.0,1.0,0.0,0.0,8.0,44
+Mathematics,MATH,MATH 2,WONG B L,4.0,2.0,5.0,2.0,7.0,0.0,0.0,0.0,0.0,0.0,8.0,28
+Mathematics,MATH,MATH 3,HERICHI H,4.0,6.0,7.0,5.0,12.0,0.0,0.0,0.0,1.0,0.0,11.0,46
+Mathematics,MATH,MATH 4,NGUYEN D T,1.0,6.0,4.0,3.0,13.0,0.0,0.0,0.0,1.0,0.0,13.0,41
+Mathematics,MATH,MATH 7,BENE A J,7.0,3.0,6.0,7.0,3.0,0.0,0.0,0.0,0.0,0.0,17.0,43
+Mathematics,MATH,MATH 7,BOOSHERI S G,9.0,2.0,6.0,8.0,5.0,0.0,0.0,0.0,0.0,0.0,12.0,42
+Mathematics,MATH,MATH 7,DOKOS P,9.0,9.0,8.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,6.0,39
+Mathematics,MATH,MATH 7,HANCOCK M D,13.0,10.0,9.0,4.0,2.0,0.0,0.0,1.0,0.0,0.0,7.0,46
+Mathematics,MATH,MATH 7,HONG A M,0.0,0.0,5.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,10.0,20
+Mathematics,MATH,MATH 7,JAHANGARD E,1.0,2.0,4.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,19.0,34
+Mathematics,MATH,MATH 7,KONYA W,1.0,3.0,2.0,10.0,4.0,0.0,0.0,0.0,0.0,0.0,11.0,31
+Mathematics,MATH,MATH 7,LUI‐MARTINEZ KR D,5.0,8.0,5.0,2.0,7.0,0.0,0.0,0.0,0.0,0.0,19.0,46
+Mathematics,MATH,MATH 7,MANOOKIAN N,15.0,7.0,5.0,4.0,9.0,0.0,0.0,0.0,0.0,0.0,11.0,51
+Mathematics,MATH,MATH 7,RODAS B G,6.0,3.0,5.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,8.0,26
+Mathematics,MATH,MATH 7,WANG J D,4.0,3.0,6.0,6.0,7.0,0.0,0.0,0.0,0.0,0.0,17.0,43
+Mathematics,MATH,MATH 8,ASKARIAN S N,16.0,7.0,3.0,1.0,6.0,0.0,0.0,0.0,0.0,0.0,11.0,44
+Mathematics,MATH,MATH 8,HONG A M,0.0,1.0,4.0,6.0,4.0,0.0,0.0,0.0,0.0,0.0,12.0,27
+Mathematics,MATH,MATH 8,JAHANGARD E,3.0,5.0,4.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,18.0,36
+Mathematics,MATH,MATH 8,KONYA W,5.0,13.0,1.0,7.0,11.0,0.0,0.0,0.0,0.0,0.0,16.0,53
+Mathematics,MATH,MATH 8,LAI I,17.0,20.0,17.0,5.0,6.0,0.0,0.0,0.0,0.0,0.0,30.0,95
+Mathematics,MATH,MATH 8,NESTLER A E,1.0,1.0,5.0,13.0,1.0,0.0,0.0,0.0,0.0,0.0,16.0,37
+Mathematics,MATH,MATH 8,PACHAS‐FLORES W,9.0,5.0,3.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,24.0,45
+Mathematics,MATH,MATH 10,KONYA W,4.0,10.0,8.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,31
+Mathematics,MATH,MATH 10,NESTLER A E,2.0,2.0,4.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,11.0,30
+Mathematics,MATH,MATH 11,DOKOS P,14.0,14.0,10.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,46
+Mathematics,MATH,MATH 11,HERICHI H,12.0,17.0,9.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,6.0,47
+Mathematics,MATH,MATH 11,HONG A M,0.0,2.0,8.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,17
+Mathematics,MATH,MATH 11,SOLEYMANI S,16.0,11.0,4.0,10.0,2.0,0.0,1.0,0.0,0.0,0.0,5.0,49
+Mathematics,MATH,MATH 13,ASKARIAN S N,10.0,7.0,3.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,9.0,34
+Mathematics,MATH,MATH 13,MAZOROW M M,4.0,7.0,7.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,12.0,36
+Mathematics,MATH,MATH 13,NESTLER A E,2.0,2.0,4.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,29
+Mathematics,MATH,MATH 13,OUELLETTE K R,12.0,8.0,7.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,33
+Mathematics,MATH,MATH 15,HERICHI H,12.0,19.0,4.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,5.0,45
+Mathematics,MATH,MATH 15,MALDAGUE J,13.0,8.0,7.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,8.0,41
+Mathematics,MATH,MATH 15,PACHAS‐FLORES W,8.0,4.0,8.0,4.0,7.0,0.0,0.0,0.0,0.0,0.0,9.0,40
+Mathematics,MATH,MATH 18,BAYSSA B T,3.0,5.0,12.0,2.0,9.0,0.0,0.0,0.0,0.0,0.0,12.0,43
+Mathematics,MATH,MATH 18,CARTY B,3.0,1.0,6.0,5.0,11.0,0.0,0.0,0.0,0.0,0.0,7.0,33
+Mathematics,MATH,MATH 18,GHARAMANIANS J,4.0,3.0,8.0,3.0,12.0,0.0,0.0,0.0,0.0,0.0,13.0,43
+Mathematics,MATH,MATH 18,GRAVES L P,1.0,1.0,8.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0,13.0,30
+Mathematics,MATH,MATH 18,JIANG J,5.0,10.0,12.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,9.0,42
+Mathematics,MATH,MATH 18,MAKNOUNI M,2.0,8.0,8.0,5.0,4.0,0.0,1.0,0.0,1.0,0.0,5.0,34
+Mathematics,MATH,MATH 1B,LONDON J S,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,4.0,0.0,1.0,7
+Mathematics,MATH,MATH 1B,LUI‐MARTINEZ KR D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,1.0,5
+Mathematics,MATH,MATH 1B,MUSSELMAN M J,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,1.0,5
+Mathematics,MATH,MATH 1B,QUEVEDO J M,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,3
+Mathematics,MATH,MATH 1C,LONDON J S,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1
+Mathematics,MATH,MATH 1C,LUI‐MARTINEZ KR D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1
+Mathematics,MATH,MATH 20,CHAU E,4.0,5.0,8.0,2.0,9.0,0.0,0.0,0.0,0.0,0.0,9.0,37
+Mathematics,MATH,MATH 20,CHITGAR M H,5.0,1.0,7.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,13.0,32
+Mathematics,MATH,MATH 20,ENGLAND A M,2.0,6.0,9.0,7.0,8.0,0.0,0.0,0.0,0.0,0.0,10.0,42
+Mathematics,MATH,MATH 20,FOSTER M,1.0,4.0,11.0,0.0,29.0,0.0,0.0,0.0,0.0,0.0,17.0,62
+Mathematics,MATH,MATH 20,GRAVES L P,1.0,1.0,4.0,5.0,4.0,0.0,0.0,0.0,0.0,0.0,12.0,27
+Mathematics,MATH,MATH 20,HERICHI H,5.0,2.0,13.0,2.0,14.0,0.0,0.0,0.0,1.0,0.0,8.0,45
+Mathematics,MATH,MATH 20,HUANG C Y,20.0,7.0,6.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,2.0,45
+Mathematics,MATH,MATH 20,KAMIN G,5.0,4.0,4.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,5.0,22
+Mathematics,MATH,MATH 20,KARKAFI R H,5.0,0.0,3.0,0.0,4.0,0.0,0.0,0.0,1.0,0.0,13.0,26
+Mathematics,MATH,MATH 20,LAN H,1.0,5.0,8.0,4.0,6.0,0.0,0.0,0.0,0.0,0.0,21.0,45
+Mathematics,MATH,MATH 20,LEE K H,6.0,10.0,6.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,8.0,37
+Mathematics,MATH,MATH 20,LONDON J S,3.0,2.0,5.0,19.0,1.0,0.0,0.0,0.0,1.0,0.0,4.0,35
+Mathematics,MATH,MATH 20,LUI‐MARTINEZ KR D,9.0,9.0,7.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,34
+Mathematics,MATH,MATH 20,MAKNOUNI M,4.0,9.0,13.0,5.0,5.0,0.0,0.0,0.0,1.0,0.0,9.0,46
+Mathematics,MATH,MATH 20,MALDAGUE J,13.0,5.0,10.0,5.0,2.0,0.0,0.0,0.0,2.0,0.0,9.0,46
+Mathematics,MATH,MATH 20,MUSSELMAN M J,10.0,5.0,3.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,24
+Mathematics,MATH,MATH 20,QUEVEDO J M,6.0,4.0,9.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,28
+Mathematics,MATH,MATH 20,ROSS K R,3.0,2.0,6.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,23.0,39
+Mathematics,MATH,MATH 20,SARKSSIAN H,6.0,7.0,8.0,4.0,7.0,0.0,0.0,2.0,0.0,0.0,9.0,43
+Mathematics,MATH,MATH 20,SIMO A L,2.0,5.0,3.0,5.0,6.0,0.0,0.0,2.0,0.0,0.0,10.0,33
+Mathematics,MATH,MATH 20,TSVIKYAN A,8.0,5.0,6.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,13.0,41
+Mathematics,MATH,MATH 20,WANG E,1.0,4.0,8.0,4.0,7.0,0.0,0.0,0.0,0.0,0.0,14.0,38
+Mathematics,MATH,MATH 20,WONG J D,4.0,6.0,11.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,37
+Mathematics,MATH,MATH 21,CHENG T T,4.0,5.0,4.0,3.0,6.0,0.0,0.0,0.0,0.0,0.0,15.0,37
+Mathematics,MATH,MATH 21,FOREMAN N J,17.0,15.0,15.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,6.0,56
+Mathematics,MATH,MATH 21,HALAKA E F,26.0,7.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,40
+Mathematics,MATH,MATH 21,SIMHAN S V,5.0,6.0,10.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,11.0,37
+Mathematics,MATH,MATH 21,WANG J D,4.0,8.0,8.0,2.0,6.0,0.0,0.0,2.0,0.0,0.0,15.0,45
+Mathematics,MATH,MATH 26,CHAN H J,1.0,3.0,5.0,3.0,9.0,0.0,0.0,0.0,0.0,0.0,9.0,30
+Mathematics,MATH,MATH 26,GHARAMANIANS J,1.0,7.0,7.0,5.0,7.0,0.0,1.0,0.0,0.0,0.0,14.0,42
+Mathematics,MATH,MATH 26,HARANDIAN R,5.0,7.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,5.0,21
+Mathematics,MATH,MATH 26,HARJUNO T,3.0,6.0,4.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,17.0,36
+Mathematics,MATH,MATH 26,RODAS B G,3.0,6.0,5.0,6.0,3.0,0.0,0.0,1.0,1.0,0.0,18.0,43
+Mathematics,MATH,MATH 28,KAVIANI K,6.0,8.0,8.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,18.0,46
+Mathematics,MATH,MATH 28,MAZOROW M M,8.0,11.0,10.0,3.0,6.0,0.0,0.0,0.0,0.0,0.0,8.0,46
+Mathematics,MATH,MATH 28,RODAS B G,3.0,10.0,8.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,14.0,42
+Mathematics,MATH,MATH 29,RODAS B G,10.0,5.0,3.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,4.0,27
+Mathematics,MATH,MATH 31,BRONIE B L,3.0,4.0,5.0,6.0,3.0,0.0,0.0,0.0,0.0,0.0,16.0,37
+Mathematics,MATH,MATH 31,CHO M,2.0,5.0,4.0,4.0,7.0,0.0,0.0,0.0,0.0,0.0,13.0,35
+Mathematics,MATH,MATH 31,EVINYAN Z,2.0,4.0,7.0,1.0,7.0,0.0,0.0,0.0,0.0,0.0,14.0,35
+Mathematics,MATH,MATH 31,HALAKA E F,8.0,7.0,12.0,0.0,5.0,0.0,0.0,0.0,1.0,0.0,8.0,41
+Mathematics,MATH,MATH 31,HECHT S E,2.0,5.0,3.0,2.0,14.0,0.0,0.0,0.0,2.0,0.0,11.0,39
+Mathematics,MATH,MATH 31,JIANG J,0.0,10.0,10.0,3.0,13.0,0.0,0.0,0.0,1.0,0.0,9.0,46
+Mathematics,MATH,MATH 31,KIM J J,3.0,5.0,5.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,8.0,28
+Mathematics,MATH,MATH 31,KIM SU,5.0,1.0,0.0,4.0,9.0,0.0,0.0,0.0,0.0,0.0,6.0,25
+Mathematics,MATH,MATH 31,LEE P H,5.0,0.0,7.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,31.0,57
+Mathematics,MATH,MATH 31,LOPEZ MA,6.0,6.0,13.0,7.0,31.0,0.0,0.0,0.0,0.0,0.0,14.0,77
+Mathematics,MATH,MATH 31,MIANO I A,0.0,2.0,8.0,6.0,18.0,0.0,0.0,0.0,0.0,0.0,9.0,43
+Mathematics,MATH,MATH 31,MUSSELMAN M J,5.0,4.0,9.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,14.0,38
+Mathematics,MATH,MATH 31,ODOM L H,3.0,5.0,1.0,4.0,15.0,0.0,0.0,0.0,1.0,0.0,14.0,43
+Mathematics,MATH,MATH 31,OWAKA E A,2.0,3.0,8.0,0.0,6.0,0.0,1.0,0.0,0.0,0.0,13.0,33
+Mathematics,MATH,MATH 31,PHUNG Q T,1.0,2.0,4.0,6.0,15.0,0.0,0.0,1.0,0.0,0.0,11.0,40
+Mathematics,MATH,MATH 31,RAHNAVARD M H,2.0,5.0,5.0,2.0,7.0,0.0,0.0,0.0,0.0,0.0,10.0,31
+Mathematics,MATH,MATH 31,SOURY S,1.0,3.0,1.0,4.0,17.0,0.0,1.0,0.0,0.0,0.0,13.0,40
+Mathematics,MATH,MATH 31,WARD J E,4.0,6.0,5.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,40
+Mathematics,MATH,MATH 32,CHAU E,5.0,8.0,11.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,12.0,42
+Mathematics,MATH,MATH 32,HECHT S E,8.0,7.0,14.0,2.0,2.0,0.0,0.0,1.0,4.0,0.0,7.0,45
+Mathematics,MATH,MATH 32,HUANG C Y,17.0,8.0,4.0,0.0,3.0,0.0,0.0,0.0,2.0,0.0,6.0,40
+Mathematics,MATH,MATH 32,KIM J J,13.0,14.0,5.0,2.0,2.0,0.0,0.0,1.0,0.0,0.0,9.0,46
+Mathematics,MATH,MATH 32,LAN H,5.0,6.0,4.0,3.0,9.0,0.0,0.0,0.0,0.0,0.0,17.0,44
+Mathematics,MATH,MATH 32,MAZOROW M M,6.0,9.0,6.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,8.0,34
+Mathematics,MATH,MATH 32,MIANO I A,10.0,14.0,7.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,9.0,44
+Mathematics,MATH,MATH 32,SIMHAN S V,2.0,4.0,12.0,2.0,10.0,0.0,0.0,0.0,0.0,0.0,16.0,46
+Mathematics,MATH,MATH 32,TRAN C D,7.0,8.0,14.0,10.0,16.0,0.0,0.0,0.0,0.0,0.0,17.0,72
+Mathematics,MATH,MATH 32,TU W,5.0,2.0,5.0,3.0,9.0,0.0,0.0,0.0,0.0,0.0,19.0,43
+Mathematics,MATH,MATH 50,ASADYAN A,8.0,3.0,13.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,34
+Mathematics,MATH,MATH 50,BENE A J,3.0,8.0,9.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,8.0,34
+Mathematics,MATH,MATH 50,BOOSHERI S G,2.0,1.0,4.0,2.0,6.0,0.0,1.0,0.0,1.0,0.0,8.0,25
+Mathematics,MATH,MATH 50,CHAN H J,2.0,2.0,5.0,4.0,5.0,0.0,0.0,0.0,1.0,0.0,10.0,29
+Mathematics,MATH,MATH 50,DABAGH SA M,3.0,7.0,5.0,5.0,9.0,0.0,0.0,1.0,2.0,0.0,3.0,35
+Mathematics,MATH,MATH 50,DEAN C R,7.0,9.0,12.0,0.0,6.0,0.0,0.0,1.0,1.0,0.0,2.0,38
+Mathematics,MATH,MATH 50,EDINGER G C,3.0,9.0,10.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,9.0,35
+Mathematics,MATH,MATH 50,HANCOCK M D,4.0,8.0,9.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,7.0,37
+Mathematics,MATH,MATH 50,LOPEZ J E,5.0,7.0,4.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,3.0,23
+Mathematics,MATH,MATH 50,LOPEZ MA,4.0,1.0,4.0,6.0,8.0,0.0,0.0,0.0,0.0,0.0,5.0,28
+Mathematics,MATH,MATH 50,MCGRAW C K,3.0,6.0,7.0,4.0,2.0,0.0,0.0,1.0,0.0,0.0,7.0,30
+Mathematics,MATH,MATH 50,OUELLETTE K R,8.0,1.0,3.0,4.0,5.0,0.0,0.0,0.0,2.0,0.0,10.0,33
+Mathematics,MATH,MATH 50,PHUNG Q T,4.0,8.0,11.0,5.0,15.0,0.0,0.0,1.0,0.0,0.0,17.0,61
+Mathematics,MATH,MATH 50,RAHMANI S,10.0,2.0,9.0,3.0,3.0,0.0,0.0,1.0,2.0,0.0,5.0,35
+Mathematics,MATH,MATH 50,SIMO A L,4.0,10.0,7.0,2.0,3.0,0.0,0.0,1.0,0.0,0.0,5.0,32
+Mathematics,MATH,MATH 50,SOLEYMANI S,12.0,5.0,10.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,5.0,37
+Mathematics,MATH,MATH 50,VENDLINSKI T P,6.0,10.0,4.0,2.0,6.0,0.0,0.0,0.0,1.0,0.0,6.0,35
+Mathematics,MATH,MATH 50,XU M N,5.0,3.0,8.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,10.0,31
+Mathematics,MATH,MATH 54,BASKAUSKAS V A,5.0,13.0,12.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,9.0,41
+Mathematics,MATH,MATH 54,BAYSSA B T,5.0,8.0,5.0,5.0,4.0,0.0,1.0,0.0,0.0,0.0,8.0,36
+Mathematics,MATH,MATH 54,CARLSON K D,6.0,7.0,10.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,6.0,39
+Mathematics,MATH,MATH 54,CARTY B,3.0,1.0,6.0,2.0,6.0,0.0,0.0,0.0,0.0,0.0,23.0,41
+Mathematics,MATH,MATH 54,DABAGH SA M,3.0,4.0,12.0,5.0,12.0,0.0,1.0,0.0,0.0,0.0,11.0,48
+Mathematics,MATH,MATH 54,EDINGER G C,11.0,8.0,8.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,2.0,34
+Mathematics,MATH,MATH 54,FOSTER M,8.0,9.0,10.0,8.0,16.0,0.0,0.0,0.0,0.0,0.0,23.0,74
+Mathematics,MATH,MATH 54,GHARAMANIANS J,3.0,6.0,10.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0,16.0,39
+Mathematics,MATH,MATH 54,HANCOCK M D,12.0,18.0,15.0,3.0,9.0,0.0,1.0,0.0,0.0,0.0,23.0,81
+Mathematics,MATH,MATH 54,HE F Y,6.0,6.0,4.0,5.0,1.0,0.0,0.0,1.0,0.0,0.0,15.0,38
+Mathematics,MATH,MATH 54,JAHANGARD E,1.0,4.0,4.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,20.0,31
+Mathematics,MATH,MATH 54,MARDIROSIAN R,24.0,21.0,14.0,11.0,4.0,0.0,0.0,0.0,0.0,0.0,12.0,86
+Mathematics,MATH,MATH 54,MARTINEZ M G,28.0,11.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,16.0,58
+Mathematics,MATH,MATH 54,MCGRAW C K,4.0,6.0,8.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,28
+Mathematics,MATH,MATH 54,NGUYEN D T,2.0,3.0,3.0,5.0,13.0,0.0,0.0,0.0,0.0,0.0,16.0,42
+Mathematics,MATH,MATH 54,ORTEGA J A,6.0,7.0,5.0,4.0,7.0,0.0,0.0,0.0,0.0,0.0,36.0,65
+Mathematics,MATH,MATH 54,PACHAS‐FLORES W,10.0,10.0,15.0,7.0,18.0,0.0,0.0,0.0,0.0,0.0,26.0,86
+Mathematics,MATH,MATH 54,PEREZ R E,40.0,24.0,11.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,8.0,88
+Mathematics,MATH,MATH 54,PETIKYAN G,6.0,14.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,31
+Mathematics,MATH,MATH 54,RAHMANI S,8.0,8.0,9.0,3.0,8.0,0.0,0.0,0.0,0.0,0.0,5.0,41
+Mathematics,MATH,MATH 54,SASO M,15.0,7.0,11.0,11.0,5.0,0.0,2.0,0.0,0.0,0.0,24.0,75
+Mathematics,MATH,MATH 54,SIMO A L,6.0,12.0,7.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,8.0,42
+Mathematics,MATH,MATH 54,SOLEYMANI S,18.0,7.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29
+Mathematics,MATH,MATH 54,TRAN C D,6.0,4.0,15.0,1.0,3.0,0.0,0.0,1.0,0.0,0.0,7.0,37
+Mathematics,MATH,MATH 54,TU W,4.0,2.0,6.0,5.0,8.0,0.0,0.0,0.0,0.0,0.0,14.0,39
+Mathematics,MATH,MATH 54,VENDLINSKI T P,10.0,4.0,8.0,5.0,4.0,0.0,0.0,0.0,0.0,0.0,9.0,40
+Mathematics,MATH,MATH 54,XIE M C,8.0,8.0,6.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,14.0,40
+Mathematics,MATH,MATH 54,YANKEY K A,9.0,22.0,24.0,19.0,4.0,0.0,4.0,0.0,0.0,0.0,26.0,108
+Mathematics,MATH,MATH 54,YEE D K,4.0,6.0,18.0,3.0,7.0,0.0,0.0,0.0,1.0,0.0,25.0,64
+Mathematics,MATH,MATH 54C,EDINGER G C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,27.0,0.0,2.0,34
+Mathematics,MATH,MATH 54C,HANCOCK M D,0.0,0.0,0.0,0.0,0.0,0.0,1.0,8.0,17.0,0.0,9.0,35
+Mathematics,MATH,MATH 54C,MCGRAW C K,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,18.0,0.0,3.0,28
+Mathematics,MATH,MATH 81,BRONIE B L,1.0,1.0,1.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,10.0,18
+Mathematics,MATH,MATH 81,CHITGAR M H,5.0,6.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,23
+Mathematics,MATH,MATH 81,CHO M,2.0,0.0,2.0,4.0,8.0,0.0,0.0,0.0,0.0,0.0,12.0,28
+Mathematics,MATH,MATH 84,MAN S,0.0,2.0,2.0,5.0,14.0,0.0,0.0,0.0,0.0,0.0,9.0,32
+Mathematics,MATH,MATH 84,OWAKA E A,3.0,11.0,9.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,6.0,34
+Mathematics,MATH,MATH 84,RAHNAVARD M H,1.0,3.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,7.0,17
+Mathematics,MATH,MATH 84,TSVIKYAN A,5.0,0.0,7.0,1.0,8.0,0.0,0.0,0.0,0.0,0.0,6.0,27
+Mathematics,MATH,MATH 85,ESMAEILI AK,14.0,14.0,3.0,6.0,7.0,0.0,1.0,0.0,0.0,0.0,16.0,61
+Mathematics,MATH,MATH 85,GIZAW A,5.0,4.0,7.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0,15.0,39
+Mathematics,MATH,MATH 85,LEE P H,1.0,0.0,2.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,7.0,13
+Mathematics,MATH,MATH 85,LIAO G,1.0,3.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,11
+Mathematics,MATH,MATH 85,MIANO I A,4.0,4.0,3.0,4.0,15.0,0.0,0.0,0.0,0.0,0.0,6.0,36
+Mathematics,MATH,MATH 85,PHUA N,1.0,1.0,7.0,2.0,11.0,0.0,0.0,1.0,0.0,0.0,6.0,29
+Mathematics,MATH,MATH 85,ROSS K R,0.0,3.0,9.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,8.0,26
+Mathematics,MATH,MATH 88A,MOASSESSI M,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4
+Modern Languages and Culture,ARABIC,ARABIC 1,BEZRATI S,24.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,7.0,35
+Modern Languages and Culture,ASL,ASL 1,COLE B M,14.0,10.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,36
+Modern Languages and Culture,ASL,ASL 1,DANA M,15.0,10.0,5.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,32
+Modern Languages and Culture,ASL,ASL 2,LEWIS B J,17.0,5.0,4.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,32
+Modern Languages and Culture,CHNESE,CHNESE 1,WU X,23.0,9.0,6.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,22.0,63
+Modern Languages and Culture,CHNESE,CHNESE 2,WU X,10.0,3.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,4.0,20
+Modern Languages and Culture,FRENCH,FRENCH 1,CASE S A,12.0,3.0,4.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,9.0,33
+Modern Languages and Culture,FRENCH,FRENCH 1,ISNER‐BALL D R,8.0,9.0,4.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,7.0,31
+Modern Languages and Culture,FRENCH,FRENCH 1,POSNER L,13.0,10.0,4.0,1.0,3.0,0.0,0.0,0.0,1.0,0.0,6.0,38
+Modern Languages and Culture,FRENCH,FRENCH 2,ALLAIN A S,9.0,6.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,19
+Modern Languages and Culture,FRENCH,FRENCH 2,CHEVANT‐AKSOY A,22.0,13.0,5.0,1.0,2.0,0.0,1.0,0.0,2.0,0.0,16.0,62
+Modern Languages and Culture,FRENCH,FRENCH 4,CHEVANT‐AKSOY A,7.0,8.0,3.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,7.0,28
+Modern Languages and Culture,GERMAN,GERMAN 1,GARDNER A,25.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,33
+Modern Languages and Culture,GERMAN,GERMAN 1,GERL A,8.0,5.0,1.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,6.0,24
+Modern Languages and Culture,GERMAN,GERMAN 1,LASHGARI RENSEL M,11.0,3.0,2.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,4.0,24
+Modern Languages and Culture,GERMAN,GERMAN 2,TANAKA D J,8.0,6.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,22
+Modern Languages and Culture,GERMAN,GERMAN 3,GERL A,4.0,2.0,3.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,13
+Modern Languages and Culture,GERMAN,GERMAN 4,GERL A,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3
+Modern Languages and Culture,HEBREW,HEBREW 1,MARGOLIS F S,18.0,2.0,1.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,2.0,27
+Modern Languages and Culture,HEBREW,HEBREW 2,ZWANG‐WEISSMAN,4.0,4.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,3.0,15
+Modern Languages and Culture,ITAL,ITAL 1,KEMITCH F A,6.0,6.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,9.0,22
+Modern Languages and Culture,ITAL,ITAL 1,LORENZI P,7.0,3.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,8.0,26
+Modern Languages and Culture,ITAL,ITAL 1,ROTA B L,5.0,4.0,3.0,0.0,6.0,0.0,0.0,1.0,3.0,0.0,2.0,24
+Modern Languages and Culture,ITAL,ITAL 2,WEISBERG A N,7.0,3.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,16
+Modern Languages and Culture,ITAL,ITAL 3,TROMBETTA G N,13.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,19
+Modern Languages and Culture,JAPAN,JAPAN 1,COMRIE A K,16.0,6.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,8.0,34
+Modern Languages and Culture,JAPAN,JAPAN 1,HASHIMOTO Y,16.0,8.0,5.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,6.0,39
+Modern Languages and Culture,JAPAN,JAPAN 1,KITAZONO Y,17.0,7.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,5.0,35
+Modern Languages and Culture,JAPAN,JAPAN 1,KONNO M K,10.0,1.0,3.0,1.0,2.0,0.0,0.0,1.0,1.0,0.0,12.0,31
+Modern Languages and Culture,JAPAN,JAPAN 1,KROUPA R A,18.0,1.0,3.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,5.0,30
+Modern Languages and Culture,JAPAN,JAPAN 1,SHIMURA M,14.0,6.0,5.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,5.0,33
+Modern Languages and Culture,JAPAN,JAPAN 2,JOHNSTON S K,12.0,10.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,26
+Modern Languages and Culture,JAPAN,JAPAN 2,KATO N K,9.0,6.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,7.0,26
+Modern Languages and Culture,JAPAN,JAPAN 2,TSUBOI Y,29.0,14.0,5.0,2.0,2.0,0.0,0.0,0.0,3.0,0.0,10.0,65
+Modern Languages and Culture,JAPAN,JAPAN 3,TAKEMORI K,13.0,3.0,4.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,3.0,25
+Modern Languages and Culture,JAPAN,JAPAN 4,TSUBOI Y,20.0,5.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,35
+Modern Languages and Culture,JAPAN,JAPAN 8,MINEKAWA Y,3.0,4.0,3.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,14
+Modern Languages and Culture,JAPAN,JAPAN 9,MINEKAWA Y,70.0,12.0,3.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,2.0,94
+Modern Languages and Culture,KOREAN,KOREAN 1,CHA J,24.0,5.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,36
+Modern Languages and Culture,KOREAN,KOREAN 1,LEE J M,22.0,5.0,1.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,3.0,35
+Modern Languages and Culture,KOREAN,KOREAN 1,PARK JI,9.0,7.0,2.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,7.0,29
+Modern Languages and Culture,KOREAN,KOREAN 2,CHA J,19.0,8.0,7.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,36
+Modern Languages and Culture,KOREAN,KOREAN 4,CHA J,21.0,5.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,35
+Modern Languages and Culture,LING,LING 1,AL RIFAE K,11.0,9.0,2.0,3.0,8.0,0.0,0.0,1.0,0.0,0.0,5.0,39
+Modern Languages and Culture,LING,LING 1,GAINES S G,42.0,13.0,5.0,2.0,11.0,0.0,0.0,0.0,1.0,0.0,5.0,79
+Modern Languages and Culture,LING,LING 1,HARCLERODE J E,42.0,21.0,2.0,7.0,9.0,0.0,0.0,0.0,2.0,0.0,2.0,85
+Modern Languages and Culture,LING,LING 1,MELENDEZ‐BALLES N,24.0,9.0,2.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,2.0,43
+Modern Languages and Culture,PERSIN,PERSIN 2,POURZANGI B,17.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,21
+Modern Languages and Culture,RUSS,RUSS 2,BAUCKUS S J,13.0,2.0,0.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0,3.0,22
+Modern Languages and Culture,SPAN,SPAN 1,BOLIVAR‐OWEN E,5.0,6.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,7.0,23
+Modern Languages and Culture,SPAN,SPAN 1,ERICKSON M P,23.0,17.0,9.0,7.0,3.0,0.0,0.0,0.0,0.0,0.0,22.0,81
+Modern Languages and Culture,SPAN,SPAN 1,MIZUKI A H,12.0,6.0,3.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,11.0,36
+Modern Languages and Culture,SPAN,SPAN 1,QUINONES H C,8.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,24
+Modern Languages and Culture,SPAN,SPAN 2,AREVALO L H,5.0,6.0,3.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,7.0,29
+Modern Languages and Culture,SPAN,SPAN 2,TRIVES T,5.0,11.0,13.0,4.0,3.0,0.0,1.0,0.0,1.0,0.0,11.0,49
+Modern Languages and Culture,SPAN,SPAN 2,ZARATE S,7.0,7.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,5.0,21
+Modern Languages and Culture,SPAN,SPAN 3,LEE CHAN A,6.0,9.0,4.0,3.0,1.0,0.0,1.0,1.0,1.0,0.0,5.0,31
+Modern Languages and Culture,SPAN,SPAN 8,AREVALO L H,14.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,18
+Modern Languages and Culture,SPAN,SPAN 11,AREVALO L H,4.0,3.0,5.0,3.0,3.0,0.0,1.0,1.0,1.0,0.0,5.0,26
+Modern Languages and Culture,SPAN,SPAN 11,LEE CHAN A,7.0,15.0,8.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,17.0,52
+Modern Languages and Culture,SPAN,SPAN 20,AREVALO L H,6.0,3.0,7.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,6.0,26
+Modern Languages and Culture,SPAN,SPAN 31A,CANDELARIA C,5.0,4.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,8.0,21
+Music,MUSIC,MUSIC 1,CHEESMAN J M,14.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,23
+Music,MUSIC,MUSIC 1,DRISCOLL B S,22.0,6.0,10.0,6.0,13.0,0.0,0.0,0.0,1.0,0.0,20.0,78
+Music,MUSIC,MUSIC 1,HOLT D K,9.0,8.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,9.0,32
+Music,MUSIC,MUSIC 1,SELVEY J D,9.0,4.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,10.0,27
+Music,MUSIC,MUSIC 1,TAKESUE S A,5.0,3.0,2.0,1.0,6.0,0.0,0.0,0.0,0.0,0.0,10.0,27
+Music,MUSIC,MUSIC 2,DRISCOLL B S,7.0,8.0,3.0,1.0,3.0,0.0,0.0,0.0,1.0,0.0,6.0,29
+Music,MUSIC,MUSIC 2,SELVEY J D,5.0,3.0,1.0,2.0,2.0,0.0,1.0,1.0,0.0,0.0,6.0,21
+Music,MUSIC,MUSIC 3,GOODMAN D B,8.0,8.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,23
+Music,MUSIC,MUSIC 4,GOODMAN D B,10.0,6.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,19
+Music,MUSIC,MUSIC 6,CHEESMAN J M,5.0,3.0,2.0,0.0,4.0,0.0,0.0,0.0,1.0,0.0,6.0,21
+Music,MUSIC,MUSIC 6,DRISCOLL B S,11.0,3.0,2.0,1.0,5.0,0.0,0.0,0.0,1.0,0.0,6.0,29
+Music,MUSIC,MUSIC 7,GOODMAN D B,8.0,9.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,23
+Music,MUSIC,MUSIC 8,GOODMAN D B,8.0,7.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20
+Music,MUSIC,MUSIC 31,BERGMAN J F,9.0,3.0,2.0,1.0,3.0,0.0,3.0,0.0,0.0,0.0,1.0,22
+Music,MUSIC,MUSIC 32,BERGMAN J F,31.0,17.0,14.0,5.0,10.0,0.0,1.0,0.0,0.0,0.0,21.0,99
+Music,MUSIC,MUSIC 32,DRISCOLL B S,14.0,8.0,7.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,2.0,35
+Music,MUSIC,MUSIC 32,GOODMAN D B,4.0,6.0,4.0,2.0,5.0,0.0,0.0,1.0,0.0,0.0,3.0,25
+Music,MUSIC,MUSIC 32,ZUSMAN S P,18.0,13.0,1.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,5.0,42
+Music,MUSIC,MUSIC 33,FIDDMONT F K,97.0,34.0,10.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,8.0,154
+Music,MUSIC,MUSIC 33,ONEAL K A,122.0,6.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,133
+Music,MUSIC,MUSIC 33,TERRY L,32.0,18.0,10.0,9.0,15.0,0.0,0.0,0.0,2.0,0.0,8.0,94
+Music,MUSIC,MUSIC 36,CHEESMAN J M,26.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,4.0,35
+Music,MUSIC,MUSIC 36,PARNELL D J,15.0,4.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,23
+Music,MUSIC,MUSIC 37,ALVISO J R,7.0,3.0,10.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,6.0,30
+Music,MUSIC,MUSIC 42,DE STEFANO J D,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,19
+Music,MUSIC,MUSIC 45,MARTIN A F,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,7
+Music,MUSIC,MUSIC 50A,DE STEFANO J D,19.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,6.0,29
+Music,MUSIC,MUSIC 50A,OLIVER G A,4.0,7.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,5.0,18
+Music,MUSIC,MUSIC 50A,PARNELL D J,12.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,1.0,0.0,5.0,23
+Music,MUSIC,MUSIC 50A,SELVEY J D,5.0,2.0,2.0,1.0,6.0,0.0,0.0,0.0,0.0,0.0,5.0,21
+Music,MUSIC,MUSIC 50B,DE STEFANO J D,6.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,9
+Music,MUSIC,MUSIC 50B,OLIVER G A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,2.0,8
+Music,MUSIC,MUSIC 50B,PARNELL D J,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,9
+Music,MUSIC,MUSIC 50B,SELVEY J D,4.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,10
+Music,MUSIC,MUSIC 52,HARROP A M,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Music,MUSIC,MUSIC 53,PREPONIS A,25.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,28
+Music,MUSIC,MUSIC 55,SELVEY J D,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,20
+Music,MUSIC,MUSIC 57,PARNELL D J,18.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,23
+Music,MUSIC,MUSIC 59,SELVEY J D,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,24
+Music,MUSIC,MUSIC 59,SORENSEN K E,12.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15
+Music,MUSIC,MUSIC 60A,GLIADKOVSKAYA E,9.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,18
+Music,MUSIC,MUSIC 60A,KIM J,5.0,2.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,16
+Music,MUSIC,MUSIC 60A,KOZLOVA YU V,7.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,7.0,18
+Music,MUSIC,MUSIC 60A,SCHREINER G,16.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,21
+Music,MUSIC,MUSIC 60A,STERLING J,20.0,2.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,29.0,54
+Music,MUSIC,MUSIC 60B,GLIADKOVSKAYA E,8.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,3.0,13
+Music,MUSIC,MUSIC 60B,KIM J,9.0,3.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,18
+Music,MUSIC,MUSIC 60B,KOZLOVA YU V,11.0,2.0,3.0,1.0,4.0,0.0,0.0,0.0,1.0,0.0,3.0,25
+Music,MUSIC,MUSIC 60C,GLIADKOVSKAYA E,11.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12
+Music,MUSIC,MUSIC 60C,KIM J,6.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14
+Music,MUSIC,MUSIC 60D,GLIADKOVSKAYA E,6.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8
+Music,MUSIC,MUSIC 60D,KIM J,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11
+Music,MUSIC,MUSIC 64,KOZLOVA YU V,11.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,18
+Music,MUSIC,MUSIC 65B,AGUIAR J A,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0,16
+Music,MUSIC,MUSIC 66,TAKESUE S A,2.0,0.0,0.0,2.0,5.0,0.0,0.0,0.0,1.0,0.0,3.0,13
+Music,MUSIC,MUSIC 70A,SANDERSON A,4.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,11
+Music,MUSIC,MUSIC 70B,SANDERSON A,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5
+Music,MUSIC,MUSIC 73A,SMITH ME M,5.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,9
+Music,MUSIC,MUSIC 73B,SMITH ME M,8.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,11
+Music,MUSIC,MUSIC 74,STONE B D,18.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,20
+Music,MUSIC,MUSIC 77,MC KEOWN K O,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,1.0,16
+Music,MUSIC,MUSIC 78,FIDDMONT F K,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,15
+Music,MUSIC,MUSIC 78,WHALEY T L,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30
+Music,MUSIC,MUSIC 84A,CHEESMAN J M,13.0,3.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.0,23
+Music,MUSIC,MUSIC 84A,HARMON J M,29.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,13.0,52
+Music,MUSIC,MUSIC 84A,SCHULMAN J,5.0,4.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,13
+Music,MUSIC,MUSIC 84B,CHEESMAN J M,15.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,22
+Music,MUSIC,MUSIC 84C,HARMON J M,11.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,19
+Music,MUSIC,MUSIC 87A,CHEESMAN J M,11.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,4.0,19
+Music,MUSIC,MUSIC 87B,CHEESMAN J M,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7
+Music,MUSIC,MUSIC 88A,KOZLOVA YU V,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,4
+Music,MUSIC,MUSIC 88B,KOZLOVA YU V,6.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7
+Music,MUSIC,MUSIC 92,DRISCOLL B S,33.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35
+Music,MUSIC,MUSIC 94,DRISCOLL B S,26.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35
+Philosophy and Social Science,ECON,ECON 1,BROWN B C,31.0,21.0,4.0,3.0,12.0,0.0,0.0,1.0,2.0,0.0,9.0,83
+Philosophy and Social Science,ECON,ECON 1,CARTER T D,17.0,20.0,10.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,7.0,64
+Philosophy and Social Science,ECON,ECON 1,CHAN A K‐C,13.0,24.0,24.0,31.0,34.0,0.0,0.0,0.0,0.0,0.0,25.0,151
+Philosophy and Social Science,ECON,ECON 1,GARCIA C P,52.0,29.0,25.0,13.0,53.0,0.0,1.0,0.0,0.0,0.0,16.0,189
+Philosophy and Social Science,ECON,ECON 1,GURTOVOY J,32.0,19.0,8.0,2.0,24.0,0.0,0.0,0.0,1.0,0.0,30.0,116
+Philosophy and Social Science,ECON,ECON 1,KESKINEL M,64.0,16.0,1.0,0.0,4.0,0.0,1.0,0.0,0.0,0.0,1.0,87
+Philosophy and Social Science,ECON,ECON 1,MARSCHALL B A,21.0,7.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,38
+Philosophy and Social Science,ECON,ECON 1,SU B C,29.0,8.0,8.0,1.0,8.0,0.0,0.0,1.0,1.0,0.0,16.0,72
+Philosophy and Social Science,ECON,ECON 1,URRUTIA A Q,60.0,31.0,33.0,10.0,22.0,0.0,0.0,3.0,2.0,0.0,21.0,182
+Philosophy and Social Science,ECON,ECON 2,BATTISTA C,50.0,56.0,31.0,10.0,36.0,0.0,0.0,0.0,1.0,0.0,51.0,235
+Philosophy and Social Science,ECON,ECON 2,BROWN B C,19.0,7.0,5.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,5.0,40
+Philosophy and Social Science,ECON,ECON 2,CARTER T D,12.0,8.0,8.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,6.0,36
+Philosophy and Social Science,ECON,ECON 2,CHAN A K‐C,17.0,29.0,29.0,11.0,25.0,0.0,0.0,1.0,0.0,0.0,36.0,148
+Philosophy and Social Science,ECON,ECON 2,GARCIA C P,65.0,13.0,13.0,4.0,27.0,0.0,2.0,0.0,0.0,0.0,12.0,136
+Philosophy and Social Science,ECON,ECON 2,KESKINEL M,19.0,12.0,6.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,7.0,46
+Philosophy and Social Science,ECON,ECON 2,MARSCHALL B A,46.0,10.0,6.0,1.0,6.0,0.0,0.0,1.0,0.0,0.0,6.0,76
+Philosophy and Social Science,ECON,ECON 2,SU B C,30.0,9.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0,46
+Philosophy and Social Science,ECON,ECON 5,RABACH E R,17.0,17.0,8.0,8.0,4.0,0.0,0.0,0.0,0.0,0.0,6.0,60
+Philosophy and Social Science,ECON,ECON 15,RABACH E R,28.0,15.0,13.0,2.0,9.0,0.0,0.0,0.0,1.0,0.0,36.0,104
+Philosophy and Social Science,GLOBAL,GLOBAL 5,RABACH E R,12.0,7.0,6.0,9.0,3.0,0.0,0.0,0.0,0.0,0.0,11.0,48
+Philosophy and Social Science,GLOBAL,GLOBAL 10,MONTEIRO N,22.0,11.0,2.0,0.0,4.0,0.0,0.0,1.0,1.0,0.0,4.0,45
+Philosophy and Social Science,HIST,HIST 15,RABACH E R,7.0,4.0,6.0,6.0,4.0,0.0,0.0,1.0,0.0,0.0,8.0,36
+Philosophy and Social Science,PHILOS,PHILOS 1,BENNET S E,34.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,41
+Philosophy and Social Science,PHILOS,PHILOS 1,DAILY M S,31.0,6.0,1.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,5.0,48
+Philosophy and Social Science,PHILOS,PHILOS 1,HUFFAKER P,49.0,24.0,20.0,2.0,9.0,0.0,0.0,0.0,1.0,0.0,21.0,126
+Philosophy and Social Science,PHILOS,PHILOS 1,JOHNSON T,76.0,5.0,4.0,2.0,13.0,0.0,2.0,0.0,1.0,0.0,5.0,108
+Philosophy and Social Science,PHILOS,PHILOS 1,KAUFMAN S M,14.0,7.0,4.0,1.0,6.0,0.0,0.0,0.0,0.0,0.0,6.0,38
+Philosophy and Social Science,PHILOS,PHILOS 1,MOHSEN A M,83.0,23.0,8.0,3.0,13.0,0.0,0.0,0.0,0.0,0.0,11.0,141
+Philosophy and Social Science,PHILOS,PHILOS 1,ORTEGA G R,44.0,18.0,2.0,2.0,4.0,0.0,0.0,0.0,2.0,0.0,10.0,82
+Philosophy and Social Science,PHILOS,PHILOS 2,KLUMPE P A,72.0,26.0,6.0,3.0,5.0,0.0,1.0,0.0,3.0,0.0,13.0,129
+Philosophy and Social Science,PHILOS,PHILOS 3,MOHSEN A M,55.0,11.0,4.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,11.0,89
+Philosophy and Social Science,PHILOS,PHILOS 5,KAUFMAN S M,19.0,3.0,2.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,2.0,30
+Philosophy and Social Science,PHILOS,PHILOS 7,DAILY M S,14.0,7.0,4.0,1.0,3.0,0.0,1.0,0.0,0.0,0.0,3.0,33
+Philosophy and Social Science,PHILOS,PHILOS 7,MORRIS S,13.0,13.0,6.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,7.0,41
+Philosophy and Social Science,PHILOS,PHILOS 7,ORTEGA G R,12.0,9.0,4.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,28
+Philosophy and Social Science,PHILOS,PHILOS 9,KLUMPE P A,55.0,17.0,4.0,0.0,7.0,0.0,2.0,0.0,1.0,0.0,7.0,93
+Philosophy and Social Science,PHILOS,PHILOS 22,QUESADA D M,92.0,22.0,6.0,6.0,19.0,0.0,0.0,1.0,5.0,0.0,9.0,160
+Philosophy and Social Science,PHILOS,PHILOS 23,BENNET S E,73.0,7.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,88
+Philosophy and Social Science,PHILOS,PHILOS 24,KAUFMAN S M,20.0,3.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,5.0,34
+Philosophy and Social Science,PHILOS,PHILOS 51,KURVINK S J,7.0,4.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,3.0,16
+Philosophy and Social Science,PHILOS,PHILOS 51,OIFER E R,3.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,14
+Philosophy and Social Science,PHILOS,PHILOS 52,KURVINK S J,2.0,3.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,12
+Philosophy and Social Science,PHILOS,PHILOS 88A,SCHULTZ C K,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Philosophy and Social Science,PHILOS,PHILOS 88B,SCHULTZ C K,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2
+Philosophy and Social Science,POL SC,POL SC 1,ANTOINE E R,10.0,12.0,9.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,8.0,44
+Philosophy and Social Science,POL SC,POL SC 1,BUCKLEY A D,19.0,35.0,28.0,4.0,8.0,0.0,0.0,0.0,3.0,0.0,25.0,122
+Philosophy and Social Science,POL SC,POL SC 1,GORGIE F J,53.0,18.0,13.0,8.0,5.0,0.0,0.0,1.0,0.0,0.0,14.0,112
+Philosophy and Social Science,POL SC,POL SC 1,GROPER R P,16.0,32.0,27.0,9.0,17.0,0.0,0.0,0.0,1.0,0.0,7.0,109
+Philosophy and Social Science,POL SC,POL SC 1,KURVINK S J,11.0,13.0,17.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,3.0,47
+Philosophy and Social Science,POL SC,POL SC 1,SCHULTZ C K,42.0,5.0,2.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,7.0,60
+Philosophy and Social Science,POL SC,POL SC 1,TAHVILDARANJESS R A,336.0,84.0,29.0,12.0,25.0,0.0,1.0,2.0,0.0,0.0,32.0,521
+Philosophy and Social Science,POL SC,POL SC 1,WOODS V,29.0,36.0,32.0,2.0,11.0,0.0,7.0,0.0,1.0,0.0,21.0,139
+Philosophy and Social Science,POL SC,POL SC 2,BERMAN DIANNE R,2.0,11.0,7.0,1.0,8.0,0.0,0.0,0.0,0.0,0.0,4.0,33
+Philosophy and Social Science,POL SC,POL SC 2,BUCKLEY A D,10.0,19.0,9.0,2.0,1.0,0.0,0.0,0.0,2.0,0.0,20.0,63
+Philosophy and Social Science,POL SC,POL SC 2,GABLER C L,55.0,25.0,6.0,4.0,6.0,0.0,0.0,0.0,0.0,0.0,7.0,103
+Philosophy and Social Science,POL SC,POL SC 5,RABACH E R,9.0,5.0,4.0,3.0,6.0,0.0,0.0,0.0,0.0,0.0,12.0,39
+Philosophy and Social Science,POL SC,POL SC 7,BERMAN DIANNE R,2.0,18.0,15.0,2.0,10.0,0.0,0.0,0.0,1.0,0.0,20.0,68
+Philosophy and Social Science,POL SC,POL SC 7,BUCKLEY A D,40.0,14.0,7.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,9.0,72
+Philosophy and Social Science,POL SC,POL SC 7,MONTEIRO N,11.0,5.0,5.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,15.0,44
+Philosophy and Social Science,POL SC,POL SC 21,RIVAS PINEDA Y G,6.0,16.0,6.0,1.0,6.0,0.0,1.0,0.0,0.0,0.0,5.0,41
+Philosophy and Social Science,POL SC,POL SC 24,GABLER C L,23.0,4.0,3.0,1.0,6.0,0.0,0.0,0.0,0.0,0.0,5.0,42
+Philosophy and Social Science,POL SC,POL SC 31,DAVIS SH L,19.0,9.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,37
+Philosophy and Social Science,POL SC,POL SC 31,GABLER C L,24.0,12.0,7.0,1.0,12.0,0.0,0.0,0.0,0.0,0.0,6.0,62
+Philosophy and Social Science,POL SC,POL SC 51,KURVINK S J,14.0,9.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,32
+Philosophy and Social Science,POL SC,POL SC 51,OIFER E R,20.0,14.0,5.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,4.0,48
+Philosophy and Social Science,POL SC,POL SC 52,KURVINK S J,11.0,7.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,25
+Philosophy and Social Science,POL SC,POL SC 94,GABLER C L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,23.0,0.0,1.0,25
+Philosophy and Social Science,POL SC,POL SC 95,TAHVILDARANJESS R A,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,18
+Philosophy and Social Science,SOCIOL,SOCIOL 1,CALDERON‐ZAKS M A,89.0,32.0,8.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,15.0,146
+Philosophy and Social Science,SOCIOL,SOCIOL 1,D DEL PICCOLO G L,4.0,15.0,5.0,4.0,11.0,0.0,0.0,0.0,0.0,0.0,10.0,49
+Philosophy and Social Science,SOCIOL,SOCIOL 1,DISHMAN W H,26.0,27.0,19.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,32.0,112
+Philosophy and Social Science,SOCIOL,SOCIOL 1,GHEYTANCHI E,87.0,16.0,7.0,1.0,5.0,0.0,0.0,0.0,2.0,0.0,10.0,128
+Philosophy and Social Science,SOCIOL,SOCIOL 1,LIVINGS G S,5.0,13.0,21.0,9.0,11.0,0.0,0.0,0.0,0.0,0.0,23.0,82
+Philosophy and Social Science,SOCIOL,SOCIOL 1,PHILLIPS K M,48.0,31.0,14.0,13.0,12.0,0.0,0.0,0.0,1.0,0.0,15.0,134
+Philosophy and Social Science,SOCIOL,SOCIOL 1,ROMO R,95.0,36.0,10.0,4.0,9.0,0.0,0.0,0.0,0.0,0.0,4.0,158
+Philosophy and Social Science,SOCIOL,SOCIOL 1,SCAIFE M L,18.0,12.0,5.0,9.0,12.0,0.0,0.0,1.0,0.0,0.0,14.0,71
+Philosophy and Social Science,SOCIOL,SOCIOL 1,WILLIAMS LEON T K,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,25
+Philosophy and Social Science,SOCIOL,SOCIOL 2,MONTES AN,22.0,7.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,33
+Philosophy and Social Science,SOCIOL,SOCIOL 2,SCAIFE M L,7.0,18.0,10.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,5.0,45
+Philosophy and Social Science,SOCIOL,SOCIOL 4,WILLIAMS LEON T K,37.0,22.0,7.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,9.0,79
+Philosophy and Social Science,SOCIOL,SOCIOL 12,MONTES AN,16.0,11.0,9.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,2.0,43
+Philosophy and Social Science,SOCIOL,SOCIOL 31,ROMO R,26.0,9.0,2.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,44
+Philosophy and Social Science,SOCIOL,SOCIOL 33,LIVINGS G S,14.0,10.0,5.0,1.0,4.0,0.0,0.0,2.0,0.0,0.0,15.0,51
+Philosophy and Social Science,SOCIOL,SOCIOL 34,LIVINGS G S,9.0,10.0,9.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,8.0,44
+Philosophy and Social Science,WGS,WGS 10,MANOFF R J,27.0,7.0,4.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,44
+Philosophy and Social Science,WGS,WGS 10,WESTERBAND Y,119.0,18.0,1.0,2.0,1.0,0.0,2.0,0.0,0.0,0.0,6.0,149
+Philosophy and Social Science,WGS,WGS 20,SHARIF R A,12.0,12.0,2.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0,6.0,39
+Philosophy and Social Science,WGS,WGS 30,WESTERBAND Y,31.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,39
+Philosophy and Social Science,WGS,WGS 80,KLEIN M C,6.0,3.0,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,9.0,23
+Photography and Fashion,FASHN,FASHN 1,ARMSTRONG R W,33.0,4.0,2.0,4.0,9.0,0.0,0.0,0.0,0.0,0.0,11.0,63
+Photography and Fashion,FASHN,FASHN 1,IVAS L,38.0,5.0,5.0,0.0,7.0,0.0,1.0,0.0,0.0,0.0,5.0,61
+Photography and Fashion,FASHN,FASHN 2,ARMSTRONG R W,16.0,5.0,1.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,4.0,30
+Photography and Fashion,FASHN,FASHN 2,LAKE R G,7.0,5.0,6.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,24
+Photography and Fashion,FASHN,FASHN 2,REINER H G,6.0,1.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,6.0,19
+Photography and Fashion,FASHN,FASHN 3,ALLEN A,14.0,8.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,30
+Photography and Fashion,FASHN,FASHN 3,KHACHMANYAN S,3.0,2.0,2.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,6.0,18
+Photography and Fashion,FASHN,FASHN 3,LEWIS K,2.0,4.0,7.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,4.0,24
+Photography and Fashion,FASHN,FASHN 3,RAIN B L,8.0,3.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,3.0,23
+Photography and Fashion,FASHN,FASHN 5,KOLKO S R,6.0,6.0,7.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,7.0,31
+Photography and Fashion,FASHN,FASHN 5,LOUIS L N,9.0,7.0,3.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,4.0,25
+Photography and Fashion,FASHN,FASHN 6A,ARDELL J B,1.0,8.0,1.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,3.0,18
+Photography and Fashion,FASHN,FASHN 6A,KHACHMANYAN S,3.0,4.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.0,15
+Photography and Fashion,FASHN,FASHN 6A,RAIN B L,4.0,7.0,2.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,7.0,23
+Photography and Fashion,FASHN,FASHN 6B,COOKE E,4.0,5.0,1.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,16
+Photography and Fashion,FASHN,FASHN 7,LAKE R G,11.0,8.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,3.0,25
+Photography and Fashion,FASHN,FASHN 8,REINER H G,7.0,10.0,4.0,0.0,6.0,0.0,0.0,0.0,1.0,0.0,2.0,30
+Photography and Fashion,FASHN,FASHN 9A,ARMSTRONG J I,12.0,8.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,25
+Photography and Fashion,FASHN,FASHN 9B,ARMSTRONG J I,8.0,3.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,16
+Photography and Fashion,FASHN,FASHN 10,ALLEN A,18.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,23
+Photography and Fashion,FASHN,FASHN 12,LOUIS L N,22.0,15.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,40
+Photography and Fashion,FASHN,FASHN 13,COOPER S A,9.0,6.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,23
+Photography and Fashion,FASHN,FASHN 17,ARDELL J B,13.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,19
+Photography and Fashion,FASHN,FASHN 18,ARMSTRONG R W,20.0,4.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,29
+Photography and Fashion,FASHN,FASHN 19,KOLKO S R,9.0,5.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,24
+Photography and Fashion,FASHN,FASHN 20,IVAS L,33.0,7.0,0.0,0.0,6.0,0.0,1.0,0.0,0.0,0.0,5.0,52
+Photography and Fashion,FASHN,FASHN 21,ARMSTRONG R W,9.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,14
+Photography and Fashion,FASHN,FASHN 88A,IVAS L,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3
+Photography and Fashion,FASHN,FASHN 88C,IVAS L,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2
+Photography and Fashion,FASHN,FASHN 90A,IVAS L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2
+Photography and Fashion,FASHN,FASHN 90C,IVAS L,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,3
+Photography and Fashion,PHOTO,PHOTO 1,FIER B,1.0,5.0,3.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,5.0,25
+Photography and Fashion,PHOTO,PHOTO 1,GREGORY C M,5.0,27.0,3.0,1.0,9.0,0.0,0.0,1.0,0.0,0.0,6.0,52
+Photography and Fashion,PHOTO,PHOTO 1,GURJIAN K,10.0,1.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,5.0,22
+Photography and Fashion,PHOTO,PHOTO 1,MANGUS E P,60.0,22.0,9.0,1.0,17.0,0.0,0.0,0.0,0.0,0.0,7.0,116
+Photography and Fashion,PHOTO,PHOTO 1,MCDONALD S D,7.0,7.0,3.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,4.0,24
+Photography and Fashion,PHOTO,PHOTO 1,MYERS A D,39.0,7.0,3.0,0.0,7.0,0.0,0.0,0.0,2.0,0.0,8.0,66
+Photography and Fashion,PHOTO,PHOTO 1,NELSON H,6.0,6.0,1.0,0.0,6.0,0.0,0.0,0.0,1.0,0.0,6.0,26
+Photography and Fashion,PHOTO,PHOTO 1,SLOWINSKI R,11.0,7.0,5.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,26
+Photography and Fashion,PHOTO,PHOTO 1,THAWLEY J,6.0,12.0,5.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,9.0,35
+Photography and Fashion,PHOTO,PHOTO 2,BRIGGS T H,35.0,6.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,44
+Photography and Fashion,PHOTO,PHOTO 2,FIER B,2.0,5.0,1.0,0.0,4.0,0.0,0.0,1.0,0.0,0.0,7.0,20
+Photography and Fashion,PHOTO,PHOTO 2,MOULTON S A,8.0,7.0,3.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,6.0,26
+Photography and Fashion,PHOTO,PHOTO 2,NELSON H,8.0,6.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,20
+Photography and Fashion,PHOTO,PHOTO 2,STEIL R J,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15
+Photography and Fashion,PHOTO,PHOTO 2,VALESELLA M D,6.0,6.0,1.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,5.0,22
+Photography and Fashion,PHOTO,PHOTO 5,CALZATTI N,7.0,4.0,3.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,6.0,24
+Photography and Fashion,PHOTO,PHOTO 5,MOHR C D,7.0,3.0,2.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,4.0,20
+Photography and Fashion,PHOTO,PHOTO 5,PATUGAN R Y,4.0,4.0,5.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,2.0,18
+Photography and Fashion,PHOTO,PHOTO 5,WITHERS J J,6.0,4.0,1.0,2.0,6.0,0.0,0.0,0.0,0.0,0.0,3.0,22
+Photography and Fashion,PHOTO,PHOTO 30,ANDERSON DA,14.0,2.0,5.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,1.0,26
+Photography and Fashion,PHOTO,PHOTO 30,MOHR C D,1.0,11.0,3.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,4.0,22
+Photography and Fashion,PHOTO,PHOTO 32,SANSERI J D,6.0,13.0,6.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,30
+Photography and Fashion,PHOTO,PHOTO 33,MOHR C D,9.0,7.0,6.0,1.0,3.0,0.0,0.0,0.0,1.0,0.0,4.0,31
+Photography and Fashion,PHOTO,PHOTO 37,MOULTON S A,5.0,11.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,22
+Photography and Fashion,PHOTO,PHOTO 39,CALZATTI N,7.0,9.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,24
+Photography and Fashion,PHOTO,PHOTO 39,WITHERS J J,3.0,5.0,6.0,1.0,2.0,0.0,0.0,1.0,0.0,0.0,5.0,23
+Photography and Fashion,PHOTO,PHOTO 40,WITHERS J J,3.0,3.0,3.0,1.0,4.0,0.0,1.0,0.0,0.0,0.0,2.0,17
+Photography and Fashion,PHOTO,PHOTO 42,WITHERS J J,3.0,7.0,5.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,5.0,22
+Photography and Fashion,PHOTO,PHOTO 43,NEX A J,10.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18
+Photography and Fashion,PHOTO,PHOTO 50,MCDONALD S D,4.0,3.0,3.0,0.0,6.0,0.0,0.0,3.0,0.0,0.0,4.0,23
+Photography and Fashion,PHOTO,PHOTO 60,MOHR C D,4.0,2.0,6.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,6.0,23
+Photography and Fashion,PHOTO,PHOTO 88A,SANSERI J D,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2
+Photography and Fashion,PHOTO,PHOTO 88B,SANSERI J D,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Photography and Fashion,PHOTO,PHOTO 90B,WITHERS J J,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1
+Photography and Fashion,PHOTO,PHOTO 90C,WITHERS J J,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1
+Physical Science,CHEM,CHEM 9,LIU C,39.0,9.0,1.0,0.0,1.0,0.0,0.0,0.0,5.0,0.0,1.0,56
+Physical Science,CHEM,CHEM 9,WALKER WAUGH M V,14.0,6.0,2.0,1.0,2.0,0.0,0.0,5.0,23.0,0.0,4.0,57
+Physical Science,CHEM,CHEM 9,WONG W W,10.0,13.0,12.0,3.0,4.0,0.0,1.0,2.0,5.0,0.0,6.0,56
+Physical Science,CHEM,CHEM 10,ABBANI M A,4.0,4.0,10.0,10.0,7.0,0.0,0.0,0.0,0.0,0.0,19.0,54
+Physical Science,CHEM,CHEM 10,BALAKIN A G,7.0,4.0,16.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,54
+Physical Science,CHEM,CHEM 10,BARTLETT D D,5.0,10.0,5.0,3.0,7.0,0.0,0.0,0.0,0.0,0.0,15.0,45
+Physical Science,CHEM,CHEM 10,CHUNG G G,7.0,11.0,16.0,0.0,3.0,0.0,4.0,0.0,3.0,0.0,7.0,51
+Physical Science,CHEM,CHEM 10,CORDEIRO R C,31.0,8.0,6.0,2.0,2.0,0.0,0.0,0.0,5.0,0.0,2.0,56
+Physical Science,CHEM,CHEM 10,DHAR G,12.0,5.0,9.0,3.0,5.0,0.0,1.0,0.0,0.0,0.0,11.0,46
+Physical Science,CHEM,CHEM 10,GIFFORD M E,14.0,11.0,12.0,4.0,1.0,0.0,0.0,0.0,2.0,0.0,9.0,53
+Physical Science,CHEM,CHEM 10,KO H,5.0,7.0,10.0,3.0,10.0,0.0,1.0,0.0,0.0,0.0,12.0,48
+Physical Science,CHEM,CHEM 10,LAVALLEE R J,0.0,6.0,5.0,6.0,16.0,0.0,0.0,0.0,0.0,0.0,45.0,78
+Physical Science,CHEM,CHEM 10,MEJIA LEIVA C N,13.0,9.0,5.0,1.0,4.0,0.0,0.0,0.0,2.0,0.0,10.0,44
+Physical Science,CHEM,CHEM 10,NGUYEN TH H,7.0,11.0,7.0,5.0,10.0,0.0,0.0,0.0,0.0,0.0,18.0,58
+Physical Science,CHEM,CHEM 10,STRATHEARN M D,4.0,6.0,6.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,30.0,54
+Physical Science,CHEM,CHEM 10,TAYLOR S M,13.0,14.0,7.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,13.0,55
+Physical Science,CHEM,CHEM 10,WALKER WAUGH M V,4.0,7.0,9.0,3.0,6.0,0.0,0.0,0.0,2.0,0.0,26.0,57
+Physical Science,CHEM,CHEM 11,HSIEH J M,4.0,3.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,28
+Physical Science,CHEM,CHEM 11,NAULI S,7.0,11.0,19.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,35.0,80
+Physical Science,CHEM,CHEM 11,PAPAZYAN A,18.0,15.0,9.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,8.0,58
+Physical Science,CHEM,CHEM 11,SCHMIDT E,6.0,9.0,8.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,23.0,54
+Physical Science,CHEM,CHEM 11,SCHOLEFIELD M R,17.0,11.0,13.0,7.0,7.0,0.0,0.0,0.0,0.0,0.0,31.0,86
+Physical Science,CHEM,CHEM 11,TOUMARI A,10.0,16.0,12.0,4.0,2.0,0.0,2.0,0.0,0.0,0.0,12.0,58
+Physical Science,CHEM,CHEM 12,ANDERSON JAMEY L,10.0,5.0,9.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,31
+Physical Science,CHEM,CHEM 12,GALLOGLY E B,17.0,17.0,15.0,6.0,3.0,0.0,0.0,0.0,0.0,0.0,36.0,94
+Physical Science,CHEM,CHEM 12,MURPHY J E,16.0,24.0,11.0,11.0,10.0,0.0,0.0,0.0,0.0,0.0,17.0,89
+Physical Science,CHEM,CHEM 19,DONG T A,18.0,17.0,22.0,6.0,5.0,0.0,0.0,0.0,0.0,0.0,20.0,88
+Physical Science,CHEM,CHEM 19,SCHWYTER D H,11.0,9.0,8.0,9.0,3.0,0.0,0.0,0.0,0.0,0.0,15.0,55
+Physical Science,CHEM,CHEM 21,BAUTISTA M R,7.0,12.0,15.0,4.0,7.0,0.0,0.0,0.0,0.0,0.0,9.0,54
+Physical Science,CHEM,CHEM 21,PECORELLI T A,6.0,12.0,5.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,31
+Physical Science,CHEM,CHEM 22,FEREDE R,10.0,4.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,20
+Physical Science,CHEM,CHEM 22,KLINE M L,8.0,7.0,5.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,26
+Physical Science,CHEM,CHEM 24,FEREDE R,11.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,15
+Physical Science,CHEM,CHEM 24,KLINE M L,16.0,24.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,52
+Physical Science,CHEM,CHEM 31,HSIEH J M,4.0,4.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,8.0,20
+Physical Science,CHEM,CHEM 88A,ANDERSON JAMEY L,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2
+Physical Science,CHEM,CHEM 88B,ANDERSON JAMEY L,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4
+Physical Science,ENGR,ENGR 1,DANG T T,7.0,1.0,4.0,0.0,5.0,0.0,1.0,0.0,1.0,0.0,7.0,26
+Physical Science,ENGR,ENGR 11,INAMDAR N K,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,8
+Physical Science,ENGR,ENGR 12,MANOOKIAN N,12.0,4.0,6.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,6.0,34
+Physical Science,ENGR,ENGR 16,INAMDAR N K,3.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,6.0,12
+Physical Science,ENGR,ENGR 21,DANG T T,5.0,3.0,3.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,3.0,19
+Physical Science,ENGR,ENGR 22,DANG T T,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,17
+Physical Science,ENGR,ENGR 88B,DANG T T,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2
+Physical Science,PHYSCS,PHYSCS 6,PAIK S T,13.0,9.0,8.0,2.0,1.0,0.0,0.0,1.0,3.0,0.0,8.0,45
+Physical Science,PHYSCS,PHYSCS 6,SAID A W,3.0,7.0,2.0,0.0,0.0,0.0,0.0,1.0,4.0,0.0,7.0,24
+Physical Science,PHYSCS,PHYSCS 7,PAIK S T,13.0,9.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,29
+Physical Science,PHYSCS,PHYSCS 8,HENDERSON J M,10.0,3.0,3.0,0.0,7.0,0.0,0.0,0.0,1.0,0.0,17.0,41
+Physical Science,PHYSCS,PHYSCS 9,KOCHARIAN A,11.0,12.0,5.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,36
+Physical Science,PHYSCS,PHYSCS 12,KAMAGA C N,4.0,6.0,5.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,5.0,24
+Physical Science,PHYSCS,PHYSCS 12,MURPHY T J,9.0,8.0,4.0,0.0,10.0,0.0,0.0,1.0,0.0,0.0,9.0,41
+Physical Science,PHYSCS,PHYSCS 14,DO M H,6.0,3.0,2.0,0.0,0.0,0.0,0.0,1.0,15.0,0.0,1.0,28
+Physical Science,PHYSCS,PHYSCS 14,KAMAGA C N,5.0,6.0,1.0,2.0,5.0,0.0,1.0,0.0,5.0,0.0,4.0,29
+Physical Science,PHYSCS,PHYSCS 14,SAID A W,4.0,4.0,6.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,6.0,23
+Physical Science,PHYSCS,PHYSCS 21,DANG T T,7.0,9.0,8.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,4.0,31
+Physical Science,PHYSCS,PHYSCS 21,FARIDIAN F,6.0,8.0,3.0,0.0,5.0,0.0,0.0,1.0,0.0,0.0,6.0,29
+Physical Science,PHYSCS,PHYSCS 21,FARIVAR D,8.0,7.0,2.0,0.0,4.0,0.0,0.0,0.0,2.0,0.0,6.0,29
+Physical Science,PHYSCS,PHYSCS 21,MENACHEKANIAN E,6.0,2.0,9.0,0.0,6.0,0.0,0.0,1.0,0.0,0.0,10.0,34
+Physical Science,PHYSCS,PHYSCS 21,ROJAS R R,3.0,3.0,4.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,13.0,27
+Physical Science,PHYSCS,PHYSCS 21,STROHMAIER K D,10.0,10.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,32
+Physical Science,PHYSCS,PHYSCS 22,ARABI M,6.0,12.0,10.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,37
+Physical Science,PHYSCS,PHYSCS 22,CHEUNG KW H,9.0,6.0,7.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,37
+Physical Science,PHYSCS,PHYSCS 22,MENACHEKANIAN E,7.0,10.0,7.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,5.0,34
+Physical Science,PHYSCS,PHYSCS 23,CARSON J,6.0,9.0,9.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,26
+Physical Science,PHYSCS,PHYSCS 23,FARIDIAN F,13.0,13.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,33
+Physical Science,PHYSCS,PHYSCS 23,MAJLESSI A,5.0,7.0,7.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,28
+Physical Science,PHYSCS,PHYSCS 24,MORRIS J J,3.0,2.0,3.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,11.0,23
+Physical Science,PHYSCS,PHYSCS 88B,ANDERSON JAMEY L,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Physical Science,SCI,SCI 10,COLLINS L E,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,14
+Physical Science,SCI,SCI 10,HAWK R,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,12
+Psychology,PSYCH,PSYCH 1,ANDERSON ST M,26.0,42.0,23.0,5.0,20.0,0.0,0.0,0.0,0.0,0.0,16.0,132
+Psychology,PSYCH,PSYCH 1,CHAMBERS C,19.0,26.0,24.0,10.0,28.0,0.0,1.0,0.0,0.0,2.0,11.0,121
+Psychology,PSYCH,PSYCH 1,CHIN D,16.0,16.0,25.0,8.0,13.0,0.0,1.0,0.0,0.0,0.0,9.0,88
+Psychology,PSYCH,PSYCH 1,CUE E N,23.0,37.0,16.0,8.0,16.0,0.0,0.0,0.0,0.0,0.0,26.0,126
+Psychology,PSYCH,PSYCH 1,DAVIS‐KING D T,29.0,19.0,13.0,10.0,13.0,0.0,0.0,0.0,0.0,0.0,30.0,114
+Psychology,PSYCH,PSYCH 1,DE LOACH C D,27.0,24.0,12.0,9.0,8.0,0.0,1.0,0.0,0.0,0.0,12.0,93
+Psychology,PSYCH,PSYCH 1,DE VILLERS L C,4.0,1.0,5.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,9.0,22
+Psychology,PSYCH,PSYCH 1,FARWELL L A,28.0,23.0,18.0,5.0,3.0,0.0,0.0,0.0,1.0,0.0,23.0,101
+Psychology,PSYCH,PSYCH 1,GUILD L A,12.0,19.0,13.0,7.0,11.0,0.0,1.0,1.0,0.0,0.0,17.0,81
+Psychology,PSYCH,PSYCH 1,HALD L A,90.0,29.0,24.0,6.0,6.0,0.0,0.0,0.0,1.0,0.0,9.0,165
+Psychology,PSYCH,PSYCH 1,O'LEARY B A,5.0,5.0,7.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,6.0,31
+Psychology,PSYCH,PSYCH 1,SCHWARTZ A F,12.0,24.0,29.0,6.0,4.0,0.0,1.0,0.0,0.0,0.0,22.0,98
+Psychology,PSYCH,PSYCH 1,SHIRINYAN D,8.0,11.0,8.0,4.0,9.0,0.0,0.0,0.0,0.0,0.0,8.0,48
+Psychology,PSYCH,PSYCH 1,SMITH‐CLARK C T,28.0,12.0,3.0,1.0,5.0,0.0,0.0,0.0,1.0,0.0,28.0,78
+Psychology,PSYCH,PSYCH 2,OLSON GENE C,13.0,11.0,28.0,11.0,9.0,0.0,0.0,1.0,1.0,0.0,38.0,112
+Psychology,PSYCH,PSYCH 2,RUSSELL R L,9.0,18.0,15.0,10.0,12.0,0.0,0.0,1.0,1.0,0.0,18.0,84
+Psychology,PSYCH,PSYCH 2,SAGE R,4.0,1.0,7.0,3.0,6.0,0.0,0.0,0.0,0.0,0.0,16.0,37
+Psychology,PSYCH,PSYCH 2,SHIRINYAN D,37.0,19.0,21.0,17.0,39.0,0.0,0.0,1.0,1.0,0.0,28.0,163
+Psychology,PSYCH,PSYCH 3,CHIN D,64.0,9.0,2.0,0.0,4.0,0.0,1.0,0.0,0.0,0.0,4.0,84
+Psychology,PSYCH,PSYCH 5,DE LOACH C D,21.0,12.0,5.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,43
+Psychology,PSYCH,PSYCH 6,GUILD L A,20.0,12.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,44
+Psychology,PSYCH,PSYCH 7,HALD L A,42.0,22.0,8.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,8.0,84
+Psychology,PSYCH,PSYCH 7,JANSSEN D P,6.0,12.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20
+Psychology,PSYCH,PSYCH 7,SMITH‐CLARK C T,13.0,13.0,5.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,6.0,40
+Psychology,PSYCH,PSYCH 8,DE LOACH C D,7.0,6.0,0.0,0.0,5.0,0.0,1.0,0.0,0.0,0.0,9.0,28
+Psychology,PSYCH,PSYCH 11,CUE E N,19.0,11.0,10.0,3.0,7.0,0.0,0.0,0.0,0.0,0.0,7.0,57
+Psychology,PSYCH,PSYCH 11,GRACE Y H,40.0,8.0,8.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,64
+Psychology,PSYCH,PSYCH 11,HUFF G F,31.0,8.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,45
+Psychology,PSYCH,PSYCH 11,JOACHIM S L,26.0,10.0,4.0,1.0,6.0,0.0,0.0,0.0,0.0,0.0,5.0,52
+Psychology,PSYCH,PSYCH 11,MATHESON C C,11.0,10.0,8.0,3.0,10.0,0.0,0.0,0.0,0.0,0.0,12.0,54
+Psychology,PSYCH,PSYCH 11,MILLER CA L,21.0,7.0,3.0,2.0,6.0,0.0,0.0,0.0,0.0,0.0,2.0,41
+Psychology,PSYCH,PSYCH 11,SCHWARTZ A F,10.0,12.0,7.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,6.0,42
+Psychology,PSYCH,PSYCH 13,FARWELL L A,22.0,20.0,18.0,1.0,8.0,0.0,0.0,1.0,0.0,0.0,19.0,89
+Psychology,PSYCH,PSYCH 14,O'LEARY B A,21.0,15.0,11.0,8.0,5.0,0.0,0.0,0.0,0.0,0.0,10.0,70
+Psychology,PSYCH,PSYCH 19,DAVISON L L,64.0,38.0,9.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,11.0,126
+Psychology,PSYCH,PSYCH 19,DRUKER S L,20.0,21.0,9.0,5.0,3.0,0.0,0.0,0.0,1.0,0.0,6.0,65
+Psychology,PSYCH,PSYCH 25,ANDERSON ST M,27.0,24.0,12.0,3.0,6.0,0.0,0.0,0.0,0.0,0.0,6.0,78
+Psychology,PSYCH,PSYCH 25,DE VILLERS L C,3.0,9.0,7.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,27
+Psychology,PSYCH,PSYCH 40,SCHWARTZ A F,14.0,4.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,12.0,36
+Theatre Arts,TH ART,TH ART 2,ADAIR‐LYNCH T A,32.0,2.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,40
+Theatre Arts,TH ART,TH ART 2,ANDERSON C B,15.0,4.0,3.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,1.0,29
+Theatre Arts,TH ART,TH ART 5,ADAIR‐LYNCH T A,46.0,5.0,3.0,5.0,4.0,0.0,0.0,1.0,1.0,0.0,4.0,69
+Theatre Arts,TH ART,TH ART 5,HARROP A M,20.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,29
+Theatre Arts,TH ART,TH ART 10A,ROBBINS C R,18.0,3.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,29
+Theatre Arts,TH ART,TH ART 13,ROBBINS C R,14.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0,25
+Theatre Arts,TH ART,TH ART 15,SAWOSKI P,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,21
+Theatre Arts,TH ART,TH ART 16,SAWOSKI P,16.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,21
+Theatre Arts,TH ART,TH ART 18A,ANZELC L L,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,10
+Theatre Arts,TH ART,TH ART 18B,ANZELC L L,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,13
+Theatre Arts,TH ART,TH ART 18C,ANZELC L L,8.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9
+Theatre Arts,TH ART,TH ART 20,ALLEN L A,13.0,7.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,25
+Theatre Arts,TH ART,TH ART 21,ANZELC L L,7.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,9
+Theatre Arts,TH ART,TH ART 22,ALLEN L A,8.0,3.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,17
+Theatre Arts,TH ART,TH ART 23,ALLEN L A,4.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,11
+Theatre Arts,TH ART,TH ART 25,FLOYD J M,5.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,11
+Theatre Arts,TH ART,TH ART 26,HLUDZIK E A,4.0,2.0,0.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,1.0,12
+Theatre Arts,TH ART,TH ART 28A,ADAIR‐LYNCH T A,28.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30
+Theatre Arts,TH ART,TH ART 31,ALLEN L A,7.0,3.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13
+Theatre Arts,TH ART,TH ART 38A,SAWOSKI P,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,17
+Theatre Arts,TH ART,TH ART 41,ADAIR‐LYNCH T A,57.0,5.0,1.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,7.0,75
+Theatre Arts,TH ART,TH ART 41,ESFANDYARI S,6.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,12
+Theatre Arts,TH ART,TH ART 41,HARROP A M,13.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,22
+Theatre Arts,TH ART,TH ART 41,SCHWARTZ D N,7.0,1.0,0.0,0.0,5.0,0.0,0.0,0.0,1.0,0.0,4.0,18
+Theatre Arts,TH ART,TH ART 42,HARROP A M,25.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,30
+Theatre Arts,TH ART,TH ART 42,SAWOSKI P,13.0,4.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,27
+Theatre Arts,TH ART,TH ART 45,MARTIN A F,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11
+Theatre Arts,TH ART,TH ART 46,MATTSSON M F,8.0,1.0,5.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,6.0,23
+Theatre Arts,TH ART,TH ART 50,ADAIR‐LYNCH T A,36.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,36
+Theatre Arts,TH ART,TH ART 51,ADAIR‐LYNCH T A,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5
+Theatre Arts,TH ART,TH ART 51,HARROP A M,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,11
+Theatre Arts,TH ART,TH ART 51,SAWOSKI P,23.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,24
+Theatre Arts,TH ART,TH ART 52,HARROP A M,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18
+Theatre Arts,TH ART,TH ART 55,SAWOSKI P,29.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,30
+Theatre Arts,TH ART,TH ART 88A,SAWOSKI P,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5
+Theatre Arts,TH ART,TH ART 88B,SAWOSKI P,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2
